@@ -1,4 +1,4 @@
-# <center>COURSE PROJECT</center>
+# COURSE PROJECT
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
@@ -50,4 +50,14 @@
     <strong>Marzo 2023</strong>
 </p>
 
+<br>
+
+# Registro de Versiones del Informe
+| Versión  | Fecha  | Autor  | Descripción de la modificación  |
+| ------------ | ------------ | ------------ | ------------ |
+| TB1  |   | Todos los integrantes del equipo  | .  |
+<br>
+
+# Project Report Collaboration Insights
+TB1:
 <br>
