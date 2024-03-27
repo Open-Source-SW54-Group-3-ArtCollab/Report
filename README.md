@@ -52,6 +52,7 @@
 
 <br>
 
+---
 # Registro de Versiones del Informe
 | Versión  | Fecha  | Autor  | Descripción de la modificación  |
 | ------------ | ------------ | ------------ | ------------ |
