@@ -36,8 +36,8 @@
             <td>U202213983</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Cuadros Rodriguez, Juan Alejandro</td>
+            <td>U20221A359</td>
         </tr>
          <tr>
             <td></td>
