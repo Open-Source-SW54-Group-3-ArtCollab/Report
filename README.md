@@ -40,7 +40,7 @@
             <td>U20221A359</td>
         </tr>
          <tr>
-            <td>Luna Capunay, Italo</td>
+            <td>Luna, Italo </td>
             <td></td>
         </tr>
           <tr>
