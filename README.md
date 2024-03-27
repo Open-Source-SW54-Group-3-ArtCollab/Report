@@ -40,7 +40,7 @@
             <td>U20221A359</td>
         </tr>
          <tr>
-            <td> Italo </td>
+            <td> Luna, Italo </td>
             <td></td>
         </tr>
           <tr>
