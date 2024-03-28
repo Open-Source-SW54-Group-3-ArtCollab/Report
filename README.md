@@ -36,12 +36,12 @@
             <td>U202213983</td>
         </tr>
         <tr>
-            <td>Luna Capuñay, Italo D'Alessandro</td>
-            <td>U202213375</td>
-        </tr>
-         <tr>
             <td>Cuadros Rodriguez, Juan Alejandro</td>
             <td>U20221A359</td>
+        </tr>
+         <tr>
+            <td>Luna, Italo </td>
+            <td></td>
         </tr>
           <tr>
             <td>Samira</td>
