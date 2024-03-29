@@ -1,4 +1,3 @@
----
 # Contenido 
 ## Tabla de contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
