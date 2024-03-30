@@ -39,6 +39,23 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Tienes algunas preferencias en cuanto a la plataforma o herramientas al escribir?
 10. ¿Es importante para ti la retroalimentación de otros escritores y/o lectores?
 
+**Preguntas Segmento 1: Dibujante**
+1. ¿Qué aplicación has usado anteriormente para promocionar tus ilustraciones?
+2. ¿Qué tan difícil te resulta encontrar un espacio para publicitar tus servicios?
+3. ¿Qué aspectos tienes o tendrías en cuenta al momento de aceptar comisiones a escritores que desean ilustrar sus libros? 
+4. ¿Qué tanto valoras la comunicación constante, el monto y la seguridad del pago que se te ofrece?
+5. ¿Qué tanto valoras si el libro que vas a ilustrar te llama la atención? 
+6. ¿Qué aspectos te parecen fundamentales para estar seguro de que vas a aceptar una comisión?
+7. ¿A qué herramientas online te gustaría tener acceso para estar en contacto con el escritor con el que trabajas? 
+8. ¿Te gustaría compartir borradores y comentarios en tiempo real sobre tu avance o que se pueda realizar un seguimiento al proyecto para estar al día con ello? ¿Qué otras ideas se te ocurren?
+9. ¿Qué te gustaría que hubiera en el perfil de ilustrador? 
+10. ¿Te sería útil poder tener una sección dónde puedas interactuar con los lectores de la app?
+11. ¿Qué nos recomendarías para que las historias nuevas o con pocos lectores tengan posibilidades de ser visualizadas dentro de la app?
+12. ¿Consideras que vale la pena pagar una suscripción para que tu perfil sea destacado en las búsquedas?
+13. ¿Te gustaría ilustrar de forma gratuita o te gustaría establecer un sistema de compensación?
+14. ¿Qué tipo de herramientas te gustaría ver?
+
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
