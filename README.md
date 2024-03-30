@@ -165,8 +165,9 @@ Estoy comprometido con este trabajo y el equipo.
 
 ## 1.2. Solution Profile
 Se encuentra compuesta por 2 secciones: 
-- Antecedentes y Problemática: Esta sección describe el problema que el proyecto tiene como objetivo resolver. En este se incluyen el enunciado del problema, una descripción de los puntos más importantes que debe resolver la solución, los objetivos y restricciones del proyecto. 
-- Propuesta de valor: Esta sección describe cómo la solución propuesta resolverá el problema. El proceso de comprender y definir el problema de manera completa, a la vez de la manera en que este será resuelto de manera detallada.
+- Antecedentes y Problemática: Esta sección describe el problema que el proyecto tiene como objetivo resolver. En este se incluyen el enunciado del problema, una descripción de los puntos más importantes que debe resolver la solución, los objetivos y restricciones del proyecto.
+ 
+- Lean UX Process: Esta sección aplica el Lean UX Process y describe de manera detallada cómo se resolverá el problema mediante el modelo de negocio. 
 
 ### 1.2.1. Antecedentes y problemática
 
