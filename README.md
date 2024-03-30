@@ -64,26 +64,26 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/italo-profile.jpg?raw=true" alt="Italo Luna Capuñay" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            .
+            Italo D'Alessandro Luna Capuñay
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        .
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        . 
+        Soy un estudiante apasionado de ingeniería de software con habilidades en C++, Flutter, Tailwind, HTML y CSS. Mi meta es seguir aprendiendo y mejorando constantemente en esta área en constante evolución. Soy responsable, creativo y adaptable, disfruto trabajando en equipo y colaborando eficazmente. Fuera del mundo de la programación, disfruto jugando al fútbol y pasando tiempo con amigos, valorando enormemente su apoyo e inspiración.
         </td>
     </tr>
     <tr align="center">
