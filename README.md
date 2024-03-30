@@ -134,4 +134,28 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
         .
         </td>
     </tr>
+    <tr align="center">
+        <td rowspan="3">
+                        <img src="" alt=""  style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        .
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        .
+        </td>
+    </tr>
 </table>
