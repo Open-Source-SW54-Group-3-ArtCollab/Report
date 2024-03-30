@@ -19,6 +19,7 @@ Es un sitio web de código abierto que ofrece un servicio de archivo gratuito pa
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
