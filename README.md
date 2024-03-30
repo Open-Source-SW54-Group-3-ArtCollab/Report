@@ -171,6 +171,9 @@ Se encuentra compuesta por 2 secciones:
 
 ### 1.2.1. Antecedentes y problemática
 #### Antecedentes:
-En los últimos años ha surgido una gran cantidad de plataformas para la difusión de historias escritas como libros y cómics. Sin embargo, estas no suelen brindar medios de apoyo a los artistas, los cuáles suelen recibir su sustento principal por medio de este tipo de trabajos. Por esa razón, nosotros mediante una aplicación web de lectura y difusión de libros digitales ilustrados pensamos más allá de fomentar la lectura en la población, poder ayudar a los artistas que consideramos parte de nuestros pilares.
+En los últimos años ha surgido una gran cantidad de plataformas para la difusión de historias escritas como libros y cómics. Un sector que se creía ya olvidado por la juventud, pero que actualmente cuenta con una gran cantidad de usuarios como es el caso de Wattpad con más de 70 millones de lectores mensuales y 565 millones de historias en línea (Incertis, 2023). Sin embargo, estas no suelen brindar medios de apoyo a los artistas (Han-sol, 2022). Los cuáles suelen recibir su sustento principal por medio de este tipo de trabajos (Codega, 2022). Por esa razón, nosotros mediante una aplicación web de lectura y difusión de libros digitales ilustrados pensamos más allá de fomentar la lectura en la población, poder ayudar a los artistas que consideramos parte de nuestros pilares.
+
+#### Problemática (5Ws y 2Hs)
+
 
 ### 1.2.2. Lean UX Process
