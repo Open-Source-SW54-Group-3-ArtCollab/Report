@@ -64,7 +64,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/italo-profile.jpg?raw=true" alt="Italo Luna Capuñay" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/italo-photo.jpg?raw=true" alt="Italo Luna Capuñay" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
