@@ -109,7 +109,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Mi nombre es Juan Alejandro Cuadros Rodriguez estoy cursando el quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Alicatadas. Soy una persona comprometida, responsable y proactiva.  Los conocimientos que tengo se basan en los lenguajes de programación C++, HTML, CSS y Python. Además, tengo conocimientos en Análisis de datos, vulnerabilidades y explotación de datos. 
+       Soy una persona comprometida, responsable y proactiva.  Los conocimientos que tengo se basan en los lenguajes de programación C++, HTML, CSS y Python. Además, tengo conocimientos en Análisis de datos, vulnerabilidades y explotación de datos. 
 Estoy comprometido con este trabajo y el equipo.
         </td>
     </tr>
