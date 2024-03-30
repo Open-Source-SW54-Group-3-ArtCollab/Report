@@ -39,7 +39,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Tienes algunas preferencias en cuanto a la plataforma o herramientas al escribir?
 10. ¿Es importante para ti la retroalimentación de otros escritores y/o lectores?
 
-**Preguntas Segmento 1: Dibujante**
+**Preguntas Segmento 2: Dibujante**
 1. ¿Qué aplicación has usado anteriormente para promocionar tus ilustraciones?
 2. ¿Qué tan difícil te resulta encontrar un espacio para publicitar tus servicios?
 3. ¿Qué aspectos tienes o tendrías en cuenta al momento de aceptar comisiones a escritores que desean ilustrar sus libros? 
@@ -54,6 +54,19 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 12. ¿Consideras que vale la pena pagar una suscripción para que tu perfil sea destacado en las búsquedas?
 13. ¿Te gustaría ilustrar de forma gratuita o te gustaría establecer un sistema de compensación?
 14. ¿Qué tipo de herramientas te gustaría ver?
+
+**Preguntas Segmento 1: Lector**
+1. ¿Cuáles son los elementos específicos que consideras más influyentes al momento de elegir un libro para leer? 
+2. ¿Tienes en cuenta el renombre del escritor, si las ilustraciones son llamativas para ti o si el resumen de la trama te resulta atractiva? ¿Tienes en cuenta algún otro elemento en específico?
+3. ¿Con cuánta frecuencia usas aplicaciones para leer libros?
+4. ¿Qué funciones te gustaría encontrar en una app de lectura de libros ilustrados? 
+5. ¿Hay alguna función que ya exista en otro aplicativo que no te gustaría que estuviera presente? Si es así, ¿cuál es?
+6. ¿Qué nos recomendarías añadir al aplicativo para que los lectores tengan más cercanía con los escritores e ilustradores? 
+7. ¿Qué tipo de beneficios consideras importantes incluir dentro de un plan premium? ¿Estarías dispuesto a pagar por ello?
+8. ¿Qué funciones consideras innovadoras? 
+9. ¿Estarías dispuesto a ser un usuario concurrente de nuestra plataforma? Si es así, Explícanos el motivo.
+10. ¿Con cuánta frecuencia lees las reseñas de los libros para decidir adquirirlos?
+11. ¿Con cuánta frecuencia dejas reseñas en los libros que lees online?
 
 
 ### 2.2.2. Registro de entrevistas
