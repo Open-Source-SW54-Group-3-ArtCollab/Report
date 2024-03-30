@@ -5,6 +5,10 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
 1. **Wattpad:**
 Es una plataforma en línea donde los usuarios pueden publicar, leer y compartir historias escritas por ellos mismos. Es especialmente popular entre los jóvenes y los aficionados a la escritura, ya que ofrece una amplia gama de géneros y estilos literarios.
 
+<div style="text-align: center;">
+                <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/logo-wattpad.png?raw=true" alt="Wattpad" style="max-width: 400px; width: 25%;">
+</div>
+
 1. **Webtoons:**
 Es una plataforma digital que permite a los usuarios leer cómics en línea de forma gratuita o a través de suscripciones. Se caracteriza por presentar los cómics en un formato de desplazamiento vertical, lo que facilita la lectura en dispositivos móviles.
 
