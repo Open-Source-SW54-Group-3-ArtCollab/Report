@@ -20,6 +20,13 @@ Es un sitio web de código abierto que ofrece un servicio de archivo gratuito pa
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas generales:**
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
