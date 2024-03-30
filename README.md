@@ -1,5 +1,7 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
+Sección donde presentamos al Startup y a los miembros que la conforman.
+### 1.1.1. Descripción de la Startup
 Nuestra startup surge del notorio negocio creciente de plataformas para compartir obras escritas en formatos digitales tales como libros y cómics. 
 
 Sin embargo, logramos notar que un sector que no ha sido abarcado son los libros ilustrados, por lo que buscamos crear un aplicativo web que sirva como medio para difundir este tipo de obras.
