@@ -27,6 +27,18 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 3. ¿Dónde vives actualmente?
 4. ¿A qué te dedicas?
 
+**Preguntas Segmento 1: Escritor**
+1. ¿Como escritor qué es lo que buscas en una plataforma de lectura en línea?
+2. ¿Cómo te gustaría que los autores obtuvieron ganancias por sus obras publicadas en la app?
+3. Como escritor, ¿Qué opciones de interacción tú consideras más relevantes al momento de tener contacto con un ilustrador?
+4. ¿Como escritor qué opciones consideras favorables para facilitar el alcance de lectores en tus obras?
+5. ¿Qué tipo de servicios te gustaría ofrecer a tus lectores al momento de publicitar tus libros?
+6. ¿Cómo te beneficia añadir ilustraciones a tus libros?
+7. ¿Cómo das a conocer tus libros actualmente?
+8. ¿Qué aplicaciones has usado relacionadas con la escritura y cómo te han beneficiado ?
+9. ¿Tienes algunas preferencias en cuanto a la plataforma o herramientas al escribir?
+10. ¿Es importante para ti la retroalimentación de otros escritores y/o lectores?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
