@@ -170,5 +170,7 @@ Se encuentra compuesta por 2 secciones:
 - Lean UX Process: Esta sección aplica el Lean UX Process y describe de manera detallada cómo se resolverá el problema mediante el modelo de negocio. 
 
 ### 1.2.1. Antecedentes y problemática
+#### Antecedentes:
+En los últimos años ha surgido una gran cantidad de plataformas para la difusión de historias escritas como libros y cómics. Sin embargo, estas no suelen brindar medios de apoyo a los artistas, los cuáles suelen recibir su sustento principal por medio de este tipo de trabajos. Por esa razón, nosotros mediante una aplicación web de lectura y difusión de libros digitales ilustrados pensamos más allá de fomentar la lectura en la población, poder ayudar a los artistas que consideramos parte de nuestros pilares.
 
 ### 1.2.2. Lean UX Process
