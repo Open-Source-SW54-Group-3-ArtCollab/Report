@@ -12,14 +12,14 @@ Es una plataforma en línea donde los usuarios pueden publicar, leer y compartir
 Es una plataforma digital que permite a los usuarios leer y publicar cómics en línea. Permite visualizar los cómics de manera gratuita o a través de micropagos. Se caracteriza por presentar los cómics en un formato de desplazamiento vertical, lo que facilita la lectura en dispositivos móviles. Asimismo, cuenta con una tienda online para sus autores originales, en la cual pueden vender mercancía relacionada a sus personajes.
 
 <div style="text-align: center;">
-                <img src="" alt="Webtoon" style="max-width: 400px; width: 25%;">
+                <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/logo-webtoons.png?raw=true" alt="Webtoon" style="max-width: 400px; width: 25%;">
 </div>
 
 3. **Tapas :**
 Es una plataforma donde publicar novelas y cómics de manera digital. Permite visualizar los cómics de manera gratuita o a través de micropagos, los últimos también con la opción de ser brindados como apoyo al autor de parte de los lectores. Además, posee una tienda digital donde los creadores de contenido pueden subir su mercancía para ser adquirida por el publico
 
 <div style="text-align: center;">
-                <img src="" alt="Tapas" style="max-width: 400px; width: 25%;">
+                <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/logo-tapas.jpeg?raw=true" alt="Tapas" style="max-width: 400px; width: 25%;">
 </div>
 
 ### 2.1.1. Análisis competitivo
@@ -50,8 +50,8 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Webtoon
-      <div style="text-align: center; margin-top: 20px;">
-                <img src="" alt="Webtoon" width="60px">
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/logo-webtoons.png?raw=true" alt="Webtoon" width="60px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
