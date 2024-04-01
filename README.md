@@ -49,7 +49,7 @@
      <tr>
         <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary </td>
         <td> En este sprint se espera implementar el landing page
-        con las secciones de login de inicio, hero y secciones de orientacion para el usuario, como por ejemplo footer y trending topics. Al finalizar este sprint la pagina web debe estar desplegado en Netfly y cualquier usuario deberia poder acceder y visualizar la pagina a traves de un link <td>
+        con las secciones de login de inicio, hero y secciones de orientacion para el usuario, como por ejemplo footer y trending topics. Al finalizar este sprint la pagina web debe estar desplegado en Netlifly y cualquier usuario deberia poder acceder y visualizar la pagina a traves de un link <td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
@@ -76,6 +76,17 @@
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
+
+<p> A continuacion se evidenciara la implementacion parcial del landing page en codigo, con el uso de  HTML, CSS and JavaScript y el uso del framework de Tailwind.css y la libreria de Alpine.js </p>
+
+
+<div style="text-align: center; padding-top:10px;">
+   <strong > Login en version desktop </strong>
+   <img style="padding-top:1rem" src="./assets/Login-Desktop.png"/>
+   <strong > Login en version mobile </strong>
+   <img style="padding-top:1rem" src="./assets/Login-Mobile.png"/>
+</div>
+
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review.
 
