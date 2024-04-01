@@ -23,7 +23,7 @@
         <th> Sprint 1 </th>
      </tr>
      <tr> 
-        <td style="font-weight: bold;"> Sprint Planing Background</td>
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Date </td>
@@ -52,7 +52,7 @@
         con las secciones de login de inicio, hero y secciones de orientacion para el usuario, como por ejemplo footer y trending topics. Al finalizar este sprint la pagina web debe estar desplegado en Netfly y cualquier usuario deberia poder acceder y visualizar la pagina a traves de un link <td>
      </tr>
      <tr> 
-        <td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
