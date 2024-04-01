@@ -44,7 +44,7 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Wattpad
-    <div style="text-align: center; margin-top: 20px;">
+    <div style="text-align: center; margin-top: 30px;">
                 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/logo-wattpad.png?raw=true" alt="Wattpad" width="60px">
         </div>
     </td>
@@ -67,7 +67,7 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
     <td colspan="1" valign="top">.</td>
     <td colspan="1" valign="top">Plataforma que permite la lectura y difusión de historias online. Posee autores tanto contratados como libres que publican sus historias a tráves de ella.</td>
     <td colspan="1" valign="top">Aplicativo para la lectura y publicación de cómics digitales en el formato vertical. Posee autores tanto contratados como libres que publican sus historias por medio de ella, ambos teniendo la opción de generar ingresos. </td>
-    <td colspan="1" valign="top">Aplicación que permite la publicación y lectura de historias y cómics online. Posee autores contratados y libres  ambos teniendo la opción de generar ingresos, estos últimos .</td>
+    <td colspan="1" valign="top">Aplicación que permite la publicación y lectura de historias y cómics online. Posee autores contratados y libres  ambos teniendo la opción de generar ingresos.</td>
   </tr>
   <tr>
     <td colspan="2">Ventaja competitiva</td>
