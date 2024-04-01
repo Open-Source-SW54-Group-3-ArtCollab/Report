@@ -67,7 +67,7 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
     <td colspan="1" valign="top">.</td>
     <td colspan="1" valign="top">Plataforma que permite la lectura y difusión de historias online. Posee autores tanto contratados como libres que publican sus historias a tráves de ella.</td>
     <td colspan="1" valign="top">Aplicativo para la lectura y publicación de cómics digitales en el formato vertical. Posee autores tanto contratados como libres que publican sus historias por medio de ella, ambos teniendo la opción de generar ingresos. </td>
-    <td colspan="1" valign="top">Aplicación que permite la publicación y lectura de historias y cómics online. Posee autores contratados y libres  ambos teniendo la opción de generar ingresos.</td>
+    <td colspan="1" valign="top">Aplicación que permite la publicación y lectura de historias y cómics online. Posee autores contratados y libres  ambos teniendo la opción de generar ingresos y de publicar la mercancía de sus historias a través de la tienda online.</td>
   </tr>
   <tr>
     <td colspan="2">Ventaja competitiva</td>
