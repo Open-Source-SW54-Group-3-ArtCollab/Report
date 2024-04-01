@@ -146,6 +146,7 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
     <td colspan="1" valign="top">El no ser una plataforma tan internacional puede llevar a grandes desventajas.</td>
   </tr>
 </table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
