@@ -80,11 +80,14 @@
 <p> A continuacion se evidenciara la implementacion parcial del landing page en codigo, con el uso de  HTML, CSS and JavaScript y el uso del framework de Tailwind.css y la libreria de Alpine.js </p>
 
 
-<div style="text-align: center; padding-top:10px;">
-   <strong > Login en version desktop </strong>
-   <img style="padding-top:1rem" src="./assets/Login-Desktop.png"/>
-   <strong > Login en version mobile </strong>
-   <img style="padding-top:1rem" src="./assets/Login-Mobile.png"/>
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+   <h4> Login en version desktop </h4>
+   <img style="width:500px" src="./assets/Login-Desktop.png"/>
+</div>
+
+<div style="display:flex; justify-conten:center; flex-direction:column; align-items:center; gap:1rem;">
+    <h4 style=" padding-top:10px;" > Login en version mobile </h4>
+   <img style=" width:200px" src="./assets/Login-Mobile.png"/>
 </div>
 
 
