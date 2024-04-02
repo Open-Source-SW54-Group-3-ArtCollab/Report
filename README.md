@@ -139,26 +139,26 @@ Estoy comprometido con este trabajo y el equipo.
     </tr>
     <tr align="center">
         <td rowspan="3">
-                        <img src="" alt=""  style="margin-bottom: 5px;" width="600"/>
+                        <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Samira-Alvarez-photo.jpeg" alt=""  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            .
+            Samira Jetzabel Alvarez Araguache
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        .
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        .
+        Soy una estudiante de ingeniería de software con experiencia en los lenguajes de programación C++, C# y JavaScript. Soy una persona comunicativa, capaz de trabajar eficazmente con mi equipo y con habilidades para liderar y gestionar proyectos. En mis tiempos libres leo, practico fútbol y juego videojuegos con amigos.
         </td>
     </tr>
 </table>
