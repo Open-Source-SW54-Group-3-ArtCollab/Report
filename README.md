@@ -5,6 +5,12 @@
 <hr>
 
 ### 4.1.1. General Style Guidelines.
+### Brand Name
+El nombre del producto es ArtCollab, el cual cuenta con el siguiente logo:
+<div style="text-align: center;">
+                <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/logo-artcollab.jpeg?raw=true" alt="ArtCollab" style="max-width: 400px; width: 25%;">
+</div>
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 <hr>
