@@ -44,7 +44,7 @@ Es una plataforma donde publicar novelas y cómics de manera digital. Permite vi
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Wattpad
-    <div style="text-align: center; margin-top: 30px;">
+    <div style="text-align: center; margin-top: 60px;">
                 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/logo-wattpad.png?raw=true" alt="Wattpad" width="60px">
         </div>
     </td>
