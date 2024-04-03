@@ -38,6 +38,21 @@ Gama de colores elegida que va acorde al logo:
 
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
 
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.3. Web Applications Mock-ups
+
+#### Mock-up de la página principal
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Generos.png?raw=true" alt="Web App Desktop Generos">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Populares.png?raw=true" alt="Web App Desktop Populares">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Monetizacion.png?raw=true" alt="Web App Desktop artistas monetización">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Artistas.png?raw=true" alt="Web App Desktop Artistas">
+
+Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
+
 ## 4.5. Web Applications Prototyping.
 <hr>
 
