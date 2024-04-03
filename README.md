@@ -53,6 +53,13 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 
 Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1 Web Applications Wireframes.
+### 4.4.2.Web Applications Wireflow Diagrams.
+### 4.4.3 Web Applications Mock-ups.
+### 4.4.4 Web Applications User Flow Diagrams.
+
+
 ## 4.5. Web Applications Prototyping.
 <hr>
 
@@ -62,3 +69,33 @@ Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9z
 ### 4.6.1. Software Architecture Context Diagram.
 ### 4.6.2. Software Architecture Container Diagram.
 ### 4.6.3. Software Architecture Component Diagram.
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+
+User Bounded Context
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab_UserContext.png?raw=true" alt="User Bounded Context Class Diagram">
+
+Content Bounded Context
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab-Content-Context.png?raw=true" alt="Content Bounded Context Class Diagram">
+
+Collaboration Bounded Context
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab-colaboration-context.png?raw=true" alt="Collaboration Bounded Context Class Diagram">
+
+Monetization Bounded Context
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/fd4f4679a05d29400210de66003a7640041f480b/assets/Class%20Diagrams/ArtCollab-monetization-context.png?raw=true" alt="Monetization Bounded Context Class Diagram">
+
+### 4.7.2. Class Dictionary
+<hr>
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
+<div style="display:flex; justify-content:center; flex-direction:column; text-align:center">
+   <p>A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.</p>
+   <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/data-base-design/ArtCollab_DataBase.png " alt="ArtCollab Database Model"> 
+</div>
