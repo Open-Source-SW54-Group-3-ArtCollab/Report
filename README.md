@@ -43,6 +43,7 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 
+### Mock-ups versión Desktop:
 #### Mock-up de la página principal
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
 
