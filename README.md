@@ -45,10 +45,20 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 
 #### Mock-up de la página principal
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
+
+#### Mock-up de la sección Géneros
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Generos.png?raw=true" alt="Web App Desktop Generos">
+
+#### Mock-up de la sección Populares
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Populares.png?raw=true" alt="Web App Desktop Populares">
+
+#### Mock-up de la sección Suscripciones
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
+
+#### Mock-up de la sección Monetización
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Monetizacion.png?raw=true" alt="Web App Desktop artistas monetización">
+
+#### Mock-up de la sección Artistas
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Artistas.png?raw=true" alt="Web App Desktop Artistas">
 
 Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
