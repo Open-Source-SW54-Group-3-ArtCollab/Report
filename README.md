@@ -85,10 +85,6 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 
 Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
-## 4.4. Web Applications UX/UI Design.
-### 4.4.1 Web Applications Wireframes.
-### 4.4.2.Web Applications Wireflow Diagrams.
-### 4.4.3 Web Applications Mock-ups.
 ### 4.4.4 Web Applications User Flow Diagrams.
 
 
