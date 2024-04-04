@@ -87,6 +87,14 @@ Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9z
 
 ### 4.4.4 Web Applications User Flow Diagrams.
 
+Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/3042a7f1-cfbd-49ad-bb1d-7d5b1e8f9c67/edit?viewport_loc=248%2C38%2C5260%2C2976%2C0_0&invitationId=inv_faedf934-db22-495f-9b16-9d38cb444726
+
+
+<h4> User goal: Inicio de Sesion </h4>
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Wireflow-Diagrams/InicioSesion.png"/>
+
+
+
 
 ## 4.5. Web Applications Prototyping.
 <hr>
