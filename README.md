@@ -93,6 +93,10 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 <h4> User goal: Inicio de Sesion </h4>
 <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Wireflow-Diagrams/InicioSesion.png"/>
 
+<h4> User goal: Editar Libros </h4>
+
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Wireflow-Diagrams/EditarLibro.png"/>
+
 
 
 
