@@ -322,6 +322,35 @@ Sobre los beneficios de un plan premium, nos comenta que considera importante in
 Finalmente, nos comenta que estaría dispuesto a ser un usuario concurrente de nuestra plataforma, ya que le parece interesante la propuesta y le gustaría tener acceso a contenido exclusivo de artistas emergentes.
 
 
+**Entrevista 3:**
+
+Nombres: Mauricio
+
+Apellidos: Rivo Rojas
+
+Edad: 22 años
+
+Lugar de residencia: San Miguel, Lima Perú
+
+Evidencia de la entrevista:
+ <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png"/>
+
+ Enlace de entrevista: https://drive.google.com/file/d/1ccKlZeyxxI_kUGiclffEoAk6drr7LKo_/view?usp=sharing
+
+ Se entrevisto a Mauricio,un joven de 22 años que actualmente se encuentra estudiando la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas en la ciudad de Lima.
+
+ Actualmente, Mauricio consume contenido literario de diferentes categorias, nos comenta que su pasion mayormente es sobre las obras literarias referidas a los comics de fantasia y accion como Marvel o Star Wars.
+
+ Nos comenta que para el es vital la interfaz y los sistemas de navegacion en una plataforma digital, pues en su opinion es uno de los aspectos mayormente considerados al momento de decidir sobre una plataforma u otra.
+
+ Adicionalmente, nos comenta que otros aspectos importantes para el se basan sobre la variedad de obras que podria ofrecer una plataforma, dentro de los cuales el espera visualizar los libros segun categorias como tambien por recomendaciones.
+
+ Sobre nuestra propuesta, nos comenta que le parece interesante una plataforma donde diferentes escritores puedan emitir su propio feedback a otros usuarios, ademas tambien resalta que para el el sistema de suscripcion premium ofrece beneficios considerables para el usuario. 
+
+ Finalmente, nos comenta que estaria dispuesto a ser un usuario concurrente de nuestra plataforma solo si esta cuenta con una interfaz intuitiva y versatil, tambien si cuenta con una gran variedad de obras por ofrecer a sus usuarios.
+
+
+
 ### 2.2.3 Análisis de entrevistas.
 
 
