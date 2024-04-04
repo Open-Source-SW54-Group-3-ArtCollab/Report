@@ -103,8 +103,34 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 <hr>
 
 ### 4.6.1. Software Architecture Context Diagram.
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/context-diagram.png?raw=true" alt="ArtCollab Context Diagram">
+
 ### 4.6.2. Software Architecture Container Diagram.
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/container-diagram.png?raw=true" alt="ArtCollab Container Diagram">
+
 ### 4.6.3. Software Architecture Component Diagram.
+
+API Rest Component Diagram:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/api-rest-component-diagram.png?raw=true" alt="API Rest Component Diagram">
+
+User Bounded Context Component Diagram:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/userbc-component-diagram.png?raw=true" alt="User BC Component Diagram">
+
+Content Bounded Context Component Diagram:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/contentbc-component-diagram.png?raw=true" alt="Content BC Component Diagram">
+
+Collaboration Bounded Context Component Diagram:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/collaborationbc-component-diagram.png?raw=true" alt="Collaboration BC Component Diagram">
+
+Monetization Bounded Context Component Diagram:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/monetizationbc-component-diagram.png?raw=true" alt="Monetization BC Component Diagram">
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
