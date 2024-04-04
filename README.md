@@ -171,9 +171,16 @@ Se encuentra compuesta por 2 secciones:
 
 ### 1.2.1. Antecedentes y problemática
 ### Antecedentes:
-En los últimos años ha surgido una gran cantidad de plataformas para la difusión de historias escritas como libros y cómics. Un sector que se creía ya olvidado por la juventud, pero que actualmente cuenta con una gran cantidad de usuarios como es el caso de Wattpad con más de 70 millones de lectores mensuales y 565 millones de historias en línea (Incertis, 2023). Sin embargo, estas no suelen brindar medios de apoyo a los artistas (Han-sol, 2022). Los cuáles suelen recibir su sustento principal por medio de este tipo de trabajos (Codega, 2022). 
+La revolución digital ha transformado la manera en que consumimos y compartimos historias, dando vida a comunidades vibrantes de lectores y escritores. Plataformas como Wattpad han demostrado que, lejos de abandonar la lectura, los jóvenes han encontrado en la tecnología un nuevo medio para sumergirse en mundos de ficción y realidad, con más de 70 millones de lectores mensuales y 565 millones de historias en línea (Incertis, 2023). Este fenómeno ha desmentido el mito de que la juventud ha dejado de leer, revelando en cambio un apetito insaciable por las narrativas que resuenan con sus experiencias y aspiraciones.
 
-Por esa razón, nosotros mediante una aplicación web de lectura y difusión de libros digitales ilustrados pensamos más allá de fomentar la lectura en la población, poder ayudar a los artistas que consideramos parte de nuestros pilares.
+Sin embargo, el éxito de estas plataformas no siempre se traduce en un apoyo equitativo para los creadores. La controversia reciente en torno a la campaña publicitaria de Webtoon, que minimizaba el trabajo de los artistas al calificarlo como un “side-hustle” o trabajo secundario, puso de manifiesto la lucha constante de los artistas por obtener reconocimiento y remuneración justa por su labor2. La respuesta de la comunidad, utilizando el hashtag #notasidehustle, subrayó la dedicación y el esfuerzo que implica la autopublicación de cómics, una tarea que a menudo excede las 80 horas semanales (Codega, 2022).
+
+Además, la trágica muerte de un joven artista de webtoon en Corea ha llamado la atención sobre las condiciones laborales extremadamente duras que enfrentan muchos creadores de cómics en línea3. La presión para producir hasta 100 viñetas semanales para series populares como “Solo Leveling” ha llevado a cuestionar la sostenibilidad de la industria y la necesidad de proteger los derechos y la salud de los artistas (Han-sol, 2022).
+
+En este contexto, nuestra aplicación web busca no solo promover la lectura entre la población, sino también ofrecer un espacio de apoyo y valorización para los artistas gráficos. Nuestro objetivo es crear un ecosistema donde los creadores puedan compartir sus obras ilustradas digitales con una audiencia global, al tiempo que reciben el reconocimiento y la compensación que merecen. Aspiramos a ser un faro de innovación y justicia en el panorama digital, donde cada historia contada y cada imagen creada sean celebradas como las expresiones artísticas valiosas que son.
+
+Con la implementación de herramientas de monetización justa y transparente, y la promoción de un diálogo abierto entre plataformas, proveedores de contenido y artistas, buscamos liderar el cambio hacia un futuro más brillante y equitativo para todos los que forman parte de la comunidad creativa. Porque en el corazón de cada libro digital ilustrado, hay una historia de pasión, perseverancia y el poder transformador del arte.
+
 
 ### Problemática (5Ws y 2Hs)
 #### What/Qué
