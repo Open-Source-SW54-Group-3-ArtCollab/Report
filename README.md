@@ -44,22 +44,22 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 ### 4.4.3. Web Applications Mock-ups
 
 ### Mock-ups versión Desktop:
-#### Mock-up de la página principal
+#### Mock-ups de la página principal
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
 
-#### Mock-up de la sección Géneros
+#### Mock-ups de la sección Géneros
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Generos.png?raw=true" alt="Web App Desktop Generos">
 
-#### Mock-up de la sección Populares
+#### Mock-ups de la sección Populares
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Populares.png?raw=true" alt="Web App Desktop Populares">
 
-#### Mock-up de la sección Suscripciones
+#### Mock-ups de la sección Suscripciones
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
 
-#### Mock-up de la sección Monetización
+#### Mock-ups de la sección Monetización
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Monetizacion.png?raw=true" alt="Web App Desktop artistas monetización">
 
-#### Mock-up de la sección Artistas
+#### Mock-ups de la sección Artistas
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Artistas.png?raw=true" alt="Web App Desktop Artistas">
 
 #### Mock-ups de la sección inicio de sesión
