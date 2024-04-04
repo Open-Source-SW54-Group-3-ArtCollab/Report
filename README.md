@@ -44,8 +44,8 @@
             <td>U20221A359</td>
         </tr>
           <tr>
-            <td> Alavarez, Samira</td>
-            <td></td>
+            <td>Alvarez Araguache, Samira Jetzabel</td>
+            <td>U20211A046</td>
         </tr>
     </table>
 </div>
