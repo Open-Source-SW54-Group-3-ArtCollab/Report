@@ -355,11 +355,13 @@ Evidencia de la entrevista:
 
 
 ### 2.2.3 Análisis de entrevistas.
-
-
-
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+**Segmento escritor:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-personas/Luz.png?raw=true" alt="Segmento 1 user persona">
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
