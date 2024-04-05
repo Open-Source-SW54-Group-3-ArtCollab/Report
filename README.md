@@ -279,7 +279,7 @@ Lugar de residencia: Lima, Perú
 
 Evidencia de la entrevista:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/b14214d557f98c57f6dc4f514dbbeac920b8cd99/assets/images/entrevistas/entrevista01-lector.png?raw=true" alt="Entrevista 01 Segmento escritor">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/b14214d557f98c57f6dc4f514dbbeac920b8cd99/assets/images/entrevistas/entrevista01-lector.png?raw=true" alt="Entrevista 01 Segmento lector">
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ETB6yD2rSCRFsdZKlUTRPakBLUXQpJ8vavxhSuXV17gDGg?e=Z6JH4K
 
@@ -297,6 +297,33 @@ Sobre los beneficios de un plan premium, nos comenta que considera importante in
 
 Finalmente, nos comenta que estaría dispuesto a ser un usuario concurrente de nuestra plataforma, ya que le parece interesante la propuesta y le gustaría tener acceso a contenido exclusivo de artistas emergentes.
 
+**Entrevista 2:**
+
+Nombres: Renzo
+
+Apellidos: Córdova Tórres
+
+Edad: 29 años
+
+Lugar de residencia: La Victoria, Lima
+
+Evidencia de la entrevista:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Italo/entrevista-renzo.png?raw=true" alt="Entrevista 02 Segmento lector">
+
+Enlace de entrevista: https://youtu.be/YdPrX84v5c4
+
+Resumen de la entrevista:
+
+Se entrevistó a Renzo, un joven de 29 años que ejerce como abogado y reside en La Victoria, Lima.
+
+Renzo es un ávido consumidor de contenido literario, disfruta de la lectura y ha explorado una amplia variedad de géneros. Su formación en derecho refleja su pasión por la lectura y el análisis de textos.
+
+Al elegir un libro, Renzo otorga gran importancia al autor, considerándolo un factor determinante junto con el contenido. Además, tiene la costumbre de dejar reseñas en libros en línea, aunque prefiere ver reseñas en formato de video en lugar de leerlas.
+
+En cuanto a la propuesta, Renzo expresa su interés en toparse con contenido culto y de excelente calidad artística. Opina que una suscripción para lectores no sería necesaria y sugiere que podría reservarse para escritores o ilustradores. Está dispuesto a ser un usuario activo de la plataforma, siempre y cuando la aplicación satisfaga sus expectativas y le brinde el tipo de contenido que busca.
+
+Finalmente, la entrevista proporcionó información valiosa que será tomada en cuenta por el equipo de trabajo para mejorar el proyecto y ofrecer una experiencia satisfactoria a los usuarios.
 
 **Entrevista 3:**
 
