@@ -89,7 +89,7 @@ obras</th>
 colaborar</p>
 <p>Entonces ambos escritores tendrán acceso a una obra elegida o
 creada.</p></th>
-<th>3</th>
+<th>2</th>
 </tr>
 <tr class="odd">
 <th>E3-US05</th>
@@ -108,7 +108,7 @@ ilustradores</p>
 <p>Dado que ambos llegaron a un acuerdo</p>
 <p>Cuando le den clic al botón acuerdo en el chat</p>
 <p>Entonces elegirás que obra poder darle acceso</p></th>
-<th>3</th>
+<th>2</th>
 </tr>
 <tr class="header">
 <th>E4-US06</th>
@@ -129,7 +129,7 @@ monedas</p>
 <p>Cuando le clic en una obra específica y en destacar</p>
 <p>Entonces se le mostrará un monto y por cuánto tiempo se destacó la
 obra</p></th>
-<th>4</th>
+<th>3</th>
 </tr>
 <tr class="odd">
 <th>E4-US07</th>
@@ -150,7 +150,7 @@ obra</p></th>
 <p>Entonces se le mostrará un mensaje de bienvenida donde recibirá un
 50% de ingreso neto por los anuncios mostrados cuando leen la
 obra</p></th>
-<th>4</th>
+<th>3</th>
 </tr>
 <tr class="header">
 <th>E6-US08</th>
@@ -166,7 +166,7 @@ externa</p>
 <p>Dado que el ilustrador terminó sus ilustraciones pendientes</p>
 <p>Cuando le comente a su colaborador (Escritor)</p>
 <p>Entonces se le pagará por un medio externo</p></th>
-<th>6</th>
+<th>5</th>
 </tr>
 <tr class="odd">
 <th>E1-US09</th>
@@ -202,7 +202,7 @@ plataforma</th>
 <p>Cuando vaya al libro a desbloquear los nuevos capítulos cuando le de
 clic en desbloquear</p>
 <p>Entonces se le desbloqueara el capítulo</p></th>
-<th>5</th>
+<th>4</th>
 </tr>
 <tr class="odd">
 <th>E5-US11</th>
@@ -217,7 +217,7 @@ feedback</th>
 <p>Dado que el usuario se encuentra en el libro seleccionado</p>
 <p>Cuando le de clic en el apartado de “dejar comentarios”</p>
 <p>Entonces podrá escribir su comentario y publicarlo</p></th>
-<th>5</th>
+<th>4</th>
 </tr>
 <tr class="header">
 <th>E6-US12</th>
@@ -238,7 +238,7 @@ creativa</p>
 <p>Cuando le den clic a preferencias</p>
 <p>Entonces podrán visualizar tu preferencia por la flexibilidad
 creativa</p></th>
-<th>6</th>
+<th>5</th>
 </tr>
 <tr class="odd">
 <th>E1-US13</th>
