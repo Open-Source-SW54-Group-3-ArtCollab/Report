@@ -449,4 +449,58 @@ Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede
 	</TR>
 </TABLE>
 
+## 1.3. Segmentos Objetivo
+<TABLE BORDER>
+	<TR>
+		<TD>
+
+**Tipo de usuario**</TD> <TD>
+
+**Geográfico** </TD> <TD>
+
+**Psicográfico**</TD> <TD>
+
+**Demográfico**</TD>
+</TR>
+	<TR>
+		<TD>Escritor</TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
+        <TD>
+
+- Apasionado por la escritura y la narrativa. 
+- Creativo y curioso. 
+- Busca expresarse y comunicar ideas.   
+</TD> 
+<TD>
+
+- Edad: Varía ampliamente, desde jóvenes hasta adultos mayores. 
+- Educación: Diversa, desde autodidactas hasta titulados en literatura o escritura creativa. 
+</TD>
+	</TR>
+    <TR>
+		<TD>Ilustrador</TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
+        <TD>
+
+- Creativo y visualmente orientado. 
+- Apasionado por el arte y la expresión gráfica. 
+</TD> <TD>
+
+- Edad: Diversa, desde jóvenes talentosos hasta artistas experimentados. 
+- Educación: Puede variar, desde autodidactas hasta graduados en bellas artes o diseño.
+</TD>
+	</TR>
+    <TR>
+		<TD>Lector </TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
+        <TD>
+        
+- Amante de la lectura y la imaginación. 
+- Busca entretenimiento, conocimiento o escapismo. 
+- Puede tener preferencias específicas de género literario.
+</TD> <TD>
+
+- Edad: Diversa, desde niños hasta adultos mayores. 
+- Educación: Varía, desde personas con educación básica hasta titulados universitarios.
+</TD>
+	</TR>
+</TABLE>
+
 ---
