@@ -653,5 +653,9 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/empathy-mapping/Luz%20Huilca.png?raw=true" alt="Segmento escritor">
 
+**Segmento ilustrador:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/empathy-mapping/Alexandra%20Guizazola.png?raw=true" alt="Segmento ilustrador">
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
