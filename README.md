@@ -24,7 +24,7 @@
 <tr class="odd">
 <th>E1-US01</th>
 <th>Inicio de Datos</th>
-<th>Como usuario quiero registrarme e iniciar sesión</th>
+<th>Como usuario quiero registrarme e iniciar sesión para explorar las paginas</th>
 <th><p>Escenario 1: Acceso al registro de datos.</p>
 <p>Dado que me encuentro en la página de inicio</p>
 <p>Cuando el usuario le da clic en registrarse</p>
@@ -79,7 +79,7 @@ al rol que haya escogido con nuevas herramientas.</p></th>
 <th>2</th>
 </tr>
 <tr class="header">
-<th>E3-US04</th>
+<th>E2-US04</th>
 <th>Colaborar otros escritores</th>
 <th>Como escritor quiero colaborar con otros escritores para escribir
 obras</th>
@@ -92,9 +92,9 @@ creada.</p></th>
 <th>2</th>
 </tr>
 <tr class="odd">
-<th>E3-US05</th>
+<th>E2-US05</th>
 <th>Colaboración con Ilustradores</th>
-<th>Como escritor deseo que mis obras sean ilustradas</th>
+<th>Como escritor quiero que mis obras sean ilustradas para mejorarlas</th>
 <th><p>Escenario 1: Ilustra</p>
 <p>Dado que me encuentro en la pestaña de mis obras</p>
 <p>Cuando le dé clic en alguna de mis obras e Ilustrar</p>
@@ -111,9 +111,9 @@ ilustradores</p>
 <th>2</th>
 </tr>
 <tr class="header">
-<th>E4-US06</th>
+<th>E3-US06</th>
 <th>Destaca tus libros</th>
-<th>Como escritor quiero destacar mis libros</th>
+<th>Como escritor quiero destacar mis libros para tener mayores visualizaciones</th>
 <th><p>Escenario 1: Sistema monetario</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic en monedas</p>
@@ -132,9 +132,9 @@ obra</p></th>
 <th>3</th>
 </tr>
 <tr class="odd">
-<th>E4-US07</th>
+<th>E3-US07</th>
 <th>Reparto por Ingresos publicitarios</th>
-<th>Como escritor quiero generar ingresos</th>
+<th>Como escritor quiero generar ingresos para mejorar mis libros</th>
 <th><p>Escenario 1: Ingreso al programa de recompensas</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic al programa de ingresos</p>
@@ -153,9 +153,9 @@ obra</p></th>
 <th>3</th>
 </tr>
 <tr class="header">
-<th>E6-US08</th>
+<th>E5-US08</th>
 <th>Ingreso por las ilustraciones</th>
-<th>Como ilustrador quiero tener una compensación justa</th>
+<th>Como ilustrador quiero tener una compensación justa para poder mejorar mi productividad</th>
 <th><p>Escenario 1: Acuerdo Mutuo</p>
 <p>Dado que el ilustrador fue contactado por el escritor</p>
 <p>Cuando ambas partes lleguen a un acuerdo se dará a una
@@ -185,10 +185,10 @@ portafolio</p></th>
 <th>1</th>
 </tr>
 <tr class="header">
-<th>E5-US10</th>
+<th>E4-US10</th>
 <th>Desbloqueo de Capítulos</th>
-<th>Como usuario tener acceso al contenido exclusivo de la
-plataforma</th>
+<th>Como usuario quiero tener acceso al contenido exclusivo de la
+plataforma para mejorar mi experiencia</th>
 <th><p>Escenario 1: Finanzas</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
 <p>Cuando le de clic al apartado de monedas</p>
@@ -205,7 +205,7 @@ clic en desbloquear</p>
 <th>4</th>
 </tr>
 <tr class="odd">
-<th>E5-US11</th>
+<th>E4-US11</th>
 <th>Dejar Comentarios</th>
 <th>Como usuario quiero poder comentar las obras para ayudar con mi
 feedback</th>
@@ -220,10 +220,10 @@ feedback</th>
 <th>4</th>
 </tr>
 <tr class="header">
-<th>E6-US12</th>
+<th>E5-US12</th>
 <th>Flexibilidad al ilustrar</th>
 <th>Como ilustrador quiero tener flexibilidad creativa a la hora de
-dibujar</th>
+dibujar para tener un mejor rendimiento</th>
 <th><p>Escenario 1: Añade Flexibilidad</p>
 <p>Dado que el ilustrador se encuentra en la página principal</p>
 <p>Cuando le de clic a perfil</p>
@@ -241,10 +241,10 @@ creativa</p></th>
 <th>5</th>
 </tr>
 <tr class="odd">
-<th>E1-US13</th>
-<th>diversos géneros</th>
-<th>Como usuario quiero tener una gran cantidad de géneros literarios a
-mi disposición</th>
+<th>E4-US13</th>
+<th>Diversos géneros literarios</th>
+<th>Como usuario quiero tener una gran cantidad de géneros literarios para
+tenerlos a mi disposición</th>
 <th><p>Escenario 1: Opción géneros</p>
 <p>Dado que me encuentro en la página principal</p>
 <p>Cuando le de clic a ver catalogo</p>
