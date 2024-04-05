@@ -171,7 +171,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Tienes algunas preferencias en cuanto a la plataforma o herramientas al escribir?
 10. ¿Es importante para ti la retroalimentación de otros escritores y/o lectores?
 
-**Preguntas Segmento 2: Dibujante**
+**Preguntas Segmento 2: Ilustrador**
 1. ¿Qué aplicación has usado anteriormente para promocionar tus ilustraciones?
 2. ¿Qué tan difícil te resulta encontrar un espacio para publicitar tus servicios?
 3. ¿Qué aspectos tienes o tendrías en cuenta al momento de aceptar comisiones a escritores que desean ilustrar sus libros? 
@@ -187,7 +187,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 13. ¿Te gustaría ilustrar de forma gratuita o te gustaría establecer un sistema de compensación?
 14. ¿Qué tipo de herramientas te gustaría ver?
 
-**Preguntas Segmento 1: Lector**
+**Preguntas Segmento 3: Lector**
 1. ¿Cuáles son los elementos específicos que consideras más influyentes al momento de elegir un libro para leer? 
 2. ¿Tienes en cuenta el renombre del escritor, si las ilustraciones son llamativas para ti o si el resumen de la trama te resulta atractiva? ¿Tienes en cuenta algún otro elemento en específico?
 3. ¿Con cuánta frecuencia usas aplicaciones para leer libros?
@@ -199,52 +199,6 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Estarías dispuesto a ser un usuario concurrente de nuestra plataforma? Si es así, Explícanos el motivo.
 10. ¿Con cuánta frecuencia lees las reseñas de los libros para decidir adquirirlos?
 11. ¿Con cuánta frecuencia dejas reseñas en los libros que lees online?
-
-
-**Preguntas segmento escritor:**
-
-1. ¿Cómo escritor qué es lo que buscas en una plataforma de lectura en línea?
-2. ¿Cómo te gustaría que los autores obtuvieron ganancias por sus obras publicadas en la app?
-3. Como escritor, ¿Qué opciones de interacción tú consideras más relevantes al momento de tener contacto con un ilustrador?
-4. ¿Cómo escritor qué opciones consideras favorables para facilitar el alcance de lectores en tus obras?
-5. ¿Qué tipo de servicios te gustaría ofrecer a tus lectores al momento de publicitar tus libros?
-6. ¿Cómo te beneficia añadir ilustraciones a tus libros?
-7. ¿Cómo das a conocer tus libros actualmente?
-8. ¿Qué aplicaciones has usado relacionadas con la escritura y cómo te han beneficiado?
-9. ¿Tienes algunas preferencias en cuanto a la plataforma o herramientas al escribir?
-10. ¿Es importante para ti la retroalimentación de otros escritores y/o lectores?
-
-**Preguntas segmento ilustrador:**
-
-1. ¿Qué aplicación has usado anteriormente para promocionar tus ilustraciones?
-2. ¿Qué tan difícil te resulta encontrar un espacio para publicitar tus servicios?
-3. ¿Qué aspectos tienes o tendrías en cuenta al momento de aceptar comisiones a escritores que desean ilustrar sus libros?
-4. ¿Qué tanto valoras la comunicación constante, el monto y la seguridad del pago que se te ofrece?
-5. ¿Qué tanto valoras si el libro que vas a ilustrar te llama la atención?
-6. ¿Qué aspectos te parecen fundamentales para estar seguro de que vas a aceptar una comisión?
-7. ¿A qué herramientas online te gustaría tener acceso para estar en contacto con el escritor con el que trabajas?
-8. ¿Te gustaría compartir borradores y comentarios en tiempo real sobre tu avance o que se pueda realizar un seguimiento al proyecto para estar al día con ello? ¿Qué otras ideas se te ocurren?
-9. ¿Qué te gustaría que hubiera en el perfil de ilustrador?
-10. ¿Te sería útil poder tener una sección dónde puedas interactuar con los lectores de la app?
-11. ¿Qué nos recomendarías para que las historias nuevas o con pocos lectores tengan posibilidades de ser visualizadas dentro de la app?
-12. ¿Consideras que vale la pena pagar una suscripción para que tu perfil sea destacado en las búsquedas?
-13. ¿Te gustaría ilustrar de forma gratuita o te gustaría establecer un sistema de compensación?
-14. ¿Qué tipo de herramientas te gustaría ver?
-
-**Preguntas segmento lector:**
-
-1. ¿Cuáles son los elementos específicos que consideras más influyentes al momento de elegir un libro para leer? 
-2. ¿Tienes en cuenta el renombre del escritor, si las ilustraciones son llamativas para ti o si el resumen de la trama te resulta atractiva? ¿Tienes en cuenta algún otro elemento en específico?
-3. ¿Con cuánta frecuencia usas aplicaciones para leer libros? 
-4. ¿Qué funciones te gustaría encontrar en una app de lectura de libros ilustrados? 
-5. ¿Hay alguna función que ya exista en otro aplicativo que no te gustaría que estuviera presente? Si es así, ¿cuál es? 
-6. ¿Qué nos recomendarías añadir al aplicativo para que los lectores tengan más cercanía con los escritores e ilustradores? 
-7. ¿Qué tipo de beneficios consideras importantes incluir dentro de un plan premium? ¿Estarías dispuesto a pagar por ello? 
-8. ¿Qué funciones consideras innovadoras? 
-9. ¿Estarías dispuesto a ser un usuario concurrente de nuestra plataforma? Si es así, Explícanos el motivo. 
-10. ¿Con cuánta frecuencia lees las reseñas de los libros para decidir adquirirlos? 
-11. ¿Con cuánta frecuencia dejas reseñas en los libros que lees online?
-
 
 ### 2.2.2 Registro de entrevistas.
 
@@ -287,7 +241,29 @@ así como comisiones exclusivas de sus lectores.
 
 **Entrevista 1:**
 
+Nombres: Alexandra
 
+Apellidos: Guizazola Cortez
+
+Edad: 17 años
+
+Lugar de residencia: La Victoria, Lima
+
+Evidencia de la entrevista:
+
+<img src="" alt="Entrevista 01 Segmento ilustrador">
+
+Enlace de entrevista: https://youtu.be/uXVWf1MpHxA
+
+Resumen de la entrevista:
+
+Se entrevistó a Alexandra, una joven de 17 años residente en La Victoria, Lima. Actualmente, se encuentra estudiando obstetricia y, en sus ratos libres, disfruta enormemente de su pasión por el dibujo.
+
+Al consultar sobre sus preferencias en cuanto a contenido, Alexandra destacó su interés principal en la ilustración. Cuando elige libros, le resulta fundamental que la trama sea atractiva para inspirar su arte. No considera el renombre del escritor ni las ilustraciones dentro del libro como factores determinantes en su elección, sino más bien se enfoca en el contenido y si le gusta, le gustaría participar como ilustradora del libro.
+
+En cuanto a la propuesta de una aplicación de lectura de libros ilustrados, Alexandra expresó su interés en funciones que faciliten la interacción con escritores e ilustradores. Además, le entusiasma la posibilidad de solicitar y compartir ilustraciones exclusivas, así como acceder a contenido especial de los autores.
+
+Respecto a un plan premium, Alexandra considera importante que incluya características innovadoras que mejoren su experiencia como ilustradora. Estaría dispuesta a pagar por acceso a contenido exclusivo de artistas emergentes y herramientas que impulsen su creatividad, preferiblemente a un precio asequible. Además, manifestó su disposición a ser una usuaria activa en la plataforma para que sus hermosas ilustraciones puedan llegar a más personas.
 
 **Segmento lector:**
 
