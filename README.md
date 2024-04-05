@@ -336,24 +336,115 @@ Nuestro producto aborda varios problemas:
 #### 1.2.2.4. Lean UX Canvas
 <TABLE BORDER>
 	<TR>
-		<TD ROWSPAN=2>Lean UX Canvas</TD>
-	    	<TD ROWSPAN=2></TD> <TD>Fecha: 4/04/2024</TD> 
+		<TD ROWSPAN=2>
+
+**Lean UX Canvas**
+</TD>
+	    	<TD ROWSPAN=2></TD> <TD>
+
+**Fecha:** 4/04/2024
+
+</TD> 
 	</TR>
 	<TR>
-		<TD>Iteración 1</TD> 
+		<TD>
+
+**Iteración 1**
+</TD> 
 	</TR>
     <TR>
-		<TD ROWSPAN>1. Problema de negocios:</TD>
-	    	<TD ROWSPAN=2>5. Ideas de solución:</TD> <TD ROWSPAN=2>2. Resultados comerciales:</TD> 
+		<TD ROWSPAN>
+        
+**1. Problema de negocios:**
+        
+La falta de un ecosistema sólido que conecte a escritores, ilustradores y lectores en el mundo de los libros digitales ilustrados. Aunque existen plataformas como Wattpad y Webtoon, aún hay desafíos en términos de compensación justa, colaboración efectiva y visibilidad adecuada. Además, la retención de usuarios y la calidad del contenido son aspectos cruciales que deben abordarse para garantizar el éxito a largo plazo.
+</TD>
+	    	<TD ROWSPAN=2>
+
+**5. Ideas de solución:**
+- Herramientas de Colaboración: Funcionalidades que faciliten la comunicación y el trabajo conjunto entre ilustradores y escritores.
+- Sistema de Monetización Transparente: Opciones claras y justas para que los creadores puedan ganar ingresos.
+- Biblioteca Digital: Un amplio catálogo de libros ilustrados disponibles para leer en línea.
+- Perfil de Usuario: Perfiles personalizables para que los creadores muestren su trabajo.
+- Comentarios y Me gusta: Sección para que los usuarios dejen comentarios y den me gusta a los libros, lo que ayuda a otros en su selección de lectura.
+- Soporte para Dispositivos Múltiples: Accesibilidad desde cualquier dispositivo con sincronización de progreso de lectura entre ellos.
+- Mercado de Talentos: Un espacio donde los escritores pueden buscar y conectarse con ilustradores.
+</TD> <TD ROWSPAN=2>
+
+**2. Resultados comerciales:**
+
+- Aumento en el número de cuentas creadas y usuarios activos.
+- Si la plataforma se convierte en un lugar destacado para la creación y consumo de libros digitales ilustrados, podría ganar reconocimiento en la industria literaria y artística.
+- Éxito de proyectos colaborativos entre escritores e ilustradores podría ser un indicador de la efectividad de la plataforma.
+</TD> 
 	</TR>
 	<TR>
-		<TD >3. Usuarios y Clientes:</TD> 
+		<TD >
+        
+**3. Usuarios y Clientes:**
+
+Los usuarios de la plataforma serán principalmente ilustradores y escritores que buscan publicar y monetizar sus trabajos, así como lectores interesados en explorar y disfrutar de libros ilustrados digitales. Además, editores, agentes literarios y educadores podrían utilizar la plataforma para descubrir nuevos talentos y recursos educativos. 
+</TD> 
 	</TR>
     <TR>
-		<TD ROWSPAN=2>6. Hipótesis</TD>
-	    	<TD ROWSPAN=2>7. ¿Qué es lo más importante que debemos aprender primero?</TD> <TD>4. Beneficios del usuario:</TD> 
+		<TD ROWSPAN=2>
+
+**6. Hipótesis**
+        
+***Creemos que*** *al simplificar el proceso de registro en nuestra plataforma, aumentaremos la tasa de conversión de nuevos usuarios. 
+**Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de cuentas creadas en los primeros 7 días después del lanzamiento.*
+
+***Creemos que*** *al implementar una función de mensajería entre escritores e ilustradores, mejoraremos la colaboración creativa en nuestra plataforma. 
+**Sabremos que** hemos tenido éxito **cuando** veamos un aumento en la cantidad de proyectos colaborativos publicados y una mayor retención de usuarios.*
+
+***Creemos que*** *al ofrecer una sección destacada para los “Mejores Libros Ilustrados de la Semana”, aumentaremos la participación de los lectores.
+**Sabremos que** hemos tenido éxito **cuando** observemos un aumento en las visitas a esta sección y una mayor interacción con las obras destacadas.*
+
+***Creemos que*** *al proporcionar métricas claras sobre las visualizaciones y las ventas de libros, motivaremos a los escritores e ilustradores a seguir creando contenido.
+**Sabremos que** hemos tenido éxito **cuando** veamos un aumento en la producción de libros digitales ilustrados y una mayor satisfacción de los creadores.*
+
+***Creemos que*** *al incorporar un sistema de suscripción premium para escritores e ilustradores, aumentaremos la retención de usuarios y generaremos ingresos sostenibles.
+**Sabremos que** hemos tenido éxito **cuando** observemos un aumento en las suscripciones premium y una mayor participación activa de los creadores.*</TD>
+
+<TD ROWSPAN=2>
+
+**7. ¿Qué es lo más importante que debemos aprender primero?**
+
+Conocer a fondo a los usuarios potenciales. Entender sus objetivos, preferencias, comportamientos y los dispositivos móviles que utilizan, para que de ese modo la aplicación sea atractiva y útil para ellos.
+
+Investigar a fondo el mercado de libros ilustrados digitales, incluyendo las tendencias actuales, las necesidades de los usuarios y la competencia.
+
+Definir claramente el modelo de negocio, incluyendo cómo se generará ingresos (por ejemplo, mediante publicidad, suscripciones, venta de libros, etc.) y cómo te diferenciarás de la competencia.
+
+Familiarizarnos con las leyes de derechos de autor y propiedad intelectual, especialmente en lo que respecta a la publicación y distribución de obras creativas.
+</TD> 
+
+<TD>
+
+**4. Beneficios del usuario:**
+
+- Ilustradores: Mayor visibilidad de su trabajo, oportunidades de colaboración con escritores, posibilidad de obtener ingresos por sus ilustraciones.
+- Escritores: Acceso a talentosos ilustradores para mejorar la presentación de sus historias, posibilidad de llegar a nuevos públicos a través de las ilustraciones, oportunidad de obtener ingresos adicionales.
+- Lectores: Experiencia de lectura más enriquecedora y atractiva, acceso a una amplia variedad de libros ilustrados, posibilidad de descubrir nuevos talentos tanto en la escritura como en la ilustración.
+</TD> 
 	</TR>
 	<TR>
-		<TD>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</TD> 
+		<TD>
+        
+**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
+
+- Soporte al Usuario:
+
+Responder rápidamente a las preguntas y consultas de los usuarios. Esto garantiza una buena experiencia y retención de usuarios.
+- Investigación de Competidores:
+
+Realizar un análisis rápido de las aplicaciones similares en el mercado. Esto nos ayudará a comprender las mejores prácticas y las oportunidades de mejora.
+- Validación de Idea:
+
+Crear prototipos o pruebas de concepto para validar nuestra idea antes de invertir en un desarrollo completo.
+- Plan de Marketing Básico:
+
+Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede incluir estrategias de redes sociales y relaciones públicas.
+</TD> 
 	</TR>
 </TABLE>
