@@ -295,6 +295,23 @@ Nuestro producto aborda varios problemas:
 - Comunidad y Colaboración: Fomentar la interacción entre usuarios.
 - Transparencia en Compensación: Información clara sobre cómo se remunera a los artistas.
 
+#### Business Assumptions
+1. **Creemos que nuestros clientes necesitan** una plataforma que les permita crear, publicar y disfrutar de libros digitales ilustrados. Los escritores buscan colaboradores creativos, los ilustradores desean visibilidad y los lectores quieren acceder a contenido visualmente atractivo.
+2. **Estas necesidades se pueden resolver con una** aplicación web que de visibilidad a los ilustradores, ayude en la búsqueda de colaboradores creativos para los escritores y brinde satisfacción a los lectores ávidos de contenido ilustrado.
+3. **El valor #1 que mi cliente quiere de mi servicio**
+- Para los escritores: Una plataforma donde puedan encontrar ilustradores talentosos para dar vida a sus historias.
+- Para los ilustradores: Un espacio donde puedan mostrar su trabajo y colaborar en proyectos literarios.
+- Para los lectores: Acceso a una amplia variedad de libros digitales ilustrados que combinen narrativa y arte
+4. **El cliente también puede obtener beneficios adicionales como** 
+- Networking Creativo: La posibilidad de conectarse con otros artistas y escritores, lo que podría llevar a futuras colaboraciones y oportunidades.
+* Feedback Constructivo: Los escritores e ilustradores pueden recibir comentarios valiosos de la comunidad, mejorando su trabajo. 
+5. **Voy a adquirir la mayoría de mis clientes** la promoción activa en redes sociales, asociaciones con comunidades literarias y la creación de contenido atractivo para atraer a escritores, ilustradores y lectores.
+6. **Haré dinero a través de** modelos de suscripción para escritores, ilustradores y lectores premium y publicidad dirigida a los lectores.
+7. **Mi competencia principal en el mercado** serán plataformas existentes como Wattpad, Webtoon y otras aplicaciones de lectura digital. Editoriales tradicionales que también están incursionando en el mundo digital.
+8. **Los venceremos debido a la simplicidad** de uso gracias a la interfaz intuitiva y procesos sencillos, facilitando la colaboración y la publicación.
+9. **El mayor riesgo es que** no logremos una base de usuarios activa o no cumplamos con las expectativas de calidad y colaboración.
+10. **Resolveremos esto a través de** fomentar una comunidad activa, garantizar la compensación adecuada para los artistas y mantener un enfoque en la simplicidad y la creatividad.
+
 #### 1.2.2.4. Lean UX Canvas
 <TABLE BORDER>
 	<TR>
