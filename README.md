@@ -369,6 +369,88 @@ Evidencia de la entrevista:
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-personas/Renzo.png?raw=true" alt="Segmento 3 user persona">
 
 ### 2.3.2. User Task Matrix
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Escritor Promedio</b> </br>Segmento Objetivo: Lectores entre 18 años a más
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Escribir y publicar libros
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Colaborar con ilustradores
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Obtener retroalimentación
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Ofrecer contenido exclusivo	
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Promocionar y comercializar libros
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
