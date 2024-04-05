@@ -352,8 +352,6 @@ Evidencia de la entrevista:
 
  Finalmente, nos comenta que estaria dispuesto a ser un usuario concurrente de nuestra plataforma solo si esta cuenta con una interfaz intuitiva y versatil, tambien si cuenta con una gran variedad de obras por ofrecer a sus usuarios.
 
-
-
 ### 2.2.3 Análisis de entrevistas.
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
@@ -361,6 +359,10 @@ Evidencia de la entrevista:
 **Segmento escritor:**
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-personas/Luz.png?raw=true" alt="Segmento 1 user persona">
+
+**Segmento ilustrador:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-personas/Alexandra.png?raw=true" alt="Segmento 2 user persona">
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
