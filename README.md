@@ -294,3 +294,28 @@ Nuestro producto aborda varios problemas:
 - Facilidad de Uso: Navegación sencilla y procesos claros para cargar contenido.
 - Comunidad y Colaboración: Fomentar la interacción entre usuarios.
 - Transparencia en Compensación: Información clara sobre cómo se remunera a los artistas.
+
+#### 1.2.2.4. Lean UX Canvas
+<TABLE BORDER>
+	<TR>
+		<TD ROWSPAN=2>Lean UX Canvas</TD>
+	    	<TD ROWSPAN=2></TD> <TD>Fecha: 4/04/2024</TD> 
+	</TR>
+	<TR>
+		<TD>Iteración 1</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN>1. Problema de negocios:</TD>
+	    	<TD ROWSPAN=2>5. Ideas de solución:</TD> <TD ROWSPAN=2>2. Resultados comerciales:</TD> 
+	</TR>
+	<TR>
+		<TD >3. Usuarios y Clientes:</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN=2>6. Hipótesis</TD>
+	    	<TD ROWSPAN=2>7. ¿Qué es lo más importante que debemos aprender primero?</TD> <TD>4. Beneficios del usuario:</TD> 
+	</TR>
+	<TR>
+		<TD>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</TD> 
+	</TR>
+</TABLE>
