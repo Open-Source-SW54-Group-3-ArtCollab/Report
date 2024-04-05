@@ -241,3 +241,5 @@ Necesitamos una forma para que los ilustradores y escritores colaboren más efic
 Los creadores de contenido necesitan un sistema de monetización más justo y transparente, ya que la distribución desigual de ingresos y la falta de reconocimiento están afectando su capacidad para sostenerse económicamente a través de su arte.
 
 Los lectores requieren acceso a una mayor diversidad de contenido ilustrado de calidad, lo cual no se está proporcionando debido a las limitaciones en la visibilidad y apoyo que las plataformas actuales ofrecen a los creadores emergentes.
+
+¿Cómo puede una nueva plataforma de publicación digital mejorar las condiciones de monetización y colaboración para ilustradores y escritores, asegurando al mismo tiempo una experiencia enriquecedora para los lectores?
