@@ -327,7 +327,7 @@ Nuestro producto aborda varios problemas:
 
 ### Hipótesis 4:
 ***Creemos que*** *al proporcionar métricas claras sobre las visualizaciones y las ventas de libros, motivaremos a los escritores e ilustradores a seguir creando contenido.
-**Sabremos que** hemos tenido éxito **cuando **veamos un aumento en la producción de libros digitales ilustrados y una mayor satisfacción de los creadores.*
+**Sabremos que** hemos tenido éxito **cuando** veamos un aumento en la producción de libros digitales ilustrados y una mayor satisfacción de los creadores.*
 
 ### Hipótesis 5:
 ***Creemos que*** *al incorporar un sistema de suscripción premium para escritores e ilustradores, aumentaremos la retención de usuarios y generaremos ingresos sostenibles.
