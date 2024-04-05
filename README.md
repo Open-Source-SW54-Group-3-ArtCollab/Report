@@ -79,43 +79,11 @@ al rol que haya escogido con nuevas herramientas.</p></th>
 <th>2</th>
 </tr>
 <tr class="header">
-<th>E1-US04</th>
-<th>Comunidad</th>
-<th>Como Usuario quiero estar en una comunidad para poder expresarme
-libremente</th>
-<th><p>Escenario 1: Comunidad</p>
-<p>Dado que el escritor se encuentra en la página principal</p>
-<p>Cuando le de clic a Comunidad</p>
-<p>Entonces se le mostrará la comunidad dependiendo su rol</p>
-<p>Escenario 2: Publicaciones</p>
-<p>Dado que el escritor se encuentra en la página de comunidad</p>
-<p>Cuando le dé clic a Publicaciones</p>
-<p>Entonces podrá interactuar, publicar y comentar estas.</p>
-<p>Escenario 3: Chats</p>
-<p>Dado que el escritor se encuentre en la página de comunidad habrá un
-apartado de chats</p>
-<p>Cuando le dé clic al botón chatear</p>
-<p>Entonces entrará a un chat general donde podrá chatear con otras
-personas en público o privado</p></th>
-<th>1</th>
-</tr>
-<tr class="odd">
-<th>E3-US05</th>
+<th>E3-US04</th>
 <th>Colaborar otros escritores</th>
 <th>Como escritor quiero colaborar con otros escritores para escribir
 obras</th>
-<th><p>Escenario 1: Comunidad</p>
-<p>Dado que el escritor se encuentra en la página principal</p>
-<p>Cuando le dé clic a Comunidad</p>
-<p>Entonces se le va a redirigir a una pestaña diferente</p>
-<p>Escenario 2: Comunidad</p>
-<p>Dado que el escritor se encuentra en la pestaña comunidad
-(escritores) podrá visualizar las publicaciones y los diversos rankings
-de escritores.</p>
-<p>Cuando elija alguno y le de conectar</p>
-<p>Entonces se le abrirá un chat donde el otro escritor le responderá
-primero</p>
-<p>Escenario 3: Conectar</p>
+<th><p>Escenario 1: Conectar</p>
 <p>Dado que el escritor se encuentra en el chat con otro escritor</p>
 <p>Cuando ambos hayan llegado a un acuerdo, en el chat darán clic en
 colaborar</p>
@@ -123,8 +91,8 @@ colaborar</p>
 creada.</p></th>
 <th>3</th>
 </tr>
-<tr class="header">
-<th>E3-US06</th>
+<tr class="odd">
+<th>E3-US05</th>
 <th>Colaboración con Ilustradores</th>
 <th>Como escritor deseo que mis obras sean ilustradas</th>
 <th><p>Escenario 1: Ilustra</p>
@@ -142,8 +110,8 @@ ilustradores</p>
 <p>Entonces elegirás que obra poder darle acceso</p></th>
 <th>3</th>
 </tr>
-<tr class="odd">
-<th>E4-US07</th>
+<tr class="header">
+<th>E4-US06</th>
 <th>Destaca tus libros</th>
 <th>Como escritor quiero destacar mis libros</th>
 <th><p>Escenario 1: Sistema monetario</p>
@@ -163,8 +131,8 @@ monedas</p>
 obra</p></th>
 <th>4</th>
 </tr>
-<tr class="header">
-<th>E4-US08</th>
+<tr class="odd">
+<th>E4-US07</th>
 <th>Reparto por Ingresos publicitarios</th>
 <th>Como escritor quiero generar ingresos</th>
 <th><p>Escenario 1: Ingreso al programa de recompensas</p>
@@ -184,8 +152,8 @@ obra</p></th>
 obra</p></th>
 <th>4</th>
 </tr>
-<tr class="odd">
-<th>E6-US09</th>
+<tr class="header">
+<th>E6-US08</th>
 <th>Ingreso por las ilustraciones</th>
 <th>Como ilustrador quiero tener una compensación justa</th>
 <th><p>Escenario 1: Acuerdo Mutuo</p>
@@ -200,8 +168,8 @@ externa</p>
 <p>Entonces se le pagará por un medio externo</p></th>
 <th>6</th>
 </tr>
-<tr class="header">
-<th>E1-US10</th>
+<tr class="odd">
+<th>E1-US09</th>
 <th>Configuracion de Perfil de Usuario</th>
 <th>Como usuario quiero configurar mi perfil para satisfacer mis
 gustos</th>
@@ -216,8 +184,8 @@ gustos</th>
 portafolio</p></th>
 <th>1</th>
 </tr>
-<tr class="odd">
-<th>E5-US11</th>
+<tr class="header">
+<th>E5-US10</th>
 <th>Desbloqueo de Capítulos</th>
 <th>Como usuario tener acceso al contenido exclusivo de la
 plataforma</th>
@@ -236,8 +204,8 @@ clic en desbloquear</p>
 <p>Entonces se le desbloqueara el capítulo</p></th>
 <th>5</th>
 </tr>
-<tr class="header">
-<th>E5-US12</th>
+<tr class="odd">
+<th>E5-US11</th>
 <th>Dejar Comentarios</th>
 <th>Como usuario quiero poder comentar las obras para ayudar con mi
 feedback</th>
@@ -251,8 +219,8 @@ feedback</th>
 <p>Entonces podrá escribir su comentario y publicarlo</p></th>
 <th>5</th>
 </tr>
-<tr class="odd">
-<th>E6-US13</th>
+<tr class="header">
+<th>E6-US12</th>
 <th>Flexibilidad al ilustrar</th>
 <th>Como ilustrador quiero tener flexibilidad creativa a la hora de
 dibujar</th>
@@ -272,8 +240,8 @@ creativa</p>
 creativa</p></th>
 <th>6</th>
 </tr>
-<tr class="header">
-<th>E1-US14</th>
+<tr class="odd">
+<th>E1-US13</th>
 <th>diversos géneros</th>
 <th>Como usuario quiero tener una gran cantidad de géneros literarios a
 mi disposición</th>
