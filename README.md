@@ -364,6 +364,10 @@ Evidencia de la entrevista:
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-personas/Alexandra.png?raw=true" alt="Segmento 2 user persona">
 
+**Segmento lector:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-personas/Renzo.png?raw=true" alt="Segmento 3 user persona">
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
