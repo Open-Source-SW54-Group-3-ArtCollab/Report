@@ -243,3 +243,54 @@ Los creadores de contenido necesitan un sistema de monetización más justo y tr
 Los lectores requieren acceso a una mayor diversidad de contenido ilustrado de calidad, lo cual no se está proporcionando debido a las limitaciones en la visibilidad y apoyo que las plataformas actuales ofrecen a los creadores emergentes.
 
 ¿Cómo puede una nueva plataforma de publicación digital mejorar las condiciones de monetización y colaboración para ilustradores y escritores, asegurando al mismo tiempo una experiencia enriquecedora para los lectores?
+
+#### 1.2.2.2. Lean UX Assumptions
+#### Features
+- Herramientas de Colaboración: Funcionalidades que faciliten la comunicación y el trabajo conjunto entre ilustradores y escritores.
+- Sistema de Monetización Transparente: Opciones claras y justas para que los creadores puedan ganar ingresos.
+- Biblioteca Digital: Un amplio catálogo de libros ilustrados disponibles para leer en línea.
+- Perfil de Usuario: Perfiles personalizables para que los creadores muestren su trabajo.
+- Comentarios y Me gusta: Sección para que los usuarios dejen comentarios y den me gusta a los libros, lo que ayuda a otros en su selección de lectura.
+- Soporte para Dispositivos Múltiples: Accesibilidad desde cualquier dispositivo con sincronización de progreso de lectura entre ellos.
+- Mercado de Talentos: Un espacio donde los escritores pueden buscar y conectarse con ilustradores.
+
+#### Business Outcomes
+- Aumento de la Base de Usuarios: Atraer a una gran cantidad de ilustradores, escritores y lectores, lo que se traduce en un crecimiento sostenido de la comunidad de la plataforma.
+- Monetización Efectiva: Implementar modelos de ingresos como suscripciones, publicidad y micropagos que generen flujos de ingresos estables y crecientes.
+- Retención de Usuarios: Mantener una alta tasa de retención de usuarios a través de una experiencia de usuario excepcional y contenido de alta calidad.
+- Reconocimiento de Marca: Establecer la plataforma como líder en el mercado de publicación digital de libros ilustrados y como un defensor de los derechos y el apoyo a los creadores.
+- Impacto Social Positivo: Contribuir a la sociedad fomentando la lectura y el apoyo a la comunidad creativa.
+
+#### Users
+Los usuarios de la plataforma serán principalmente ilustradores y escritores que buscan publicar y monetizar sus trabajos, así como lectores interesados en explorar y disfrutar de libros ilustrados digitales. Además, editores, agentes literarios y educadores podrían utilizar la plataforma para descubrir nuevos talentos y recursos educativos. 
+
+#### User Outcomes & Benefits
+- Ilustradores: Mayor visibilidad de su trabajo, oportunidades de colaboración con escritores, posibilidad de obtener ingresos por sus ilustraciones.
+- Escritores: Acceso a talentosos ilustradores para mejorar la presentación de sus historias, posibilidad de llegar a nuevos públicos a través de las ilustraciones, oportunidad de obtener ingresos adicionales.
+- Lectores: Experiencia de lectura más enriquecedora y atractiva, acceso a una amplia variedad de libros ilustrados, posibilidad de descubrir nuevos talentos tanto en la escritura como en la ilustración.
+
+#### User assumptions
+#### ¿Quién es el usuario?
+El usuario puede ser cualquier persona interesada en la lectura, ya sea un escritor, un ilustrador o simplemente un lector ávido. También podría incluir a aquellos que buscan colaborar creativamente en proyectos literarios.
+#### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
+Nuestro producto se integra en la vida de los usuarios como una plataforma digital que facilita la creación, publicación y consumo de libros digitales ilustrados. Para los escritores, es un lugar para dar vida a sus historias. Para los ilustradores, es una oportunidad para mostrar su talento. Y para los lectores, es un espacio para descubrir y disfrutar de contenido visualmente atractivo.
+#### ¿Qué problema resuelve nuestro producto?
+Nuestro producto aborda varios problemas:
+- Visibilidad para Ilustradores: Proporciona una plataforma donde los ilustradores pueden exhibir su trabajo y ser descubiertos por escritores.
+- Colaboración Creativa: Facilita la colaboración entre escritores e ilustradores, lo que puede ser complicado en otros contextos.
+- Compensación y Reconocimiento: Aborda la falta de reconocimiento y compensación adecuada para los artistas.
+#### ¿Cuándo y cómo es usado nuestro producto?
+- Los escritores usarán la plataforma cuando tengan una historia que deseen ilustrar.
+- Los ilustradores la utilizarán para mostrar su portafolio y buscar proyectos colaborativos.
+- Los lectores accederán a la plataforma para descubrir y disfrutar de libros digitales ilustrados.
+#### ¿Qué características son importantes?
+- Perfiles de Usuario: Cada usuario (escritor, ilustrador, lector) debe tener un perfil personalizado.
+- Búsqueda y Filtros: Funcionalidades para buscar proyectos, géneros y colaboradores.
+- Sistema de Mensajería: Para que escritores e ilustradores puedan comunicarse.
+- Galería de Ilustraciones: Donde los artistas puedan mostrar su trabajo.
+- Calificaciones y Comentarios: Para que los lectores den feedback y apoyo.
+#### ¿Cómo debería verse y comportarse nuestro producto?
+- Diseño Limpio y Atractivo: Interfaz intuitiva con un enfoque en las ilustraciones.
+- Facilidad de Uso: Navegación sencilla y procesos claros para cargar contenido.
+- Comunidad y Colaboración: Fomentar la interacción entre usuarios.
+- Transparencia en Compensación: Información clara sobre cómo se remunera a los artistas.
