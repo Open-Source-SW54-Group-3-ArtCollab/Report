@@ -173,9 +173,9 @@ Se encuentra compuesta por 2 secciones:
 ### Antecedentes:
 La revolución digital ha transformado la manera en que consumimos y compartimos historias, dando vida a comunidades vibrantes de lectores y escritores. Plataformas como Wattpad han demostrado que, lejos de abandonar la lectura, los jóvenes han encontrado en la tecnología un nuevo medio para sumergirse en mundos de ficción y realidad, con más de 70 millones de lectores mensuales y 565 millones de historias en línea (Incertis, 2023). Este fenómeno ha desmentido el mito de que la juventud ha dejado de leer, revelando en cambio un apetito insaciable por las narrativas que resuenan con sus experiencias y aspiraciones.
 
-Sin embargo, el éxito de estas plataformas no siempre se traduce en un apoyo equitativo para los creadores. La controversia reciente en torno a la campaña publicitaria de Webtoon, que minimizaba el trabajo de los artistas al calificarlo como un “side-hustle” o trabajo secundario, puso de manifiesto la lucha constante de los artistas por obtener reconocimiento y remuneración justa por su labor2. La respuesta de la comunidad, utilizando el hashtag #notasidehustle, subrayó la dedicación y el esfuerzo que implica la autopublicación de cómics, una tarea que a menudo excede las 80 horas semanales (Codega, 2022).
+Sin embargo, el éxito de estas plataformas no siempre se traduce en un apoyo equitativo para los creadores. La controversia reciente en torno a la campaña publicitaria de Webtoon, que minimizaba el trabajo de los artistas al calificarlo como un “side-hustle” o trabajo secundario, puso de manifiesto la lucha constante de los artistas por obtener reconocimiento y remuneración justa por su labor. La respuesta de la comunidad, utilizando el hashtag #notasidehustle, subrayó la dedicación y el esfuerzo que implica la autopublicación de cómics, una tarea que a menudo excede las 80 horas semanales (Codega, 2022).
 
-Además, la trágica muerte de un joven artista de webtoon en Corea ha llamado la atención sobre las condiciones laborales extremadamente duras que enfrentan muchos creadores de cómics en línea3. La presión para producir hasta 100 viñetas semanales para series populares como “Solo Leveling” ha llevado a cuestionar la sostenibilidad de la industria y la necesidad de proteger los derechos y la salud de los artistas (Han-sol, 2022).
+Además, la trágica muerte de un joven artista de webtoon en Corea ha llamado la atención sobre las condiciones laborales extremadamente duras que enfrentan muchos creadores de cómics en línea. La presión para producir hasta 100 viñetas semanales para series populares como “Solo Leveling” ha llevado a cuestionar la sostenibilidad de la industria y la necesidad de proteger los derechos y la salud de los artistas (Han-sol, 2022).
 
 En este contexto, nuestra aplicación web busca no solo promover la lectura entre la población, sino también ofrecer un espacio de apoyo y valorización para los artistas gráficos. Nuestro objetivo es crear un ecosistema donde los creadores puedan compartir sus obras ilustradas digitales con una audiencia global, al tiempo que reciben el reconocimiento y la compensación que merecen. Aspiramos a ser un faro de innovación y justicia en el panorama digital, donde cada historia contada y cada imagen creada sean celebradas como las expresiones artísticas valiosas que son.
 
@@ -311,6 +311,27 @@ Nuestro producto aborda varios problemas:
 8. **Los venceremos debido a la simplicidad** de uso gracias a la interfaz intuitiva y procesos sencillos, facilitando la colaboración y la publicación.
 9. **El mayor riesgo es que** no logremos una base de usuarios activa o no cumplamos con las expectativas de calidad y colaboración.
 10. **Resolveremos esto a través de** fomentar una comunidad activa, garantizar la compensación adecuada para los artistas y mantener un enfoque en la simplicidad y la creatividad.
+
+#### 1.2.2.4. Lean UX Hypothesis Statements
+### Hipótesis 1:
+***Creemos que*** *al simplificar el proceso de registro en nuestra plataforma, aumentaremos la tasa de conversión de nuevos usuarios. 
+**Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de cuentas creadas en los primeros 7 días después del lanzamiento.*
+
+### Hipótesis 2:
+***Creemos*** *que al implementar una función de mensajería entre escritores e ilustradores, mejoraremos la colaboración creativa en nuestra plataforma. 
+**Sabremos que** hemos tenido éxito **cuando** veamos un aumento en la cantidad de proyectos colaborativos publicados y una mayor retención de usuarios.*
+
+### Hipótesis 3:
+***Creemos que*** *al ofrecer una sección destacada para los “Mejores Libros Ilustrados de la Semana”, aumentaremos la participación de los lectores.
+**Sabremos que** hemos tenido éxito **cuando** observemos un aumento en las visitas a esta sección y una mayor interacción con las obras destacadas.*
+
+### Hipótesis 4:
+***Creemos que*** *al proporcionar métricas claras sobre las visualizaciones y las ventas de libros, motivaremos a los escritores e ilustradores a seguir creando contenido.
+**Sabremos que** hemos tenido éxito **cuando **veamos un aumento en la producción de libros digitales ilustrados y una mayor satisfacción de los creadores.*
+
+### Hipótesis 5:
+***Creemos que*** *al incorporar un sistema de suscripción premium para escritores e ilustradores, aumentaremos la retención de usuarios y generaremos ingresos sostenibles.
+**Sabremos que** hemos tenido éxito **cuando** observemos un aumento en las suscripciones premium y una mayor participación activa de los creadores.*
 
 #### 1.2.2.4. Lean UX Canvas
 <TABLE BORDER>
