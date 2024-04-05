@@ -451,6 +451,89 @@ Evidencia de la entrevista:
     </tr>
 </table>
 
+</br></br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Ilustrador Promedio</b> </br>Segmento Objetivo: Ilustradores entre 18 años a más
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Crear ilustraciones
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Colaborar con escritores
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Interactuar con la comunidad
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Ofrecer servicios adicionales	
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Promocionar y comercializar su trabajo
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
