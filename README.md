@@ -235,7 +235,7 @@ Los usuarios prefieren acceder a nuestro servicio de una manera que sea cómoda 
 El impacto del problema es significativo, ya que afecta directamente a la sostenibilidad económica y el bienestar emocional de los ilustradores y escritores. Además, repercute en la calidad y diversidad del contenido disponible para los lectores y en la salud general de la industria creativa. Un sistema que no apoya adecuadamente a los creadores puede llevar a una reducción en la producción de obras originales y a una disminución en la innovación dentro del campo literario y artístico. Por lo tanto, abordar este problema no solo beneficia a los creadores individuales, sino que también enriquece la cultura y la sociedad al preservar una amplia gama de voces y perspectivas.
 
 ### 1.2.2. Lean UX Process
-#### 1.2.2.2. Lean UX Problem statements
+#### 1.2.2.1. Lean UX Problem statements
 Necesitamos una forma para que los ilustradores y escritores colaboren más eficientemente, ya que actualmente enfrentan dificultades para conectarse y crear obras conjuntas debido a la falta de herramientas adecuadas en las plataformas existentes.
 
 Los creadores de contenido necesitan un sistema de monetización más justo y transparente, ya que la distribución desigual de ingresos y la falta de reconocimiento están afectando su capacidad para sostenerse económicamente a través de su arte.
