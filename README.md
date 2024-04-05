@@ -251,7 +251,7 @@ Lugar de residencia: La Victoria, Lima
 
 Evidencia de la entrevista:
 
-<img src="" alt="Entrevista 01 Segmento ilustrador">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Italo/entrevista-alexandra.png?raw=true" alt="Entrevista 01 Segmento ilustrador">
 
 Enlace de entrevista: https://youtu.be/uXVWf1MpHxA
 
