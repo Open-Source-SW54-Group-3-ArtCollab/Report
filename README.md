@@ -254,7 +254,7 @@ mi disposición</th>
 <p>Cuando le de clic a filtrar</p>
 <p>Entonces lo podré filtrar por género, número de páginas, popularidad,
 etc.</p></th>
-<th>1</th>
+<th>4</th>
 </tr>
 </thead>
 <tbody>
