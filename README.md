@@ -183,8 +183,8 @@ Con la implementación de herramientas de monetización justa y transparente, y 
 
 
 ### Problemática (5Ws y 2Hs)
-#### What/Qué
+### What/Qué
 #### ¿Cuál es el problema?
-Los artistas no suelen tener medios de apoyo que les ayuden a promocionarse y a ser más visibles. Muchos de ellos solo generan ingresos a través del arte, por lo que les sería de gran ayuda poder hacerse más conocidos por la comunidad para poder recibir mayores comisiones y generar así más ingresos.
+La falta de una plataforma integrada que facilite la colaboración entre ilustradores y escritores, y que a su vez, proporcione un sistema de reconocimiento adecuado para ambos. Actualmente, los artistas y escritores suelen trabajar de manera aislada o a través de plataformas que no están diseñadas específicamente para fomentar una colaboración efectiva, lo que puede resultar en oportunidades limitadas para obtener visibilidad y apoyo. 
 
 ### 1.2.2. Lean UX Process
