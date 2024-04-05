@@ -370,6 +370,8 @@ Evidencia de la entrevista:
 
 ### 2.3.2. User Task Matrix
 
+A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr>
         <td></td>
