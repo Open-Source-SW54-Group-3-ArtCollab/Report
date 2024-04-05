@@ -646,5 +646,12 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-journey-mapping/Persona%203.png?raw=true" alt="Segmento lector">
 
 ### 2.3.4. Empathy Mapping
+
+A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+
+**Segmento escritor:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/empathy-mapping/Luz%20Huilca.png?raw=true" alt="Segmento escritor">
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
