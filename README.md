@@ -620,6 +620,13 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 </table>
 
 ### 2.3.3. User Journey Mapping
+
+A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
+
+**Segmento escritor:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-journey-mapping/Persona%201.png?raw=true" alt="Segmento escritor">
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
