@@ -627,6 +627,10 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-journey-mapping/Persona%201.png?raw=true" alt="Segmento escritor">
 
+**Segmento ilustrador:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/user-journey-mapping/Persona%202.png?raw=true" alt="Segmento ilustrador">
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
