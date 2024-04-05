@@ -187,4 +187,51 @@ Con la implementación de herramientas de monetización justa y transparente, y 
 #### ¿Cuál es el problema?
 La falta de una plataforma integrada que facilite la colaboración entre ilustradores y escritores, y que a su vez, proporcione un sistema de reconocimiento adecuado para ambos. Actualmente, los artistas y escritores suelen trabajar de manera aislada o a través de plataformas que no están diseñadas específicamente para fomentar una colaboración efectiva, lo que puede resultar en oportunidades limitadas para obtener visibilidad y apoyo. 
 
+### Where / Dónde
+#### ¿Dónde está el usuario cuando usa el producto?
+El usuario puede estar en cualquier lugar con acceso a internet cuando utiliza el producto. La naturaleza digital de la plataforma permite que los usuarios se conecten y colaboren sin importar su ubicación geográfica, ya sea desde la comodidad de su hogar, en un café, durante un viaje o en cualquier espacio que les inspire para leer o crear. Esto facilita una flexibilidad y accesibilidad sin precedentes, permitiendo que la creatividad y la colaboración fluyan sin las barreras del espacio físico.
+
+#### ¿Dónde surge el problema?
+El problema surge en el entorno digital, específicamente en las plataformas de publicación y lectura en línea, donde la infraestructura actual no satisface adecuadamente las necesidades de los artistas y escritores. Estos creadores a menudo se encuentran con dificultades para conectar entre sí de manera efectiva . 
+
+### Why / Por Qué
+#### ¿Cuál es la causa del problema?
+La causa del problema es multifacética e incluye factores como la ausencia de una infraestructura adecuada en las plataformas digitales que promueva una colaboración efectiva entre ilustradores y escritores. Además, hay una falta de reconocimiento del valor del trabajo creativo, lo que repercute negativamente en la sostenibilidad de las carreras de los artistas y escritores. Estos desafíos subyacentes son los que nuestra plataforma busca abordar y superar.
+
+
+### When / Cuándo
+#### ¿Cuándo sucede el problema?
+El problema suele manifestarse durante el proceso de publicación y distribución de las obras creativas en las plataformas digitales. Específicamente, ocurre cuando los artistas y escritores buscan publicar su trabajo, conectar con otros creadores o monetizar sus obras. Estos momentos críticos revelan las deficiencias de las plataformas actuales en términos de colaboración y compensación, lo que a menudo resulta en una experiencia frustrante para los creadores que buscan vivir de su arte y su escritura.
+
+### Who / Quién
+#### ¿Quiénes están involucrados?
+Los involucrados en el problema son principalmente ilustradores y escritores que buscan publicar y monetizar sus obras digitales. También incluye a lectores que desean acceder a contenido de calidad y a plataformas de publicación que actúan como intermediarios entre los creadores y la audiencia.
+
+#### ¿A quién le sucede el problema?
+El problema afecta principalmente a ilustradores y escritores que buscan una plataforma para publicar y monetizar sus trabajos de manera justa y sostenible. También impacta a lectores que desean contenido ilustrado de calidad y a plataformas digitales que facilitan la publicación y distribución de estos trabajos. En última instancia, el problema concierne a toda la comunidad creativa que se beneficia de un ecosistema de publicación digital saludable y equitativo.
+
+#### ¿Quién lo utilizará?
+La plataforma será utilizada por ilustradores y escritores que buscan publicar sus trabajos y colaborar en la creación de libros ilustrados digitales. También estará dirigida a lectores interesados en descubrir y disfrutar de estas obras, así como a editores y agentes literarios que buscan talentos emergentes. Además, puede ser una herramienta valiosa para educadores y bibliotecarios que deseen incorporar estos recursos en sus programas de lectura y aprendizaje.
+
+### How / Cómo
+#### ¿En qué condiciones los usuarios usan nuestro producto?
+Los usuarios utilizan nuestro producto en una variedad de condiciones, principalmente caracterizadas por la necesidad de acceso a internet y un dispositivo compatible, como una computadora, tableta o teléfono inteligente. Idealmente, lo usan en un entorno que les proporciona comodidad y concentración, lo que puede variar desde un espacio tranquilo en casa hasta un lugar público como una biblioteca o café. La plataforma está diseñada para ser accesible y fácil de usar, independientemente de si el usuario está buscando un momento de relajación a través de la lectura o está inmerso en el proceso creativo de ilustración o escritura. Además, se considera el uso en diferentes zonas horarias y idiomas, asegurando una experiencia inclusiva y global.
+
+#### ¿Cómo nos conocieron los usuarios?
+Los usuarios pueden conocer nuestra plataforma a través de diversas vías. Algunas de las más comunes incluyen:
+
+- Boca a boca: La recomendación de amigos, familiares o colegas que ya han utilizado la plataforma y han tenido experiencias positivas.
+- Redes sociales: Publicaciones, anuncios o menciones en plataformas como Facebook, Twitter, Instagram, entre otras.
+- Colaboraciones con influencers: Asociaciones con figuras prominentes en el mundo de la literatura y el arte que promueven la plataforma a sus seguidores.
+- Eventos y ferias de libros: Participación en eventos del sector donde se presenta la plataforma y se interactúa directamente con el público objetivo.
+- Campañas de marketing digital: Anuncios en línea y estrategias de SEO que ayudan a aumentar la visibilidad en motores de búsqueda y sitios web relacionados.
+
+Estas estrategias de divulgación están diseñadas para alcanzar a un público amplio y diverso, asegurando que los usuarios descubran nuestra plataforma y se sientan motivados a explorarla.
+
+#### ¿Cómo prefieren los usuarios acceder a nuestro servicio?
+Los usuarios prefieren acceder a nuestro servicio de una manera que sea cómoda y conveniente para ellos. Esto generalmente significa tener la opción de usar la plataforma a través de una aplicacion web que sea fácil de navegar y esté optimizada para diferentes dispositivos. La flexibilidad es clave, por lo que ofrecemos una experiencia de usuario consistente y de alta calidad tanto en dispositivos móviles como en computadoras de escritorio. Además, muchos usuarios valoran la posibilidad de descargar contenido para leerlo sin conexión, así como funciones de personalización que les permitan ajustar la experiencia de lectura a sus preferencias personales.
+
+### How much / Cuánto
+El impacto del problema es significativo, ya que afecta directamente a la sostenibilidad económica y el bienestar emocional de los ilustradores y escritores. Además, repercute en la calidad y diversidad del contenido disponible para los lectores y en la salud general de la industria creativa. Un sistema que no apoya adecuadamente a los creadores puede llevar a una reducción en la producción de obras originales y a una disminución en la innovación dentro del campo literario y artístico. Por lo tanto, abordar este problema no solo beneficia a los creadores individuales, sino que también enriquece la cultura y la sociedad al preservar una amplia gama de voces y perspectivas.
+
 ### 1.2.2. Lean UX Process
