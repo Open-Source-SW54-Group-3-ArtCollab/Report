@@ -45,43 +45,43 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 
 ### Mock-ups versión Desktop:
 #### Mock-ups de la página principal
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
 
 #### Mock-ups de la sección Géneros
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Generos.png?raw=true" alt="Web App Desktop Generos">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/Generos.png?raw=true" alt="Web App Desktop Generos">
 
 #### Mock-ups de la sección Populares
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Populares.png?raw=true" alt="Web App Desktop Populares">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/Populares.png?raw=true" alt="Web App Desktop Populares">
 
 #### Mock-ups de la sección Suscripciones
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
 
 #### Mock-ups de la sección Monetización
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Monetizacion.png?raw=true" alt="Web App Desktop artistas monetización">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/Monetizacion.png?raw=true" alt="Web App Desktop artistas monetización">
 
 #### Mock-ups de la sección Artistas
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Artistas.png?raw=true" alt="Web App Desktop Artistas">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/Artistas.png?raw=true" alt="Web App Desktop Artistas">
 
 #### Mock-ups de la sección inicio de sesión
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
 
 #### Mock-ups de la sección registro
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
 
 #### Mock-ups de la sección perfiles
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
 
 #### Mock-ups de la sección chat artista
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
 
 #### Mock-ups de la sección historia
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/historia.png?raw=true" alt="Web App Desktop Historia">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/historia.png?raw=true" alt="Web App Desktop Historia">
 
 #### Mock-ups de la sección publicar libro
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/publicar-libro.png?raw=true" alt="Web App Desktop Publciar libro">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/publicar-libro.png?raw=true" alt="Web App Desktop Publciar libro">
 
 #### Mock-ups de la sección editar historia
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/mockups-desktop/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
 
 Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
