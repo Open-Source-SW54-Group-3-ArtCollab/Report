@@ -16,6 +16,8 @@ mejorar los aspectos negativos identificados en el As-is Scenario.
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/to-be-scenario-mapping/To-Be%20Scenario%20Mapping-lector.jpg?raw=true" alt="Segmento lector">
 
+Enlace de Miro: https://miro.com/app/board/uXjVKXvjT-4=/?share_link_id=428179149390
+
 ## 3.2. User Stories
 <table>
 <colgroup>
