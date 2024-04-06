@@ -275,6 +275,42 @@ En cuanto a la propuesta de una aplicación de lectura de libros ilustrados, Ale
 
 Respecto a un plan premium, Alexandra considera importante que incluya características innovadoras que mejoren su experiencia como ilustradora. Estaría dispuesta a pagar por acceso a contenido exclusivo de artistas emergentes y herramientas que impulsen su creatividad, preferiblemente a un precio asequible. Además, manifestó su disposición a ser una usuaria activa en la plataforma para que sus hermosas ilustraciones puedan llegar a más personas.
 
+**Entrevista 2:**
+
+Nombre: Carolina
+
+Apellido: Torres
+
+Edad: 25 años
+
+Lugar de residencia: Huancayo, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista: 
+
+<img src="" alt="Entrevista 02 Segmento ilustrador">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ER7c3WWPRA5AjihjBObrqGEBXs0lQ9PRBNwEhbDPXaaJxw
+
+Resumen de la entrevista:
+
+Se entrevistó a Carolina Torres, una jóven de 25 años que trabaja como ilustradora independiente tanto de modo tradicional como digital.
+
+Ella menciona que actualmente publica sus trabajos en plataformas como instagram y pinterest, también solía publicar anteriormente en tiktok y behance, pero debido a que tenía muy pocos seguidores los dejo.
+
+Sin embargo, nos menciona que en general como no ha tenido buenos resultados en las redes sociales le ha sido dificil promocionarse como artista.
+
+Con respecto de trabajar con un escritor para hacerle ilustraciones para su libro nos indica que le gustaría ser informada de antemano por el escritor sobre el estílo de dibujo que desea, la cantidad de dibujos, cuántas correcciones desería hacer ya que mientras más haya el pago tendría que ser mayor, al igual que el plazo que le da al artista para entregarle las ilustraciones porque a menor tiempo mayor el precio y viceversa. Para que de ese modo el precio que se acuerde sea justo, quede claro desde un inicio y le gustaría que se realizará a través de un medio de pago seguro.
+
+A ella le gustaría poder contar con herramientas que ayuden a la comunicación entre el ilustrador y escritor tales como un chat que permita a su vez subir imagenes para que de esa manera el escritor pueda ver como van quedando los avances y según eso de comentarios, también ella quisiera poder tener una opción de videollamada donde pueda interactuar de una manera más directa con el escritor.
+
+Cabe resaltar que esto lo ve como una muy buena idea porque al estar en constante comunicación con el escritor puede ir mostrandole cada una de las etapas del proceso de creación para que así por ejemplo en los bocetos este pueda decirle que correcciones hacer y evitarse tener que rehacer todo el dibujo ya terminado.
+
+Asimismo, en el caso de un perfil para ilustrador ella nos menciona que le sería de gran ayuda que se muestren ahi las redes sociales que posee para poder aumentar su comunidad al igual que mostrar sus anteriores trabajos. Y también que sería bueno que en la plataforma misma tuviera la opción de mostrar sus trabajos más resaltantes para que así puedan observar su estilo de dibujo.
+
+Por último, nos expresó que se encuentra de acuerdo con pagar un monto para que su perfil se destaque en la página principal del aplicativo, debido a que considera esto como una inversión para su trabajo.
+
 **Segmento lector:**
 
 **Entrevista 1:**
