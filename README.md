@@ -8,6 +8,10 @@ mejorar los aspectos negativos identificados en el As-is Scenario.
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/to-be-scenario-mapping/To-Be%20Scenario%20Mapping-escritor.jpg?raw=true" alt="Segmento escritor">
 
+**Segmento ilstrador:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/to-be-scenario-mapping/To-Be%20Scenario%20Mapping-ilustrador.jpg?raw=true" alt="Segmento ilstrador">
+
 ## 3.2. User Stories
 <table>
 <colgroup>
