@@ -289,7 +289,7 @@ Entrevistador: Camila Amaro
 
 Evidencia de la entrevista: 
 
-<img src="" alt="Entrevista 02 Segmento ilustrador">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Camila/entrevista02-ilustrador.png?raw=true" alt="Entrevista 02 Segmento ilustrador">
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ER7c3WWPRA5AjihjBObrqGEBXs0lQ9PRBNwEhbDPXaaJxw
 
