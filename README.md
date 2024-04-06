@@ -1,8 +1,12 @@
 # Capítulo III: Requirements Specification
-<hr>
 
 ## 3.1. To-Be Scenario Mapping.
-<hr>
+Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución haya sido implementada para cada segmento objetivo. El objetivo del presente artefacto es comparar y
+mejorar los aspectos negativos identificados en el As-is Scenario.
+
+**Segmento escritor:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/to-be-scenario-mapping/To-Be%20Scenario%20Mapping-escritor.jpg?raw=true" alt="Segmento escritor">
 
 ## 3.2. User Stories
 <table>
