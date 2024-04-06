@@ -673,4 +673,10 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/as-is-scenario-mapping/As-is%20Scenario%20Mapping-ilustrador.jpg?raw=true" alt="Segmento ilustrador">
 
+**Segmento lector:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/as-is-scenario-mapping/As-is%20Scenario%20Mapping-lector.jpg?raw=true" alt="Segmento lector">
+
+Enlace de Miro: https://miro.com/app/board/uXjVKXpe0IE=/?share_link_id=691586185244
+
 ## 2.4. Ubiquitous Language
