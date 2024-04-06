@@ -669,4 +669,8 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/as-is-scenario-mapping/As-is%20Scenario%20Mapping-escritor.jpg?raw=true" alt="Segmento escritor">
 
+**Segmento ilustrador:**
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/as-is-scenario-mapping/As-is%20Scenario%20Mapping-ilustrador.jpg?raw=true" alt="Segmento ilustrador">
+
 ## 2.4. Ubiquitous Language
