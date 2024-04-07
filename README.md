@@ -66,7 +66,7 @@ Luego de la búsqueda se va a poder filtrar como el usuario lo desee ya
 sea por genero literario o autores. Además, de poder ordenar los
 resultados de manera alfabética.
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Search.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Search.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="500"/>
 
 ### 4.2.5. Navigation Systems.
 En el caso de la navegación en la aplicación web será de una manera
