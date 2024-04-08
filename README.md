@@ -384,7 +384,7 @@ Lugar de residencia: San Miguel, Lima Perú
 Evidencia de la entrevista:
  <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png"/>
 
- Enlace de entrevista: https://drive.google.com/file/d/1ccKlZeyxxI_kUGiclffEoAk6drr7LKo_/view?usp=sharing
+ Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EWgNxIyoPgtImcY64zOA1HEB9rtLDY1afIgttERgdGsSXA?e=ahN2Q3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
  Se entrevisto a Mauricio,un joven de 22 años que actualmente se encuentra estudiando la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas en la ciudad de Lima.
 
