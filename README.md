@@ -38,7 +38,8 @@ Enlace de Miro: https://miro.com/app/board/uXjVKXvjT-4=/?share_link_id=428179149
 <tr class="odd">
 <th>E1-US01</th>
 <th>Inicio de Datos</th>
-<th>Como usuario quiero registrarme e iniciar sesión para explorar las paginas</th>
+<th>Como usuario quiero registrarme e iniciar sesión para explorar la
+páginas</th>
 <th><p>Escenario 1: Acceso al registro de datos.</p>
 <p>Dado que me encuentro en la página de inicio</p>
 <p>Cuando el usuario le da clic en registrarse</p>
@@ -94,21 +95,9 @@ al rol que haya escogido con nuevas herramientas.</p></th>
 </tr>
 <tr class="header">
 <th>E2-US04</th>
-<th>Colaborar otros escritores</th>
-<th>Como escritor quiero colaborar con otros escritores para escribir
-obras</th>
-<th><p>Escenario 1: Conectar</p>
-<p>Dado que el escritor se encuentra en el chat con otro escritor</p>
-<p>Cuando ambos hayan llegado a un acuerdo, en el chat darán clic en
-colaborar</p>
-<p>Entonces ambos escritores tendrán acceso a una obra elegida o
-creada.</p></th>
-<th>2</th>
-</tr>
-<tr class="odd">
-<th>E2-US05</th>
 <th>Colaboración con Ilustradores</th>
-<th>Como escritor quiero que mis obras sean ilustradas para mejorarlas</th>
+<th>Como escritor quiero que mis obras sean ilustradas para
+mejorarlas</th>
 <th><p>Escenario 1: Ilustra</p>
 <p>Dado que me encuentro en la pestaña de mis obras</p>
 <p>Cuando le dé clic en alguna de mis obras e Ilustrar</p>
@@ -124,10 +113,11 @@ ilustradores</p>
 <p>Entonces elegirás que obra poder darle acceso</p></th>
 <th>2</th>
 </tr>
-<tr class="header">
-<th>E3-US06</th>
+<tr class="odd">
+<th>E3-US05</th>
 <th>Destaca tus libros</th>
-<th>Como escritor quiero destacar mis libros para tener mayores visualizaciones</th>
+<th>Como escritor quiero destacar mis libros para tener mayores
+visualizaciones</th>
 <th><p>Escenario 1: Sistema monetario</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic en monedas</p>
@@ -145,8 +135,8 @@ monedas</p>
 obra</p></th>
 <th>3</th>
 </tr>
-<tr class="odd">
-<th>E3-US07</th>
+<tr class="header">
+<th>E3-US06</th>
 <th>Reparto por Ingresos publicitarios</th>
 <th>Como escritor quiero generar ingresos para mejorar mis libros</th>
 <th><p>Escenario 1: Ingreso al programa de recompensas</p>
@@ -166,10 +156,11 @@ obra</p></th>
 obra</p></th>
 <th>3</th>
 </tr>
-<tr class="header">
-<th>E5-US08</th>
+<tr class="odd">
+<th>E5-US07</th>
 <th>Ingreso por las ilustraciones</th>
-<th>Como ilustrador quiero tener una compensación justa para poder mejorar mi productividad</th>
+<th>Como ilustrador quiero tener una compensación justa para poder
+invertir en mis dibujos</th>
 <th><p>Escenario 1: Acuerdo Mutuo</p>
 <p>Dado que el ilustrador fue contactado por el escritor</p>
 <p>Cuando ambas partes lleguen a un acuerdo se dará a una
@@ -182,8 +173,8 @@ externa</p>
 <p>Entonces se le pagará por un medio externo</p></th>
 <th>5</th>
 </tr>
-<tr class="odd">
-<th>E1-US09</th>
+<tr class="header">
+<th>E1-US08</th>
 <th>Configuracion de Perfil de Usuario</th>
 <th>Como usuario quiero configurar mi perfil para satisfacer mis
 gustos</th>
@@ -198,11 +189,11 @@ gustos</th>
 portafolio</p></th>
 <th>1</th>
 </tr>
-<tr class="header">
-<th>E4-US10</th>
+<tr class="odd">
+<th>E4-US09</th>
 <th>Desbloqueo de Capítulos</th>
 <th>Como usuario quiero tener acceso al contenido exclusivo de la
-plataforma para mejorar mi experiencia</th>
+plataforma para ver mas capitulos</th>
 <th><p>Escenario 1: Finanzas</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
 <p>Cuando le de clic al apartado de monedas</p>
@@ -218,8 +209,8 @@ clic en desbloquear</p>
 <p>Entonces se le desbloqueara el capítulo</p></th>
 <th>4</th>
 </tr>
-<tr class="odd">
-<th>E4-US11</th>
+<tr class="header">
+<th>E4-US10</th>
 <th>Dejar Comentarios</th>
 <th>Como usuario quiero poder comentar las obras para ayudar con mi
 feedback</th>
@@ -233,8 +224,8 @@ feedback</th>
 <p>Entonces podrá escribir su comentario y publicarlo</p></th>
 <th>4</th>
 </tr>
-<tr class="header">
-<th>E5-US12</th>
+<tr class="odd">
+<th>E5-US11</th>
 <th>Flexibilidad al ilustrar</th>
 <th>Como ilustrador quiero tener flexibilidad creativa a la hora de
 dibujar para tener un mejor rendimiento</th>
@@ -254,17 +245,17 @@ creativa</p>
 creativa</p></th>
 <th>5</th>
 </tr>
-<tr class="odd">
-<th>E4-US13</th>
+<tr class="header">
+<th>E4-US12</th>
 <th>Diversos géneros literarios</th>
-<th>Como usuario quiero tener una gran cantidad de géneros literarios para
-tenerlos a mi disposición</th>
+<th>Como usuario quiero tener una gran cantidad de géneros literarios
+para tenerlos a mi disposición</th>
 <th><p>Escenario 1: Opción géneros</p>
 <p>Dado que me encuentro en la página principal</p>
 <p>Cuando le de clic a ver catalogo</p>
 <p>Entonces me redirigirá al catálogo literario de la página</p>
 <p>Escenario 2: Filtración</p>
-<p>Dado que me encuentro en el catálogo literario de la pagina</p>
+<p>Dado que me encuentro en el catálogo literario de la página</p>
 <p>Cuando le de clic a filtrar</p>
 <p>Entonces lo podré filtrar por género, número de páginas, popularidad,
 etc.</p></th>
