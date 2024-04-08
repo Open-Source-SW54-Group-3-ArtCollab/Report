@@ -337,7 +337,7 @@ Por ultimo, nos menciona sobre la importancia de contar con una buena interfaz d
 
 
 
-<img src=" https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png"/>
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png" alt="Entrevista 03 Segmento Ilustrador" />
 
 
 
@@ -417,7 +417,7 @@ Lugar de residencia: San Miguel, Lima Perú
 Entrevistador: Mathias Jave
 
 Evidencia de la entrevista:
- <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png"/>
+ <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png" alt="Entrevista 03 Segmento Lector"/>
 
  Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EWgNxIyoPgtImcY64zOA1HEB9rtLDY1afIgttERgdGsSXA?e=ahN2Q3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
