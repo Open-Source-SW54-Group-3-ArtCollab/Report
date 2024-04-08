@@ -336,7 +336,7 @@ Asimismo, menciona que en su opinion esta a favor de pagar para tener un mayor n
 Por ultimo, nos menciona sobre la importancia de contar con una buena interfaz de usuario que permita a otros artistas navegar de manera efectiva, asi como tambien la implementacion de secciones que sean de facil acceso.
 
 
-
+Evidencia de la entrevista: 
 <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png" alt="Entrevista 03 Segmento Ilustrador" />
 
 
