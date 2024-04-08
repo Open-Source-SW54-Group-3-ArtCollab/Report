@@ -311,6 +311,14 @@ Asimismo, en el caso de un perfil para ilustrador ella nos menciona que le serí
 
 Por último, nos expresó que se encuentra de acuerdo con pagar un monto para que su perfil se destaque en la página principal del aplicativo, debido a que considera esto como una inversión para su trabajo.
 
+**Entrevista 3:**
+
+
+
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
+
+
 **Segmento lector:**
 
 **Entrevista 1:**
