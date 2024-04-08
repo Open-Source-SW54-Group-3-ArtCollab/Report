@@ -313,6 +313,31 @@ Por último, nos expresó que se encuentra de acuerdo con pagar un monto para qu
 
 **Entrevista 3:**
 
+Nombre: Aaron
+
+Apellido: Acuña
+
+Edad: 22 años
+
+Lugar de residencia: La Victoria, Lima Peru
+
+Entrevistador: Mathias Jave
+
+Evidencia de la entrevista:
+
+Se entrevisto a Aaron Acuña, un joven de 22 años que trabaja como ilustrador independiente por medio de las redes sociales.
+
+El menciona que particularmente no considera complicado contactar a otros escritores a traves de las redes sociales mas famosas, puesto a que existen comunidades en plataformas como facebook, instagram o twitter.
+
+Sin embargo, nos menciona de que en su caso considera importante evaluar la trayectoria artistica de un escritor antes de entablar una relacion profesional, por otro lado tambien destaca la comunicacion continua como una de las grandes necesidades de todo artista.
+
+Asimismo, menciona que en su opinion esta a favor de pagar para tener un mayor numero de alcance dentro la plataforma, pues considera que esto le brindaria grandes beneficios.
+
+Por ultimo, nos menciona sobre la importancia de contar con una buena interfaz de usuario que permita a otros artistas navegar de manera efectiva, asi como tambien la implementacion de secciones que sean de facil acceso.
+
+
+
+<img src=" https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png"/>
 
 
 
@@ -388,6 +413,8 @@ Apellidos: Rivo Rojas
 Edad: 22 años
 
 Lugar de residencia: San Miguel, Lima Perú
+
+Entrevistador: Mathias Jave
 
 Evidencia de la entrevista:
  <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png"/>
