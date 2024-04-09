@@ -82,13 +82,43 @@ página principal basta con apretar en el logo de ArtCollab
 <hr>
 
 ### 4.3.1. Landing Page Wireframe.
+Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=2030-156&mode=design
+
+Versión Desktop:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Wireframes/Hero.png?raw=true" alt="Landing Page Hero Wireframe">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Wireframes/DESCUBRE.png?raw=true" alt="Landing Page DESCUBRE Wireframe">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Wireframes/COLABORA.png?raw=true" alt="Landing Page COLABORA Wireframe">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Wireframes/Footer.png?raw=true" alt="Landing Page Footer Wireframe">
+
+Versión Mobile:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/Hero-Mobile.png?raw=true" alt="Landing Page Mobile Hero Wireframe">
+<br>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/DESCUBRE-Mobile.png?raw=true" alt="Landing Page Mobile DESCUBRE Wireframe">
+<br>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/COLABORA-Mobile.png?raw=true" alt="Landing Page Mobile COLABORA Wireframe">
+<br>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/Footer-Mobile.png?raw=true" alt="Landing Page Mobile Footer Wireframe">
+
 ### 4.3.2. Landing Page Mockup.
+Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
+
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/7aea00ae377ffed000f1efd7462952f131256f83/assets/images/Hero.png?raw=true" alt="Landing Page Desktop Hero">
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/7aea00ae377ffed000f1efd7462952f131256f83/assets/images/DESCUBRE.png?raw=true" alt="Landing Page Desktop DESCUBRE">
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/7aea00ae377ffed000f1efd7462952f131256f83/assets/images/COLABORA.png?raw=true" alt="Landing Page Desktop COLABORA">
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/7aea00ae377ffed000f1efd7462952f131256f83/assets/images/Footer.png?raw=true" alt="Landing Page Desktop Footer">
 
-Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
+Versión Mobile:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Mockup/Hero-Mobile.png?raw=true" alt="Landing Page Mobile Hero">
+<br>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Mockup/DESCUBRE-Mobile.png?raw=true" alt="Landing Page Mobile DESCUBRE">
+<br>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Mockup/COLABORA-Mobile.png?raw=true" alt="Landing Page Mobile COLABORA">
+<br>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Mockup/Footer-Mobile.png?raw=true" alt="Landing Page Mobile Footer">
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
