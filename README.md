@@ -143,15 +143,28 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/304
 
 
 <h4> User goal: Inicio de Sesion </h4>
-<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Userflow-Diagrams/InicioSesion.png"/>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/InicioSesion.png"/>
 
 <h4> Use goal: Publicar Libros </h4>
-<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Userflow-Diagrams/PublicarLibro.png"/>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/PublicarLibro.png"/>
 
 <h4> User goal: Editar Libros </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarLibro.png"/>
 
-<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Userflow-Diagrams/EditarLibro.png"/>
+<h4> User goal: Iniciar una sala de chat </h4>
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/Userflow-diagrams/InicarSala.png"/>
 
+<h4> User goal: Editar perfil de ilustrador </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarPerfilArtista.png"/>
+
+<h4> User goal: Editar perfil de escritor </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarPerfilEscritor.png"/>
+
+<h4> User goal: Buscar un libro </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/BuscarLibros.png"/>
+
+<h4> User goal: Editar perfil de cuenta </h4>
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarCuenta.png"/>
 
 
 
