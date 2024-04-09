@@ -433,6 +433,33 @@ Evidencia de la entrevista:
 
  Finalmente, nos comenta que estaria dispuesto a ser un usuario concurrente de nuestra plataforma solo si esta cuenta con una interfaz intuitiva y versatil, tambien si cuenta con una gran variedad de obras por ofrecer a sus usuarios.
 
+**Entrevista 4:**
+
+Nombres: Ana Lucía
+
+Apellidos: Rojas Cuzcano
+
+Edad: 20 años
+
+Lugar de residencia: Lince, Lima Perú
+
+Entrevistador: Samira Alvarez
+
+Evidencia de la entrevista:
+ <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Samira/entrevista04-lector.PNG?raw=true" alt="Entrevista 04 Segmento Lector"/>
+
+ Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EY_eEIqCES9NhNN_FVbP4OwBRjQhGHlLWypPVyYCUrVv-Q?e=eHublh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+ Resumen de la entrevista:
+
+ Se entrevistó a Ana Lucía, una joven de 20 años que estudia la carrera de Hotelería y Turismo en la Universidad San Martin de Porres y que vive en el distrito de Lince en Lima Perú. Ana Lucía consume libros tanto en físico como en digital, más que todo estos últimos en sus tiempos libres.
+
+ Menciona que las características que toma en cuenta para elegir un libro son principalmente el género y su contenido. También indica que se suele fijar en la portadas y si esta le resulta atractiva o no. No toma en cuenta otros factores como el renombre del autor o las ilustraciones. Aunque ella misma no suele dejar reseñas acerca de los libros que lee en línea, sí consulta los comentarios de otras personas acerca de una obra que va a empezar a leer, principalmente para ver si tiene buenas opiniones o no.
+
+En cuanto a nuestra propuesta, menciona que una función que le gustaría ver sería tener la posibilidad de ver más a detalle las ilustraciones y que estas se puedan descargar en buena calidad. Además, consideraría innovador tener la opción de poder tomar notas acerca de una frase o una sección específica del libro, así como poder guardar citas o ilustraciones que le hayan gustado. También, indica que no hay funciones en otras aplicaciones similares que no le gustaría encontrar en nuestra aplicación. En cuanto a la interacción de los lectores con escritores e ilustradores, propone la implementación de una comunidad donde el lector pueda comentar sobre las historias y las ilustraciones de una obra. Esto facilitaría el contacto entre estos segmentos. Respecto a un plan premium, Ana Lucía menciona que pagaría por la personalización de la interfaz, incluyendo la opción de cambiar colores o agregar temas, además de eliminar anuncios si los hubiera en la aplicación.
+
+Finalmente, comenta que sí se convertiría en una usuaria recurrente en nuestra plataforma. Observa que actualmente no existen muchas aplicaciones de lectura que también integren ilustraciones, por lo que lo considera novedoso e interesante.
+
 ### 2.2.3 Análisis de entrevistas.
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
