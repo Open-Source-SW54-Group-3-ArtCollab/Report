@@ -199,6 +199,7 @@ Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visua
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/wireflow-diagrams/Monetizacion.png"/>
 <h4> <strong> Descripcion: </strong> </h4>
 Al iniciar sesion se encuentra dentro de la pantalla principal, el usuario visualiza la opción de ver los sistemas de monetización, posteriomente selecciona la opción mencionada previamente y visualiza todas las opciones que ofrece la aplicación.
+
 ### 4.4.3. Web Applications Mock-ups
 
 ### Mock-ups versión Desktop:
