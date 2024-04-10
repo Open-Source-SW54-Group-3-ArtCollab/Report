@@ -56,11 +56,11 @@
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  <td>
+          <td> 13  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td>  <td>
+          <td>  13 <td>
       </tr>
 
 
