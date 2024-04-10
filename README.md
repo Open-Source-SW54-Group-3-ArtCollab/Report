@@ -368,6 +368,29 @@ Evidencia de la entrevista:
 
 Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
 
+**Entrevista 4:**
+
+Nombres: Daniela Alejandra
+
+Apellidos: Cuadros Rodriguez
+
+Edad: 22 años
+
+Lugar de residencia: Lince, Lima
+
+Evidencia de la entrevista: 
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Juan/entrevista04-ilustrador.png?raw=true" alt="Entrevista 04 Segmento Ilustrador">
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/Efqi7BEKkKlPtV7hNpxhlNcByiB_Vk4KdHsDOde4jYFF1Q?e=5uLFgk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Se entrevisto Daniela Cuadros es un estudiante de Administración y Negocios Internacionales de 22 años y Reside en Lince, Lima. Daniela es un gran entusiasta por dibujar puesto que siempre le ha gustado. Actualmente se hace conocer en Pinterest y Instagram, le gusta la aplicación, pero no logra poder conseguir algún trabajo decente debido a las muchas veces que le han intentado pagar con promociones o simplemente no le pagan por su trabajo.
+
+En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, personalizables y que se pueda colaborar con escritores, asi de que ofrezcan un lugar seguro donde pueda recibir algún tipo de compensación cómodamente.
+
+Finalmente, le interesa la idea de pagar para que su portafolio y perfil sean vistos piensa que es una excelente oportunidad para darse a conocer.
 
 **Segmento lector:**
 
