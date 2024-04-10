@@ -354,9 +354,9 @@ creativa</p></td>
 <hr>
 
 ## 3.3. Impact Mapping.
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Impactmap1.png?raw=true" alt="Impact Map 1" style="margin-bottom: 5px;" width="1000"/>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Impactmap2.png?raw=true" alt="Impact Map 2" style="margin-bottom: 5px;" width="1000"/>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Impactmap3.png?raw=true" alt="Impact Map 3" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Impactmap1O.png?raw=true" alt="Impact Map 1" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Impactmap2O.png?raw=true" alt="Impact Map 2" style="margin-bottom: 5px;" width="1000"/>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Impactmap3O.png?raw=true" alt="Impact Map 3" style="margin-bottom: 5px;" width="1000"/>
 <hr>
 
 ## 3.4. Product Backlog.
