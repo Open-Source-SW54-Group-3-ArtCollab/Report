@@ -247,6 +247,31 @@ a través de un chat en vivo, videollamadas o correos electrónicos.
 Finalmente, en cuanto a la publicidad de sus libros, nos comenta que le gustaría ofrecer a sus lectores contenido exclusivo, como capítulos adicionales, 
 así como comisiones exclusivas de sus lectores.
 
+**Entrevista 2:**
+
+Nombres: Rody Sebastian
+
+Apellidos: Vilchez Marin
+
+Edad: 23 años
+
+Lugar de residencia: Trujillo, Perú
+
+Evidencia de la entrevista:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Juan/entrevista02-Escritor.png?raw=true" alt="Entrevista 02 Segmento escritor">
+
+Enlace de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EVRmfD-tfg9JtW2r5wza-VABSrYWk7KR-Sf5FW3U_UVC1w?e=DMIaa7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Se entrevisto a Rody Vílchez es un estudiante de Ciencias de la Computación de 23 años y Reside en Trujillo, Perú. Rody es un gran entusiasta por la escritura puesto que antes lleva la carrera de Derecho. Actualmente se hace conocer en WattPad, le gusta la aplicación, pero no puede interactuar en totalidad con sus lectores.
+
+En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, personalizables y que se pueda interactuar con los lectores en el contexto de esto el pronostica que aumentaría la calidad de sus obras aumentaría debido a que podría ordenar mejor todas sus ideas. 
+
+Finalmente, le interesa la idea de colaborar con ilustradores para comprender mas el punto de vista y comodidad.
+
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
@@ -310,6 +335,62 @@ Cabe resaltar que esto lo ve como una muy buena idea porque al estar en constant
 Asimismo, en el caso de un perfil para ilustrador ella nos menciona que le sería de gran ayuda que se muestren ahi las redes sociales que posee para poder aumentar su comunidad al igual que mostrar sus anteriores trabajos. Y también que sería bueno que en la plataforma misma tuviera la opción de mostrar sus trabajos más resaltantes para que así puedan observar su estilo de dibujo.
 
 Por último, nos expresó que se encuentra de acuerdo con pagar un monto para que su perfil se destaque en la página principal del aplicativo, debido a que considera esto como una inversión para su trabajo.
+
+**Entrevista 3:**
+
+Nombre: Aaron
+
+Apellido: Acuña
+
+Edad: 22 años
+
+Lugar de residencia: La Victoria, Lima Peru
+
+Entrevistador: Mathias Jave
+
+Evidencia de la entrevista:
+
+Se entrevisto a Aaron Acuña, un joven de 22 años que trabaja como ilustrador independiente por medio de las redes sociales.
+
+El menciona que particularmente no considera complicado contactar a otros escritores a traves de las redes sociales mas famosas, puesto a que existen comunidades en plataformas como facebook, instagram o twitter.
+
+Sin embargo, nos menciona de que en su caso considera importante evaluar la trayectoria artistica de un escritor antes de entablar una relacion profesional, por otro lado tambien destaca la comunicacion continua como una de las grandes necesidades de todo artista.
+
+Asimismo, menciona que en su opinion esta a favor de pagar para tener un mayor numero de alcance dentro la plataforma, pues considera que esto le brindaria grandes beneficios.
+
+Por ultimo, nos menciona sobre la importancia de contar con una buena interfaz de usuario que permita a otros artistas navegar de manera efectiva, asi como tambien la implementacion de secciones que sean de facil acceso.
+
+
+Evidencia de la entrevista: 
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-ilustrador.png" alt="Entrevista 03 Segmento Ilustrador" />
+
+
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
+
+**Entrevista 4:**
+
+Nombres: Daniela Alejandra
+
+Apellidos: Cuadros Rodriguez
+
+Edad: 22 años
+
+Lugar de residencia: Lince, Lima
+
+Evidencia de la entrevista: 
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Juan/entrevista04-ilustrador.png?raw=true" alt="Entrevista 04 Segmento Ilustrador">
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/Efqi7BEKkKlPtV7hNpxhlNcByiB_Vk4KdHsDOde4jYFF1Q?e=5uLFgk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Se entrevisto Daniela Cuadros es un estudiante de Administración y Negocios Internacionales de 22 años y Reside en Lince, Lima. Daniela es un gran entusiasta por dibujar puesto que siempre le ha gustado. Actualmente se hace conocer en Pinterest y Instagram, le gusta la aplicación, pero no logra poder conseguir algún trabajo decente debido a las muchas veces que le han intentado pagar con promociones o simplemente no le pagan por su trabajo.
+
+En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, personalizables y que se pueda colaborar con escritores, asi de que ofrezcan un lugar seguro donde pueda recibir algún tipo de compensación cómodamente.
+
+Finalmente, le interesa la idea de pagar para que su portafolio y perfil sean vistos piensa que es una excelente oportunidad para darse a conocer.
 
 **Segmento lector:**
 
@@ -381,10 +462,12 @@ Edad: 22 años
 
 Lugar de residencia: San Miguel, Lima Perú
 
-Evidencia de la entrevista:
- <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png"/>
+Entrevistador: Mathias Jave
 
- Enlace de entrevista: https://drive.google.com/file/d/1ccKlZeyxxI_kUGiclffEoAk6drr7LKo_/view?usp=sharing
+Evidencia de la entrevista:
+ <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png" alt="Entrevista 03 Segmento Lector"/>
+
+ Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EWgNxIyoPgtImcY64zOA1HEB9rtLDY1afIgttERgdGsSXA?e=ahN2Q3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
  Se entrevisto a Mauricio,un joven de 22 años que actualmente se encuentra estudiando la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas en la ciudad de Lima.
 
@@ -397,6 +480,33 @@ Evidencia de la entrevista:
  Sobre nuestra propuesta, nos comenta que le parece interesante una plataforma donde diferentes escritores puedan emitir su propio feedback a otros usuarios, ademas tambien resalta que para el el sistema de suscripcion premium ofrece beneficios considerables para el usuario. 
 
  Finalmente, nos comenta que estaria dispuesto a ser un usuario concurrente de nuestra plataforma solo si esta cuenta con una interfaz intuitiva y versatil, tambien si cuenta con una gran variedad de obras por ofrecer a sus usuarios.
+
+**Entrevista 4:**
+
+Nombres: Ana Lucía
+
+Apellidos: Rojas Cuzcano
+
+Edad: 20 años
+
+Lugar de residencia: Lince, Lima Perú
+
+Entrevistador: Samira Alvarez
+
+Evidencia de la entrevista:
+ <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Samira/entrevista04-lector.PNG?raw=true" alt="Entrevista 04 Segmento Lector"/>
+
+ Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EY_eEIqCES9NhNN_FVbP4OwBRjQhGHlLWypPVyYCUrVv-Q?e=eHublh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+ Resumen de la entrevista:
+
+ Se entrevistó a Ana Lucía, una joven de 20 años que estudia la carrera de Hotelería y Turismo en la Universidad San Martin de Porres y que vive en el distrito de Lince en Lima Perú. Ana Lucía consume libros tanto en físico como en digital, más que todo estos últimos en sus tiempos libres.
+
+ Menciona que las características que toma en cuenta para elegir un libro son principalmente el género y su contenido. También indica que se suele fijar en la portadas y si esta le resulta atractiva o no. No toma en cuenta otros factores como el renombre del autor o las ilustraciones. Aunque ella misma no suele dejar reseñas acerca de los libros que lee en línea, sí consulta los comentarios de otras personas acerca de una obra que va a empezar a leer, principalmente para ver si tiene buenas opiniones o no.
+
+En cuanto a nuestra propuesta, menciona que una función que le gustaría ver sería tener la posibilidad de ver más a detalle las ilustraciones y que estas se puedan descargar en buena calidad. Además, consideraría innovador tener la opción de poder tomar notas acerca de una frase o una sección específica del libro, así como poder guardar citas o ilustraciones que le hayan gustado. También, indica que no hay funciones en otras aplicaciones similares que no le gustaría encontrar en nuestra aplicación. En cuanto a la interacción de los lectores con escritores e ilustradores, propone la implementación de una comunidad donde el lector pueda comentar sobre las historias y las ilustraciones de una obra. Esto facilitaría el contacto entre estos segmentos. Respecto a un plan premium, Ana Lucía menciona que pagaría por la personalización de la interfaz, incluyendo la opción de cambiar colores o agregar temas, además de eliminar anuncios si los hubiera en la aplicación.
+
+Finalmente, comenta que sí se convertiría en una usuaria recurrente en nuestra plataforma. Observa que actualmente no existen muchas aplicaciones de lectura que también integren ilustraciones, por lo que lo considera novedoso e interesante.
 
 ### 2.2.3 Análisis de entrevistas.
 <TABLE BORDER>
