@@ -19,6 +19,7 @@ Gama de colores elegida que va acorde al logo:
 
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
+En esta seccción, se va presentarla estructura del software según cada segemento objetivo. Ademas, los elementos que emplearan para la navegacion de esta.
 <hr>
 
 ### 4.2.1. Organization System.
