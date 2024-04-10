@@ -259,7 +259,7 @@ Lugar de residencia: Trujillo, Perú
 
 Evidencia de la entrevista:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/b14214d557f98c57f6dc4f514dbbeac920b8cd99/assets/images/entrevistas/entrevista02-escritor.png?raw=true" alt="Entrevista 02 Segmento escritor">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Juan/entrevista02-Escritor.png?raw=true" alt="Entrevista 02 Segmento escritor">
 
 Enlace de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EVRmfD-tfg9JtW2r5wza-VABSrYWk7KR-Sf5FW3U_UVC1w?e=DMIaa7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
