@@ -399,6 +399,95 @@ Evidencia de la entrevista:
  Finalmente, nos comenta que estaria dispuesto a ser un usuario concurrente de nuestra plataforma solo si esta cuenta con una interfaz intuitiva y versatil, tambien si cuenta con una gran variedad de obras por ofrecer a sus usuarios.
 
 ### 2.2.3 Análisis de entrevistas.
+<TABLE BORDER>
+	<TR>
+		<TD COLSPAN = 2 align=center>
+
+**Características**</TD>
+
+<TD align=center>
+
+**Escritor**</TD> 
+
+<TD align=center>
+
+**Ilustrador**</TD> 
+
+<TD align=center>
+
+**Lector**</TD>
+	
+   </TR>
+	<TR>
+		<TD ROWSPAN = 5>
+
+**Objetivas**
+</TD> 
+      <TD>Les llama la atención los libros ilustrados</TD>
+      <TD>100% ...</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+   <TR>
+      <TD>Necesitan tener medios de interacción con los otros tipos de usuarios</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+      <TR>
+      <TD>Han usado aplicaciones relacionadas anteriormente</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+      <TR>
+      <TD >Necesitan un espacio donde promocionar/encontrar libros ilustrados</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+      <TR>
+      <TD>Ven necesario contar con un perfil propio</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+
+   <TR>
+		<TD ROWSPAN = 5>
+
+**Subjetivas**
+</TD> 
+      <TD>Les gustaría que los escritores/ilustradores obtuvieran ganancias por sus obras</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+   <TR>
+      <TD>Les gustaría contar con planes de suscripción</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+      <TR>
+      <TD>Buscan información relacionada a su área de interés</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+      <TR>
+      <TD>Buscan una interfaz agradable con el usuario y que sea apta a cualquier dispositivo</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+      <TR>
+      <TD>Buscan poder saber cuales son las tendencias de libros leídos en la plataforma</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+      <TD>%</TD>
+	</TR>
+</TABLE>
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
