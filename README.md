@@ -57,6 +57,17 @@ previos
 
 Artista: Muestra los mejores artistas del momento en toda la plataforma
 ### 4.2.3. SEO Tags and Meta Tags.
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./src/css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <meta name="books" content="index, follow"
+    <title>Art Collab</title>
+    <meta name=keywords content="PenPal, CoWrite, Books, ReadCollab, AuthorAlly">
+    <meta name=description content="A project made by artists, for artists. Collaborate and create new projects and transform your hobby into a job or check out our extensive catalog of books and artists."
 ### 4.2.4. Searching Systems.
 
 El Sistema de navegación de ArtCollab nos ayudara a ver las preferencias
