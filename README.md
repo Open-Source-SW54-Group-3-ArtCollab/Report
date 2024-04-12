@@ -259,6 +259,131 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 
 ### 5.2.1.2. Sprint backlog 1
 
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link del Trello.
+
+Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5ec2ff75ec31FE4502/artcollab-sprint1
+
+<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Sprint-Backlog/SprintBacklog.png"/>
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP1-US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> W01  </th>
+     <th> Navbar Section  </th>
+     <th> Implementar la navbar con direcciones a la landing page de Artcollab   </th>
+     <th> 0.3  </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP1-US01 </th>
+     <th colspan="3">  Barra de navegación en la Landing Page  </th>
+      <th> W02  </th>
+     <th> Responsive Navbar Section </th>
+     <th> Adaptar la navbar en dispositivos mobiles usando el enfoque mobile first   </th>
+     <th> 0.5  </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> E1-US02 Visualización de las redes sociales mediante footer </th>
+      <th> W03  </th>
+     <th> Footer Section </th>
+     <th> Implementar la sección footer con las direcciones a las redes sociales   </th>
+     <th> 0.3  </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> E1-US02 Visualización de las redes sociales mediante footer </th>
+      <th> W04  </th>
+     <th> Responsive Footer Section </th>
+     <th> Adaptar el footer en dispositivos móviles usando el enfoque mobile first   </th>
+     <th> 0.3  </th>
+     <th> Gustavo Huilca/Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US03 </th>
+     <th colspan="3"> E1-US03  Sección de Explora </th>
+      <th> W05  </th>
+     <th> Explora Section </th>
+     <th> Implementar la sección de explora con la información de nuestra startup   </th>
+     <th> 2  </th>
+     <th> Juan Cuadros/Italo Luna </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US04</th>
+     <th colspan="3"> E1-US04 Sección Colabora</th>
+      <th> W06  </th>
+     <th> Colabora Section </th>
+     <th> Implementar la sección Colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
+     <th> 2  </th>
+     <th> Samira Alvarez </th> 
+     <th> Done </th>
+   </tr>
+     </tr>
+     <tr>
+      <th> EP1-US05</th>
+     <th colspan="3"> E1-US05 Sección Hero</th>
+      <th> W07  </th>
+     <th> Hero Section </th>
+     <th> Implementar la sección hero donde ofrecemos una breve descripción sobre nuestra startup.   </th>
+     <th> 2  </th>
+     <th> Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+   
+   
+
+  <tr>
+      <th> EP1-US17</th>
+     <th colspan="3"> E1-US017   Compatibilidad con diferentes dispositivos </th>
+      <th> W08  </th>
+     <th> Landing Page </th>
+     <th> Adaptar la comptabilidad del landing page a diferentes dispositivos.   </th>
+     <th> 2.5  </th>
+     <th> Mathias Jave/Italo Luna </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-U18 </th>
+     <th colspan="3"> E1-US18 Accesibilidad en el Landing page</th>
+      <th> W09  </th>
+     <th> Landing Page </th>
+     <th> Mejorar la accesibilidad en la landing page pensando en un diseño inclusivo.   </th>
+     <th> 2  </th>
+     <th> Camila Amaro/Samira Alvarez </th> 
+     <th> Done </th>
+   </tr>
+
+
+
+
+</table>
+
 
 ### 5.2.1.3. Development Evidence for Sprint Review.
 
