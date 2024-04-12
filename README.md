@@ -465,11 +465,741 @@ Monetization Bounded Context
 
 ### 4.7.2. Class Dictionary
 <hr>
+<br>
+
+**User Bounded Context** 
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">User</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase User representa a los usuarios de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Writer</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Writer representa a los escritores de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Illustrator</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Illustrator representa a los ilustradores de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Reader</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Reader representa a los lectores de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">UserFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase UserFactory es una clase hija de UserManager y se encarga de la creación de los usuarios del sistema.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que crea nuevos objetos de tipo User.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">WriterFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase WriterFactory es una clase hija de UserFactory. Se encarga de la creación de los usuarios escritores en la aplicación.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que crea nuevos objetos de tipo Writer.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">IllustratorFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase IllustratorFactory es una clase hija de UserFactory. Se encarga de la creación de los usuarios ilustradores en la aplicación.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que crea nuevos objetos de tipo Illustrator.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ReaderFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ReaderFactory es una clase hija de UserFactory. Se encarga de la creación de los usuarios lectores en la aplicación.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que crea nuevos objetos de tipo Reader.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">UserManager</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase UserManager se encarga de la gestión de los usuarios en el sistema.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que crea nuevos objetos de tipo User.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">getUser()</td>
+    <td colspan="2" valign="top">Método que obtiene el identificador de un usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">updateUser()</td>
+    <td colspan="2" valign="top">Método que actualiza los atributos de un usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">deleteUser()</td>
+    <td colspan="2" valign="top">Método que elimina a un usuario del sistema.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Account</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Account representa la cuenta de los usuarios de la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Subscription</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Subscription representa la suscripción a un plan de la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Plan</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Plan representa a los planes de suscripción de la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">Observer</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase abstracta que se encarga de definir el comportamiento de UserObserver y SuscriptionObserver </td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">update()</td>
+    <td colspan="2" valign="top">Método que define el comportamiento cuando ocurren cambios de estado en los sujetos observados.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">SuscriptionObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase SuscriptionObserver es una clase hija de Observer. Se encarga de gestionar el estado de las suscripciones del sistema.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">update()</td>
+    <td colspan="2" valign="top">Método que recibe la notificación y responde al cambio en el estado de Subscription.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">UserObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase UserObserver es una clase hija de Observer. Se encarga de gestionar los estados de los usuarios en el sistema.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">update()</td>
+    <td colspan="2" valign="top">Método que recibe la notificación y responde al cambio en el estado de UserManager.</td>
+  </tr>
+<table>
+
+<br>
+
+**Content Bounded Context**
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Book</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Book representa las obras que se encuentran en la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Review</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Review representa los comentarios acerca de un libro o una ilustración.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Chapter</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Chapter representa los capítulos que conforman un libro.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Illustration</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Illustration representa las ilustraciones que se encuentran en la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Review</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Review representa los comentarios acerca de un libro o una ilustración.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ContentFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ContentFactory es una clase abstracta encargada de definir la creación de distintos tipos de contenido de la aplicación.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createContent()</td>
+    <td colspan="2" valign="top">Método que crea objetos de un tipo de contenido.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">BookFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase BookFactory es una clase hija de ContentFactory. Se encarga de crear nuevos libros en la plataforma.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createBook()</td>
+    <td colspan="2" valign="top">Método que crea objetos del tipo Book</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">IllustrationFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase IllustrationFactory es una clase hija de ContentFactory. Se encarga de crear nuevas ilustraciones en la plataforma.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createIllustration()</td>
+    <td colspan="2" valign="top">Método que crea objetos del tipo Illustration</td>
+  </tr>
+<table>
+
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Portfolio</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Portfolio representa el portafolio de un usuario y los trabajos que ha realizado.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ViewStrategy es una clase abstracta que define las estrategias para visualizar el contenido del portafolio. </td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que define la estrategia en la que se visualiza el contenido del portafolio.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">PortfolioViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase PortfolioViewStrategy es una clase hija de ViewStrategy. Es una interfaz la cual permite visualizar el contenido del portafolio mediante estrategias.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que define la estrategia en la que se visualiza el contenido del portafolio, más no su lógica.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ListViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ListViewStrategy es una clase hija de PortfolioViewStrategy. Es una de las estrategias de visualización del portafolio.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que permite ver el contenido del portafolio como una lista.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">DetailedViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase DetailedViewStrategy es una clase hija de PortfolioViewStrategy. Es una de las estrategias de visualización del portafolio.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que permite visualizar de manera más detallada el contenido presente en el portafolio.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ThumbnailViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ThumbnailViewStrategy es una clase hija de PortfolioViewStrategy. Es una de las estrategias de visualización del portafolio.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que permite visualizar en forma de miniaturas el contenido del portafolio.</td>
+  </tr>
+<table>
+
+<br>
+
+**Collaboration Bounded Context**
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Chat</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase chat representa el medio de comunicación entre los escritores y dibujantes.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Writer</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Writer representa a los escritores de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Illustrator</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Illustrator representa a los ilustradores de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">ChatHistory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ChatHistory representa el historial de mensajes del chat.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Activity</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Activity representa las interacciones, el estado y eventos en el chat.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">ChatMessage</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ChatMessage representa los mensajes que se encuentran en el chat.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Notification</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Notification representa las notificaciones acerca del chat.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">Observer</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase abstracta que define el comportamiento de ChatObserver.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">update()</td>
+    <td colspan="2" valign="top">Método que define el comportamiento cuando ocurren cambios de estado en el sujeto observado.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ChatObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ChatObserver es una clase hija de Observer. Se encarga de observar los cambios en ChatMessage y Notification.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">update()</td>
+    <td colspan="2" valign="top">Método que recibe la notificación y responde al cambio en el estado del chat.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">ColaborationFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ColaborationFactory es una clase abstracta que define la creación de objetos de colaboración </td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ChatFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ChatFactory es una clase hija de ColaborationFactory. Se encarga de la creación de nuevos chats en la aplicación.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createChat()</td>
+    <td colspan="2" valign="top">Método que crea objetos de tipo Chat.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ChatMessageFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ChatMessageFactory es una clase hija de ColaborationFactory. Se encarga de crear mensajes para los chats dentro de la aplicación.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createChat()</td>
+    <td colspan="2" valign="top">Método que crea objetos de tipo Message.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">NotificationFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase NotificationFactory es una clase hija de ColaborationFactory. Se encarga de crear las notificaciones de los chats.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="30%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createChat()</td>
+    <td colspan="2" valign="top">Método que crea objetos de tipo Notification.</td>
+  </tr>
+<table>
+
+<br>
+
+**Monetization Bounded Context**
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">Subscription</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Subscription representa la suscripción a un plan de la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">SubscriptionHistory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase SubscriptionHistory representa el historial de Subscription.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Plan</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Plan representa los planes de suscripción de la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Payment</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Payment representa la información de los pagos de la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">PaymentFacade</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase PaymentFacade facilita la interacción con los componentes y servicios que conforman los pagos en la plataforma.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">Observer</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase abstracta que define el comportamiento de SubscriptionObserver y PaymentObserver.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">SubscriptionObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase hija de Observer. Se encarga de observar los cambios de estado de Subscription</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">PaymentObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase hija de Observer. Se encarga de observar los cambios de estado de Payment.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">Commission</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Commission representa las comisiones que se pueden realizar en la aplicación.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Writer</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Writer representa a los escritores de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Illustrator</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Illustrator representa a los ilustradores de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="1" valign="top">Reader</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Reader representa a los lectores de la aplicación</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">SubscriptionManager</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase SubscriptionManager realiza la gestión de los objetos tipo Subscription.</td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">SuscriptionStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase SuscriptionStrategy es una interfaz la cual permite visualizar las suscripciones por usuario mediante distintas estrategias.</<td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">IllustratorSuscriptionStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ReaderSuscriptionStrategy es una clase hija de SuscriptionStrategy. Es una de las estrategias de visualización de suscripción
+    para los ilustradores.</<td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">WriterSuscriptionStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ReaderSuscriptionStrategy es una clase hija de SuscriptionStrategy. Es una de las estrategias de visualización de suscripción
+    para los escritores.</<td>
+  </tr>
+<table>
+
+<table border="1" width="30%">
+  <tr>
+    <td colspan="2" valign="top">ReaderSuscriptionStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ReaderSuscriptionStrategy es una clase hija de SuscriptionStrategy. Es una de las estrategias de visualización de suscripción
+    para los lectores.</td>
+  </tr>
+<table>
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-<div style="display:flex; justify-content:center; flex-direction:column; text-align:center">
+<div style="display:flex; justify-content:center; flex-direction:column;">
    <p>A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.</p>
    <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Data-Base-Design/ArtCollab_DataBase.png"> 
 </div>
