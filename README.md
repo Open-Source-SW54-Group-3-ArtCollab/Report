@@ -690,5 +690,45 @@ dibujar</p>
 <td>Alta</td>
 <td>3</td>
 </tr>
+  <tr class="odd">
+<td>17</td>
+<td>US17</td>
+<td>Compatibilidad con diferentes dispositivos</td>
+<td><p><strong>Como</strong> usuario interesado en el producto</p>
+<p><strong>quiero</strong> que la landing page sea responsive</p>
+<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>US18</td>
+<td>Accesibilidad en el Landing page</td>
+<td><p><strong>Como</strong> usuario que tiene una discapacidad</p>
+<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><strong>para</strong> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+  <tr class="odd">
+<td>19</td>
+<td>US19</td>
+<td>Uso de API para el inicio de sesión</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+  <tr class="even">
+<td>20</td>
+<td>US20</td>
+<td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
 </tbody>
 </table>
