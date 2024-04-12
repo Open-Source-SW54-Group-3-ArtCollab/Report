@@ -211,33 +211,51 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
      </tr>
       <tr>
         <td style="font-weight: bold;"> Prepared By </td>
-        <td> Amaro Villanueva, Camila <td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+           Luna Capuñay, Italo D'Alessandro
+          <br>
+         Huilca Chipana, Gustavo 
+         <td>
+          <br>
+         Alvarez Araguache, Samira Jetzabel
+         <td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint n – 0 Review Summary </td>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
         <td> Dado que es nuestro primer sprint de desarrollo no existe 
-        un summary del sprint <td>
+        un review summary del sprint <td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary </td>
-        <td> En este sprint se espera implementar el landing page
-        con las secciones de login de inicio, hero y secciones de orientacion para el usuario, como por ejemplo footer y trending topics. Al finalizar este sprint la pagina web debe estar desplegado en Netlifly y cualquier usuario deberia poder acceder y visualizar la pagina a traves de un link <td>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> Dado a que nos encontramos en nuestro primer sprint aun no identifcamos planes de mejora.<td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
      </tr>
        <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td>  En este sprint se espera implementar el landing page con las secciones de login de inicio, hero y secciones de orientacion para el usuario, como por ejemplo footer y conocemos. En el grupo acordamos usar el framework de Tailwind.css para mejorar el maquetado y estilos de nuestra landing page, como tambien las librerias de Alpine.js y Swiper.js para facilitar la implementacion de las secciones de navbar y conocenos. Al finalizar este sprint la landing page debe estar desplegado en Netlifly y cualquier usuario deberia poder acceder y visualizar la pagina a traves de un link. <td>
+      </tr>
+       <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td> 13  <td>
+          <td>  19  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td>  13 <td>
+          <td> 19 <td>
       </tr>
 
 
   </table>
-
 
 
 ### 5.2.1.2. Sprint backlog 1
