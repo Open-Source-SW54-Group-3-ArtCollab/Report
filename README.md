@@ -35,6 +35,8 @@ Enlace de Miro: https://miro.com/app/board/uXjVKXvjT-4=/?share_link_id=428179149
 <td>Criterios de Aceptación</td>
 <td>Relación Epic ID</td>
 </tr>
+
+</tr>
 <tr class="even">
 <td>E1-US01</td>
 <td>Barra de navegación en la Landing Page</td>
@@ -73,14 +75,14 @@ perfil de la startup</p></td>
 </tr>
 <tr class="even">
 <td>E1-US03</td>
-<td>Sección de Conócenos</td>
+<td>Sección de Explora</td>
 <td><p><strong>Como</strong> Usuario</p>
 <p><strong>quiero</strong> conocer los servicios que ofrece la
 aplicación</p>
 <p><strong>para</strong> saber las características que ofrece</p></td>
-<td><p>Escenario 1: Conocenos</p>
+<td><p>Escenario 1: Explora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
-<p>Cuando se encuentre en la sección Conócenos</p>
+<p>Cuando se encuentre en la sección Explora</p>
 <p>Entonces podrá visualizar los diversos libros en trending y los
 mejores ilustradores</p></td>
 <td>1</td>
@@ -276,7 +278,7 @@ plataforma</p>
 disposición</p></td>
 <td><p>Escenario 1: Finanzas</p>
 <p>Dado que el usuario se encuentra en la página principal </p>
-<p>Cuando le de clic al apartado de monedas</p>
+<p>Cuando ingrese al apartado de monedas</p>
 <p>Entonces se le mostrará el valor de las monedas</p>
 <p>Escenario 2: Monedas</p>
 <p> Dado que el usuario se encuentra en el apartado de monedas</p>
@@ -347,8 +349,139 @@ creativa </p>
 <p>Cuando les den clic a preferencias</p>
 <p>Entonces podrán visualizar tu preferencia por la flexibilidad
 creativa</p></td>
-<td>6</td>
+<td>1</td>
 </tr>
+  
+<tr class="odd">
+<td>E1-US17</td>
+<td>Compatibilidad con diferentes dispositivos</td>
+<td><p><strong>Como</strong> usuario interesado en el producto</p>
+<p><strong>quiero</strong> que la landing page sea responsive</p>
+<p><strong>para</strong> tener un navegacion fluida y accesible</p></td>
+<td><p>Escenario 1: Ingresa desde una computadora</p>
+<p>Dado que el usuario se encuentra navegando en una computadora</p>
+<p>Cuando ingrese a la Landing page</p>
+<p>Entonces podrá visualizar el contenido de forma clara 
+Y todos los elementos estaran adaptados al tamaño de la pantalla.</p>
+<p>Escenario 2: Ingresa desde un dispositivo móvil </p>
+<p>Dado que el usuario se encuentra navegando en una celular android o ios</p>
+<p>Cuando ingrese a la Landing page</p>
+<p>Entonces podrá visualizar el contenido de forma clara 
+Y todos los elementos estaran optimizados y adaptados al tamaño de la pantalla
+Y que se pueda interactuar correctamente con el touch. </p>
+<p>Escenario 3: Ingresa desde una tablet</p>
+<p>Dado que el usuario se encuentra navegando desde una tablet</p>
+<p>Cuando ingrese a la Landing page</p>
+<p>Entonces podrá visualizar el contenido de forma clara 
+Y todos los elementos estaran optimizados y adaptados al tamaño de la pantalla
+Y que se pueda interactuar correctamente con el touch.</p></td>
+<td>1</td>
+</tr>
+
+<tr class="odd">
+<td>E1-US18</td>
+<td>Accesibilidad  en el Landing page</td>
+<td><p><strong>Como</strong> usuario que tiene una discapacidad </p>
+<p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><strong>para</strong> navegar de forma fluida 
+y conocer su aplicación sin impedimentos</p></td>
+<td><p>Escenario 1: Acceso al texto alternativo de archivos multimedia</p>
+<p>Dado que el usuario se encuentra en el landing page</p>
+<p>Cuando le ordena al dispositivo que se lea el contenido</p>
+<p>Entonces puede saber que contiene la imagen o video que no puede visualizar</p>
+<p>Escenario 2: Visualización del texto </p>
+<p>Dado que el usuario se encuentra en el landing page</p>
+<p>Cuando lee una sección con un alto contraste entre el fondo y el texto</p>
+<p>Entonces puede entender con facilidad el texto. </p>
+<p>Escenario 3: Uso del texto de enlace descriptivo</p>
+<p>Dado que el usuario se encuentra en el landing page</p>
+<p>Cuando quiere saber el uso de un botón o elemento el texto que indica su función
+es descriptivo.</p>
+<p>Entonces no se crean confusiones sobre la acción que realiza un botón o elemento.</p></td>
+<td>1</td>
+</tr>
+
+<tr class="odd">
+<td>E7-US19</td>
+<td>Uso de API para el inicio de sesión</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><strong>para</strong> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+
+<td><p>Escenario 1: Inicio de sesión con cuenta de Google</p>
+<p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Google.</p>
+<p>Cuando desea iniciar sesión con Google.</p>
+<p>Entonces la aplicación debe autenticar al usuario utilizando las credenciales de su cuenta de Google y permitirle acceder a la aplicación sin necesidad de introducir manualmente sus credenciales.</p>
+
+<p>Escenario 2: Inicio de sesión con cuenta de Facebook </p>
+<p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Facebook</p>
+<p>Cuando desea iniciar sesión con Facebook</p>
+<p>Entonces la aplicación debe autenticar al usuario utilizando las credenciales de su cuenta de Facebook y permitirle acceder a la aplicación sin necesidad de introducir manualmente sus credenciales </p>
+
+<td>7</td>
+</tr>
+
+
+
+<tr class="odd">
+<td>E7-US20</td>
+<td>Uso de API para realizar el pago de suscripciones con PayPal</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><strong>para</strong> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+
+<td><p>Escenario 1: Suscribirse</p>
+<p>Dado que el usuario Inicia sesión en la aplicación.</p>
+<p>Cuando busca realizar la suscripción.</p>
+<p>Entonces La aplicación muestra la interfaz de PayPal para completar el proceso de pago de la suscripción.</p>
+
+<p>Escenario 2: Confirmación de pago exitoso </p>
+<p>Dado que el usuario ha completado el proceso de pago de la suscripción a través de PayPal.</p>
+<p>Cuando PayPal notifique a la aplicación sobre el pago exitoso.</p>
+<p>Entonces la aplicación debe actualizar el estado de la suscripción del usuario a "activo" y proporcionar acceso completo a los servicios premium. </p>
+
+<p>Escenario 3: Manejo de pago fallido </p>
+<p>Dado que el usuario ha intentado realizar el pago de la suscripción a través de PayPal, pero el pago ha fallado.</p>
+<p>Cuando PayPal notifique a la aplicación sobre el pago fallido.</p>
+<p>Entonces la aplicación debe informar al usuario sobre el fallo del pago y brindar la opción de intentar nuevamente o seleccionar otro método de pago. </p>
+<td>7</td>
+</tr>
+
+
+
+<tr class="odd">
+<td>E7-US21</td>
+<td>Uso de API para compartir libros en redes sociales</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><strong>para</strong> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+
+<td><p>Escenario 1: Compartir en Facebook</p>
+<p>Dado que el usuario está en la página del libro que desea compartir..</p>
+<p>decide compartirlo</p>
+<p>y elije la red social Facebook.</p>
+<p>Entonces la aplicación abre una ventana emergente que permita al usuario iniciar sesión en Facebook y publicar el libro en su perfil o en una página que administre.</p>
+
+<p>Escenario 2: Compartir en Twitter </p>
+<p>Dado que el usuario está en la página del libro que desea compartir.</p>
+<p>Cuando decide compartirlo
+y elije la red la red social Twitter.
+</p>
+<p>Entonces la aplicación abre una ventana emergente que le permite al usuario iniciar sesión en Twitter y publicar el libro en su feed de Twitter con un mensaje personalizado y el enlace al libro. </p>
+
+<p>Escenario 3: Confirmación de publicación exitosa en redes sociales </p>
+<p>Dado que el usuario ha compartido un libro en una red social con éxito.</p>
+<p>Cuando la publicación se ha realizado correctamente en la red social seleccionada.</p>
+<p>Entonces la aplicación muestra un mensaje de confirmación al usuario indicando que el libro se ha compartido exitosamente en la red social especificada. </p>
+
+<p>Escenario 4: Manejo de errores al compartir </p>
+<p>Dado que el usuario intenta compartir un libro en una red social.</p>
+<p>Cuando se presenta un error al intentar publicar el libro en la red social seleccionada.</p>
+<p>Entonces la aplicación debe mostrar un mensaje de error al usuario indicando que ha ocurrido un problema. </p>
+
+<td>7</td>
+</tr>
+
 </tbody>
 </table>
 <hr>
