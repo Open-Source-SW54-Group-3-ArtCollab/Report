@@ -224,8 +224,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
            Luna Capuñay, Italo D'Alessandro
           <br>
          Huilca Chipana, Gustavo 
-         <td>
-          <br>
+              <br>
          Alvarez Araguache, Samira Jetzabel
          <td>
      </tr>
