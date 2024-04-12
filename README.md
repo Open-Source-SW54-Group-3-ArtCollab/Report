@@ -272,6 +272,32 @@ En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, 
 Finalmente, le interesa la idea de colaborar con ilustradores para comprender mas el punto de vista y comodidad.
 
 
+**Entrevista 3:**
+
+Nombres: Josué
+
+Apellidos: García Torres
+
+Edad: 23 años
+
+Lugar de residencia: Houston, Texas Estados Unidos
+
+Evidencia de la entrevista:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Samira/entrevista03-escritor.PNG?raw=true" alt="Entrevista 03 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EZrvXv_KW3pCv_coz5R62uABivPmkGMSeZ3IAb2MOjOJ_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=frx9B3 
+
+Resumen de la entrevista:
+
+Se entrevistó a Jousé García, un joven de 23 años que reside en Houston, Estados Unidos, donde se dedica a escribir y dibujar comics de manera independiente. Josué suele usar la herramienta Word para el proceso de escritura y publica en aplicaciones como Wattpad, Facebook y Pinterest para mostrar sus obras y conocer a otros escritores. No tiene preferencia por alguna en particular, más allá de aquellas que utiliza por costumbre. Menciona que busca una plataforma de lectura en línea que facilite la comunicación directa con sus lectores y que le permita mejorar constantemente sus proyectos.
+
+En cuanto a las ganancias por sus trabajos, habla desde su experiencia y menciona el cobro de comisiones por obra publicada, así como la opción de obtener un porcentaje de las compras individuales de sus libros, si la plataforma lo permite. Además, le gustaría ofrecer capítulos gratuitos a sus lectores como incentivo para que adquieran sus obras completas. Asímismo, considera que una plataforma que ofrezca traducir los trabajos publicados sería beneficioso para los escritores, ya que ayudaría a dar a conocer el talento latinoamericano al superar la barrera del idioma y llegar a un público más amplio.
+
+A la hora de colaborar con un ilustrador, le gusta conocer los trabajos previos del dibujante y el modo que tiene de abordar sus proyectos, principalmente para saber su talento y compromiso. Josué reconoce la importancia de las ilustraciones en los libros, considerandolos una parte fundamental que permite a los lectores comprender la visión del autor sobre los personajes y los escenarios donde se desarrolla la historia. 
+
+Finalmente, destaca la importancia de recibir retroalimentación sobre sus obras por parte de otras personas, especialmente de otros escritores. Considera que pueden brindar más ayuda desde su experiencia y su capacidad de empatizar durante el proceso creativo de sus historias.
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
@@ -500,7 +526,7 @@ Evidencia de la entrevista:
 
  Resumen de la entrevista:
 
- Se entrevistó a Ana Lucía, una joven de 20 años que estudia la carrera de Hotelería y Turismo en la Universidad San Martin de Porres y que vive en el distrito de Lince en Lima Perú. Ana Lucía consume libros tanto en físico como en digital, más que todo estos últimos en sus tiempos libres.
+ Se entrevistó a Ana Lucía, una joven de 20 años que estudia la carrera de Hotelería y Turismo en la Universidad San Martin de Porres y que vive en el distrito de Lince en Lima, Perú. Ana Lucía consume libros tanto en físico como en digital, más que todo estos últimos en sus tiempos libres.
 
  Menciona que las características que toma en cuenta para elegir un libro son principalmente el género y su contenido. También indica que se suele fijar en la portadas y si esta le resulta atractiva o no. No toma en cuenta otros factores como el renombre del autor o las ilustraciones. Aunque ella misma no suele dejar reseñas acerca de los libros que lee en línea, sí consulta los comentarios de otras personas acerca de una obra que va a empezar a leer, principalmente para ver si tiene buenas opiniones o no.
 
