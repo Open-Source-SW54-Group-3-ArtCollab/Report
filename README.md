@@ -312,7 +312,7 @@ Entrevistador: Camila Amaro
 
 Evidencia de la entrevista: 
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Camila/entrevista02-escritor.png?raw=true" alt="Entrevista 4 segmento escritor" style="width: 100%;">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Camila/entrevista04-escritor.png?raw=true" alt="Entrevista 4 segmento escritor" style="width: 100%;">
 
 Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EQ-b5M6dCkJPhEhXzimJ3_4Bi6s4u6Ic1tNvN5cI9fNLqw
 
@@ -554,6 +554,34 @@ Evidencia de la entrevista:
 En cuanto a nuestra propuesta, menciona que una función que le gustaría ver sería tener la posibilidad de ver más a detalle las ilustraciones y que estas se puedan descargar en buena calidad. Además, consideraría innovador tener la opción de poder tomar notas acerca de una frase o una sección específica del libro, así como poder guardar citas o ilustraciones que le hayan gustado. También, indica que no hay funciones en otras aplicaciones similares que no le gustaría encontrar en nuestra aplicación. En cuanto a la interacción de los lectores con escritores e ilustradores, propone la implementación de una comunidad donde el lector pueda comentar sobre las historias y las ilustraciones de una obra. Esto facilitaría el contacto entre estos segmentos. Respecto a un plan premium, Ana Lucía menciona que pagaría por la personalización de la interfaz, incluyendo la opción de cambiar colores o agregar temas, además de eliminar anuncios si los hubiera en la aplicación.
 
 Finalmente, comenta que sí se convertiría en una usuaria recurrente en nuestra plataforma. Observa que actualmente no existen muchas aplicaciones de lectura que también integren ilustraciones, por lo que lo considera novedoso e interesante.
+
+**Entrevista 5:**
+
+Nombres: Alvaro
+
+Apellidos: Rodriguez Amado
+
+Edad: 21 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista: 
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Camila/entrevista05-lector.png?raw=true" alt="Entrevista 05 Segmento Lector" style="width: 100%;">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Eap5x4CPEWJKhlziBHlAaRoB5pD_2ptRcT7BhhkS8X8l9w
+
+Resumen de la entrevista:
+Alvaro es un estudiante de Ingeniería Electrónica. Al realizarle la entrevista él indicó que no suele leer libros en plataformas online muy seguido, puesto que estas suelen presentar muchos anuncios, característica que no es de su agrado.
+
+Asimismo, me indicó que estaría dispuesto a pagar un plan premium si tuviera opciones para poder visualizar una vista previa de los libros que se van a agregar en la plataforma o tener próximas actualizaciones de los ya publicados. 
+
+Al preguntarle que le suele llamar la atención para iniciar a leer un libro nos indicó que se suele guiar del título y la portada y más no de las reseñas que tengan estos, aunque si lo ve como una característica útil para fomentar la interacción entre autores y lectores.
+
+De igual manera, mencionó que le parece útil que en una plataforma de este tipo haya una opción de narrador, similar al de los audiolibros, para ayudar de ese modo a que las personas con ceguera puedan también hacer uso de ella.
+
 
 ### 2.2.3 Análisis de entrevistas.
 <TABLE BORDER>
