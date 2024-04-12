@@ -326,6 +326,8 @@ Por otro lado, mencionó que le parecería una buena opción añadir consejos de
 
 Al preguntarle si a él le gustaría publicar libros ilustrados respondió de manera afirmativa, dado que lo ve como una opción distintiva para presentar sus historias y que de esa manera los lectores puedan tener una visión más fiel de como él se imaginaba los personajes y escenarios del libro.
 
+<br>
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
@@ -438,6 +440,8 @@ Se entrevisto Daniela Cuadros es un estudiante de Administración y Negocios Int
 En cuanto la propuesta busca una plataforma que sea fácil de usar, intuitivas, personalizables y que se pueda colaborar con escritores, asi de que ofrezcan un lugar seguro donde pueda recibir algún tipo de compensación cómodamente.
 
 Finalmente, le interesa la idea de pagar para que su portafolio y perfil sean vistos piensa que es una excelente oportunidad para darse a conocer.
+
+<br>
 
 **Segmento lector:**
 
