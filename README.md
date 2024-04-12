@@ -298,6 +298,34 @@ A la hora de colaborar con un ilustrador, le gusta conocer los trabajos previos 
 
 Finalmente, destaca la importancia de recibir retroalimentación sobre sus obras por parte de otras personas, especialmente de otros escritores. Considera que pueden brindar más ayuda desde su experiencia y su capacidad de empatizar durante el proceso creativo de sus historias.
 
+**Entrevista 4:**
+
+Nombres: Diego
+
+Apellidos: Castro Soto
+
+Edad: 23 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista: 
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/entrevistas/Camila/entrevista02-escritor.png?raw=true" alt="Entrevista 4 segmento escritor" style="width: 100%;">
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EQ-b5M6dCkJPhEhXzimJ3_4Bi6s4u6Ic1tNvN5cI9fNLqw
+
+Resumen de la entrevista:
+
+Diego es un estudiante de Ingeniería de Software. Al realizarle las preguntas pude notar que como escritor amateur le ha sido difícil poder sobresalir, ya que, a pesar de haber publicado historias en foros en línea y grupos en redes sociales no ha conseguido que muchas personas lean sus historias.
+
+Asimismo, me indicó que le gustaría que en una plataforma de publicación de libros hubiera una opción para vender mercancía relacionada a su historia, para de ese modo poder generar más ganancias con su obra y si es posible llegar algún momento a vivir de ello.
+
+Por otro lado, mencionó que le parecería una buena opción añadir consejos de escritores que estén teniendo buena acogida en el aplicativo, para que así escritores nuevos o con pocos seguidores puedan tener una referencía de que es lo recomiendan hacer para aumentar su comunidad de lectores.
+
+Al preguntarle si a él le gustaría publicar libros ilustrados respondió de manera afirmativa, dado que lo ve como una opción distintiva para presentar sus historias y que de esa manera los lectores puedan tener una visión más fiel de como él se imaginaba los personajes y escenarios del libro.
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
