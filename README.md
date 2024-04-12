@@ -18,7 +18,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
 <table border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Camila%20Amaro%20profile%20image.png?raw=true" alt="Camila Amaro" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Camila-Amaro-profile-image.png?raw=true" alt="Camila Amaro" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
