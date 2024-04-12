@@ -730,5 +730,15 @@ dibujar</p>
 <td>Alta</td>
 <td>3</td>
 </tr>
+  <tr class="odd">
+<td>21</td>
+<td>US21</td>
+<td>Uso de API para compartir libros en redes sociales</td>
+<td><p><strong>Como</strong> desarrollador</p>
+<p><strong>quiero</strong> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><strong>para</strong> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
 </tbody>
 </table>
