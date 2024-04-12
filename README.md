@@ -324,5 +324,23 @@ Enlace del deploy de la landing page mediante Netlify: https://stalwart-peony-7d
 En el alcance del sprint 1 se ha priorizado el desarrollado la landing page, por lo que para este sprint no se evidencia el empleo de web services.
 
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+Para el presente sprint, se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas.
+
+<ul>
+ <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+
+ </li>
+
+ <li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+
+ <li>
+    GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+ </li>
+
+ <li>
+    Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar nuestra el landing page.
+ </li>
+
+</ul>
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
