@@ -4984,3 +4984,13 @@ La simplificación del proceso de registro, la mejora de la colaboración creati
 Por otro lado, la implementación y validación del producto se realizaron mediante un enfoque ágil, dividido en sprints manejables, que permitieron una iteración rápida y la incorporación de retroalimentación continua. La gestión de la configuración del software aseguró que nuestro entorno de desarrollo estuviera optimizado y bien gestionado, mientras que la implementación de la página de inicio, servicios y aplicaciones se llevó a cabo de manera organizada y eficiente, con cada sprint planificado y ejecutado de manera transparente.
 
 ---
+# Bibliografía
+Codega, L. (2022, junio 15). Webtoon Walks Back 'Side-Hustle' Ad Campaign After Online Fury. Gizmodo. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://gizmodo.com/webtoon-side-hustle-ad-controversy-apology-1849064106
+
+Park, H. (2022, agosto 11). Death of young webtoon artist sparks controversy over harsh working conditions. TheKoreaTimes. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.koreatimes.co.kr/www/art/2024/03/398_334226.html
+Park, H. (2022, agosto 11). Death of young webtoon artist sparks controversy over harsh working conditions. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TheKoreaTimes. https://www.koreatimes.co.kr/www/art/2024/03/398_334226.html
+
+R. Incertis, R. (2023, marzo 20). De internet a las estanterías: cómo Wattpad ha revolucionado la literatura juvenil. El Mundo. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.elmundo.es/cultura/literatura/2023/03/20/64144a67fdddff133e8b458e.html
+R. Incertis, R. (2023, marzo 20). De internet a las estanterías: cómo Wattpad ha revolucionado la literatura juvenil. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El Mundo. https://www.elmundo.es/cultura/literatura/2023/03/20/64144a67fdddff133e8b458e.html
+
+---
