@@ -3,14 +3,14 @@
 En la siguiente sección, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, que contribuyeron a mantener la consistencia en el trabajo realizado.
 
 ### 5.1.1. Software Development Environment Configuration.
-En este apartado, se mencionarán los distintos productos de software empleados por el equipo de desarrollo, para llevar acabo las actividades relacionadas con la elaboración del proyecto.
+En este apartado, se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar acabo las actividades relacionadas con la elaboración del proyecto.
 
 <br>
 
 **Project Management**
 1.	Google Docs:  https://docs.google.com/
 
-    Google Docs es una plataforma web que facilita la creación de documentos para compartir y editar de forma conjunta con otros usuarios de manera sincrónica. Se utilizo para designar, organizar y hacer un seguimiento de las actividades de trabajo, así como para establecer plazos de entrega.
+    Google Docs es una plataforma web que facilita la creación de documentos para compartir y editar de forma conjunta con otros usuarios de manera sincrónica. Se utilizó para designar, organizar y hacer un seguimiento de las actividades de trabajo, así como para establecer plazos de entrega.
 
 2.	Google Meet: https://meet.google.com/
 
@@ -19,13 +19,13 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 **Requirements Managements**
 1.	Trello: https://trello.com/ 
 
-    Es un software de gestión de proyectos, que facilita asignar y organizar las tareas a realizar. Fue utilizado para el Product Backlog.
+    Es un software de gestión de proyectos, que facilita la asiganación y organización de las tareas a realizar. Fue utilizado para el Product Backlog.
 
 **Product UX/UI Design** 
 
 1.  UXPressia: https://uxpressia.com/ 
 
-    Es una herramienta en línea que permite a los equipos de trabajo identificar y comprender los problemas, necesidades y comportamiento del usuario en relación a la solución de software que se está desarrollando, con el uso de plantillas. Se usó para la elaboración de los User Personas, Empathy Maps, Journey Maps e Impact Maps.
+    Es una herramienta en línea que permite a los equipos de trabajo identificar y comprender los problemas, necesidades y comportamiento del usuario en relación a la solución de software que se está desarrollando mediante el uso de plantillas. Se usó para la elaboración de los User Personas, Empathy Maps, Journey Maps e Impact Maps.
 
 2.	Figma: https://www.figma.com/ 
 
@@ -33,7 +33,7 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 
 3.	Miro: https://miro.com/ 
 
-    Es una plataforma colaborativa el cual permite crear y usar pizarras digitales personalizadas en tiempo real. Miro cuenta con distintas herramientas y plantillas para la elaboración de mapeos, diagramas, flujos de trabajo, etc. En el desarrollo del proyecto, se empleó para la creación de los As-Is y Tob-Be Scenario Maps.
+    Es una plataforma colaborativa el cual permite crear y usar pizarras digitales personalizadas en tiempo real. Miro cuenta con distintas herramientas y plantillas para la elaboración de mapeos, diagramas, flujos de trabajo, etc. En el desarrollo del proyecto, se empleó para la creación de los As-Is y To-Be Scenario Maps.
 
 
 **Software Development** 
@@ -43,16 +43,16 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 
 2.	Frontend Web Applications
 
-    En el caso de la aplicación web, además de HTML5, CSS3 y JavaScript. En el caso de los componentes, se usó Angular Material.
+    En el caso de la aplicación web se empleó HTML5, CSS3, JavaScript, Tailwind CSS y Alpine.js. En el caso de los componentes, se usó Angular Material.
 
 3. Web Services
 
-    Para el servicio web, se empleó Java junto al framework Spring Boot. En el caso de la arquitectura, se optó por un RESTful API style.
+    Para el servicio web, se empleó Java junto al framework Spring Boot. En el caso de la arquitectura, se optó por una RESTful API style.
 
 **Software Deployment**
 1. Netlify: https://www.netlify.com/
 
-    Netlify es una plataforma de despliegue de páginas y aplicaciones web, integrandose con repositorios en Git. Se usó para hospedar la landing page del proyecto.
+    Netlify es una plataforma de despliegue de páginas y aplicaciones web, con integración a repositorios en Git. Se usó para hospedar la landing page del proyecto.
 
 **Software Documentation**
 1.	Vertabelo: https://vertabelo.com/
@@ -61,20 +61,20 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 
 2.	LucidChart: https://lucid.app/   
     
-    LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos y más, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML, así como los Wireflows y User Flows.
+    LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML, así como los Wireflows y User Flows.
 
 3.	Structurizr: https://www.structurizr.com/ 
 
-    Es una plataforma que permite modelado de diagramas de arquitectura de software por medio de código. Structurizr fue utilizado para crear el modelo C4 de nuestro proyecto.         
+    Es una plataforma que permite modelado de diagramas de arquitectura de software por medio de código. Structurizr fue utilizado para crear el modelo C4 del proyecto.         
 
 ### 5.1.2. Source Code Management.
-Para el desarrollo y gestión del proyecto, fue creado una organización mediante GitHub, donde se registró todas las modificaciones realizadas a lo largo de su ciclo de vida. Este fue estructurado de la siguiente manera:
+Para el desarrollo y gestión del proyecto, fue creado una organización mediante GitHub, donde se registró todas las modificaciones realizadas a lo largo de su ciclo de vida. Fue estructurado de la siguiente manera:
 - **Organization**: https://github.com/Open-Source-SW54-Group-3-ArtCollab 
 - **Landing Page Repository**: https://github.com/Open-Source-SW54-Group-3-ArtCollab/Landing-Page 
 - **Report Repository**: https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report 
 
 Por otra parte, para controlar de manera efectiva los cambios en el código de la aplicación y gestionar las ramas por cada repositorio, se ha implementado GitFlow para definir y estructurar nuestro flujo de trabajo. Esto involucra la creación de dos ramas principales:
-- **main**: También denominada "master", es la rama donde se encuentra la versión más estable y lista del proyecto que van a pasar a producción.
+- **main**: También denominada "master", es la rama donde se encuentra la versión más estable del proyecto que van a pasar a producción.
 - **develop**: Es la rama donde se integra el contenido de las features. Va paralela al main. 
 
 **Ramas auxiliares:**
@@ -92,7 +92,7 @@ Por otra parte, para controlar de manera efectiva los cambios en el código de l
     - Y: Es la versión menor. Cada incremento implica que se ha introducido funcionalidades que sí son compatibles con versiones anteriores. Cada vez que Y se incremente, la versión parche se reiniciará a 0.
     - Z: Es la versión parche. Solo se incrementa cuando se realizan correciones que son compatibles con versiones anteriores.
 
-- **hotfix**: Son las ramas que se utilizan corregir errores críticos ocurridos en producción y que necesitan ser resueltos urgencia. Se originan de la rama main y se fusionan tanto con esta como con la rama develop.
+- **hotfix**: Son las ramas que se utilizan para corregir errores críticos ocurridos en producción y que necesitan ser resueltos urgencia. Se originan de la rama main y se fusionan tanto como con esta última y la rama develop.
 </br>
 
 **Commit Conventions**
@@ -113,23 +113,23 @@ Donde:
 ### 5.1.3. Source Code Style Guide & Conventions.
 Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
 - Se debe declarar el tipo de documento al principio del archivo con <!DOCTYPE html>.
-- Indicar los meta tags 
+- Indicar los meta tags. 
 - El elemento &lt;title&gt; se debe ubicar entre las etiquetas < head >.
 - La identación es de dos espacios a la vez.
 - Usar solo minúsculas para los elementos HTML, atributos, propiedades, valores y selectores CSS.
-- Encerrar entre comillas a los atributos de los elementos HTML.
+- Encerrar entre comillas los atributos de los elementos HTML.
 - Cada elemento HTML debe tener su etiqueta de cierre.
 - Evitar largas líneas de código.
 - Indicar el ancho y alto de las imágenes, así como el texto alternativo (*alt*).
 
-Para el desarrollo del código en JavaScript, se eligió la convención Google Java Style Guide. Algunas de estas convenciones son: 
+Para el desarrollo del código en JavaScript, se eligió la convención Google JavaScript Style Guide. Algunas de estas convenciones son: 
 - Cada línea de código debe terminar con un punto y coma (;).
 - Tanto las variables como funciones deben estar en Camelcase.
 - Los valores strings deben estar entre comillas simples.
 - La identación del contenido es de +2.
 - Se debe evitar definir variables con la sentencia *var*. En su lugar, se recomienda *let* y *const*.
 
-Para el desarrollo de los aceptance test con el leguaje Gherkin, se seleccionó “Gherkin Conventions for Readable Specifications”. Entre ellas están:
+Para el desarrollo de los aceptance test con el lenguaje Gherkin, se seleccionó “Gherkin Conventions for Readable Specifications”. Entre ellas están:
 - Para describir los pasos del escenario, utilizar las palabras "Give", "When", "Then" y "And".
 - Identar los pasos que comienzan con "And".
 - Agregar líneas entre pasos.
@@ -140,8 +140,8 @@ Para el desarrollo del código en Java, se seleccionó como convención estánda
 - Los nombres de los paquetes deben estar en minúsculas, las clases se escriben usando UpperCamelCase y lo métodos con lowerCamelCase.
 - No se tabula para las indentaciones. Debe haber 2 o 4 espacios.
 - Dividir las líneas de código de más de 100 caracteres.
-- Los archivos Java deben tener el mismo nombre de la clase que contienen y está debe ser única y pública. 
-- Luego de cada declaración, se hace un salto de línea.
+- Los archivos Java deben tener el mismo nombre de la clase que contienen y esta debe ser única y pública. 
+- Luego de cada declaración se realiza un salto de línea.
 
 
 ### 5.1.4. Software Deployment Configuration.
@@ -160,7 +160,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
     <h4> Sección 'Add your site to Netlify' con la opción Import from Git seleccionada </h4>
 </div>
 
-3. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo, el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub". 
+3. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub". 
 
 <div align=center>
     <img src="./assets/Deploy-Netlify.png" width=500px alt="Sección de 'Let's deploy' your project de Netlify con la opción Deploy with GitHub seleccionada">
@@ -207,7 +207,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
      </tr>
      <tr>
        <td style="font-weight: bold;"> Location </td>
-       <td> Modalidad remota a traves de la plataforma Google Meets <td>
+       <td> Modalidad remota a través de la plataforma Google Meets <td>
      </tr>
       <tr>
         <td style="font-weight: bold;"> Prepared By </td>
@@ -230,19 +230,19 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
-        <td> Dado que es nuestro primer sprint de desarrollo no existe 
+        <td> Dado que es nuestro primer sprint de desarrollo, no existe 
         un review summary del sprint <td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
-        <td> Dado a que nos encontramos en nuestro primer sprint aun no identifcamos planes de mejora.<td>
+        <td> Dado a que nos encontramos en nuestro primer sprint, aun no identifcamos planes de mejora.<td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Goal</td>
-          <td>  En este sprint se espera implementar el landing page con las secciones de login de inicio, hero y secciones de orientacion para el usuario, como por ejemplo footer y conocemos. En el grupo acordamos usar el framework de Tailwind.css para mejorar el maquetado y estilos de nuestra landing page, como tambien las librerias de Alpine.js y Swiper.js para facilitar la implementacion de las secciones de navbar y conocenos. Al finalizar este sprint la landing page debe estar desplegado en Netlifly y cualquier usuario deberia poder acceder y visualizar la pagina a traves de un link. <td>
+          <td>  En este sprint se espera implementar la landing page con las secciones de login de inicio, hero y secciones de orientacion para el usuario, como por ejemplo footer y conocemos. En el grupo acordamos usar el framework de Tailwind CSS para mejorar el maquetado y estilos de nuestra landing page, como tambien las librerias de Alpine.js y Swiper.js para facilitar la implementacion de las secciones de navbar y conocenos. Al finalizar este sprint, la landing page debe estar desplegada en Netlifly y cualquier usuario debería poder acceder y visualizar la página a través de un link. <td>
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
@@ -259,7 +259,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 
 ### 5.2.1.2. Sprint backlog 1
 
-En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link del Trello.
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
 
 Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5ec2ff75ec31FE4502/artcollab-sprint1
 
@@ -819,7 +819,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
   </table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
-En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Open-Source-SW54-Group-3-ArtCollab/Acceptance-Tests
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. En el siguiente link se puede encontrar dichas pruebas de aceptación: https://github.com/Open-Source-SW54-Group-3-ArtCollab/Acceptance-Tests
 
 <table>
   <tr>
@@ -906,7 +906,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 </table>
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
-<p> Para esta entrega, el equipo ArtCollab logró implementar exitosamente el landing page, en la cual se brindarán información especifica para conocer nuestra misión como startup, asi como también los servicios que ofrecemos en nuestra aplicación web. </p>
+<p> Para esta entrega, el equipo ImaginaTales logró implementar exitosamente la landing page, en la cual se brindará información específica para conocer nuestra misión como startup, así como los servicios que ofrecemos en nuestra aplicación web. </p>
 
 Enlace del deploy de la landing page mediante Netlify: https://stalwart-peony-7df718.netlify.app/
 
@@ -982,14 +982,14 @@ Enlace del deploy de la landing page mediante Netlify: https://stalwart-peony-7d
 En el alcance del sprint 1 se ha priorizado el desarrollado la landing page, por lo que para este sprint no se evidencia el empleo de web services.
 
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review.
-Para el presente sprint, se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas.
+Para el presente sprint se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas:
 
 <ul>
  <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
 
  </li>
 
- <li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+ <li> Gitflow: Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
 
  <li>
     GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
@@ -1003,7 +1003,7 @@ Para el presente sprint, se ha desarrollado la landing page. Para el despliegue 
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
 
-El equipo desarrolló el landing page por ramas con la finalidad de desarrollar cada sección de manera indpeendiente para optimizar el mantenimiento y colaboración durante el sprint. Asimismo se aplico las convenciones estandard de gitflow, por lo que contamos con nuestras ramas de develop y feature segun la funcionalidad. A continuación se presenta las tareas asignadas a cada integrante del equipo, asi como también el insight del equipo a través de la plataforma GitHub: 
+El equipo desarrolló la landing page por ramas con la finalidad de desarrollar cada sección de manera independiente para optimizar el mantenimiento y colaboración durante el sprint. Asimismo, se aplico las convenciones estandar de gitflow, por lo que contamos con nuestras ramas develop y feature según la funcionalidad. A continuación, se presenta las tareas asignadas a cada integrante del proyecto, así como el insight del equipo a través de la plataforma GitHub: 
 
 
 
@@ -1044,7 +1044,7 @@ El equipo desarrolló el landing page por ramas con la finalidad de desarrollar 
 
 Hemos desarrollado en conjunto un total de 43 commits para el desarrollo de la landing page, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
 
-A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+A continuación, se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
 
 Tabla de integrantes:
 
