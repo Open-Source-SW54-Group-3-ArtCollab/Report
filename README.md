@@ -3012,67 +3012,67 @@ user goals.
 
 Timing: 0:00
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal1.png?raw=true" alt="Web App Prototype User goal 1">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal1.png?raw=true" alt="Web App Prototype User goal 1">
 <br>
 <strong> User goal: usuario publica una nueva historia y agrega series a la historia </strong>
 
 Timing: 1:32
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
 <br>
 <strong> User goal: usuario edita el contenido de una historia, como el contenido y las series. </strong>
 
 Timing: 2:40
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/ce9ec3bf9b9b20dbd95b91eb62fabd2545965ac8/assets/prototyping/Goal11.png?raw=true" alt="Web App Prototype User goal 3">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal11.png?raw=true" alt="Web App Prototype User goal 3">
 <br>
 <strong> User goal: usuario busca artistas, contacta con ellos e inicia una sala de chats  </strong>
 
 Timing: 3:40
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
 <br>
 <strong> User goal: usuario del tipo ilustrador edita su perfil </strong>
 
 Timing: 4:50
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
 <br>
 <strong> User goal: usuario del tipo escritor edita su perfil </strong>
 
 Timing: 5:27
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
 <br>
 <strong> User goal: usuario busca un libro segun su popularidad y género  </strong>
 
 Timing: 6:05
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal 6.png?raw=true" alt="Web App Prototype User goal 7">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal 6.png?raw=true" alt="Web App Prototype User goal 7">
 <br>
 <strong> User goal: usuario edita el perfil de cuenta </strong>
 
 Timing: 7:15
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal7.png?raw=true" alt="Web App Prototype User goal 8">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal7.png?raw=true" alt="Web App Prototype User goal 8">
 <br>
 <strong>  User goal: usuario visualiza las comisiones obtenidas por cada historia </strong>
 
 Timing: 7:50
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal8.png?raw=true" alt="Web App Prototype User goal 9">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal8.png?raw=true" alt="Web App Prototype User goal 9">
 <br>
 <strong> User goal: usuario visualiza los planes de suscripción </strong>
 
 Timing: 8:23
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal9.png?raw=true" alt="Web App Prototype User goal 10">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal9.png?raw=true" alt="Web App Prototype User goal 10">
 <br>
 <strong> User goal: usuario visualiza el sistema de monetización </strong>
 
 Timing: 8:54
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal10.png?raw=true" alt="Web App Prototype User goal 11">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal10.png?raw=true" alt="Web App Prototype User goal 11">
 
 
 ## 4.6. Domain-Driven Software Architecture.
