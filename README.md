@@ -90,7 +90,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Juan-Image.png?raw=true" alt="Juan Alejandro Cuadros Rodriguez" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Juan-Photo.png?raw=true" alt="Juan Alejandro Cuadros Rodriguez" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
