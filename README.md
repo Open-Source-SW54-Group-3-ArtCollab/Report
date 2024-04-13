@@ -354,6 +354,9 @@ En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicat
 #### Mock-ups de la sección registro
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
 
+#### Mock-ups de la sección recuperar contraseña
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
+
 #### Mock-ups de la sección perfiles
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
 
@@ -368,6 +371,12 @@ En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicat
 
 #### Mock-ups de la sección editar historia
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
+
+#### Mock-ups de la sección editar perfil escritor/lector
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Editar-perfil-lector-escritor.png?raw=true" alt="Web App Desktop Editar perfil">
+
+#### Mock-ups de la sección editar perfil artista
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Editar-perfil-ilustrador.png?raw=true" alt="Web App Desktop Editar artista">
 
 Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
