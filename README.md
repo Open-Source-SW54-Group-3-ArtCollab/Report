@@ -42,7 +42,8 @@ TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
 
 </td>
-            <td>TB1: </td>
+            <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.</td>
+            
 
    <tr>
             <td align = "center">Conoce al menos un sector
