@@ -51,6 +51,7 @@ TB1 <br>
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
+Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
 
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
