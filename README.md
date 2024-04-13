@@ -387,6 +387,437 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
 
 ### 5.2.1.3. Development Evidence for Sprint Review.
 
+<table>
+
+ <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 3587ed1b0361c3262db1f2bba4bf2630e390d28e </th>
+   <th> Initial commit </th>
+   <th> </th>
+   <th> 30/03/2024 </th>
+  </tr>
+
+   <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> a369c6e8bfb657ea04107fa397946f1a3b877c59 </th>
+   <th> feat: add files via commit </th>
+   <th> </th>
+   <th> 30/03/2024 </th>
+  </tr>
+
+   <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> fa36e5ee1ec4d92e811075823e9c1bce0da09ec0 </th>
+   <th> fix: size elements for small screens fixed </th>
+   <th> </th>
+   <th> 30/03/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> d350eae6a7d2eb2453e676a4b4859bf8e33aca72 </th>
+   <th> Merge pull request #1 from Open-Source-SW54-Group-3-ArtCollab/feature/landingpage </th>
+   <th> </th>
+   <th> 30/03/2024 </th>
+  </tr>
+
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> feature/log-in </th>
+   <th> bd9ad1929dc82d3287624b362353c89819368db4 </th>
+   <th> fix: screen size fixed </th>
+   <th> </th>
+   <th> 02/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> feature/log-in </th>
+   <th> d05a81f4b9d5219481e0160b3e41256ad80ac7fc </th>
+   <th> fix: changed styles for small sizes </th>
+   <th> </th>
+   <th> 02/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> feature/log-in </th>
+   <th> d05a81f4b9d5219481e0160b3e41256ad80ac7fc </th>
+   <th> fix: changed styles for small sizes </th>
+   <th> </th>
+   <th> 02/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 2429795b0c807507dce3fda724bbeb49c87be104 </th>
+   <th> feat: Added hero image </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 22363accf19395050b2318ad25cab3627855ef77 </th>
+   <th> feat: Added Hero section to homepage </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 144d5d5b2ee74e8c7bd643c4949000663c5282d8 </th>
+   <th> fix: refactor code and size screen fixed </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 7988e12c3dd0de54453c378e058cc0354d1d1dcc </th>
+   <th> feat: add register button </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 5c5a0f2f86c48fe464cfa777fe7583f2452c456e </th>
+   <th> feat: add search input and login buttons </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 46d24a5f66e83b71daae52d60cf122fc7d2345e1 </th>
+   <th> fix: input button fixed </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 33b7d718738303ad32a312fd2bc499efd72e3e1a </th>
+   <th> fix: refactor code </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> b4db4c54b4731c157bc5788d8df9a86fee41dfc0 </th>
+   <th> fix: irelevant reference deleted and hovers fixed </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 2639cf23c0cb7839cc9ca1d37d44e7ac6b29d050  </th>
+   <th> feat: Added reference to Homepage </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> fd937272d01bd972e95b07a257d60fcc85d39b48  </th>
+   <th> fix: layouts for small screens fixed </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> e4fa23af33341ee6ada0d4d95d6f95a34212106a  </th>
+   <th> fix: container size fixed </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 8be8e2938ec4120d3098c216011ff16e468c8ade  </th>
+   <th> fix: container borders fixed </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 9e7b4e8ca147c90194fa6868d0a53e9cf73a1e65  </th>
+   <th> fix: input type button hover fixed </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> f9749aeabed864c39fb6ab2312fa6fc37da643cf  </th>
+   <th> feat: Update responsive and add fixes </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 393adf84a327e190b9d82d4d519d6f09ca8fb194  </th>
+   <th> feat: test changes </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 5efc80f2801d5fe951f575508d5779fef4fa761f  </th>
+   <th> fix: changed into branch </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 7b54fc3073a66eded4afd94f8b50d4bdaacfb25a  </th>
+   <th> fix: update gap into nav-bar content </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> f68a90608525218a26fe14776d1ca21d35058965  </th>
+   <th> fix: clear feature/footer </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 5b2d5df4019c1dee162068b099709b17d98f32bf  </th>
+   <th> feat: added footer html </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 6b434b4115c8125db4a8560e3298178e99c98daa </th>
+   <th> fix: Corrected icon in md size </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> fa7146de039aff90833e11a83c735cd129c8cb64 </th>
+   <th> fix: Corrected icons in md size again </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 88e5073df0cc1c7c3f1a1da1a6dbb31b882c6fbe </th>
+   <th> fix: Corrected social icons yet again </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> c233195488e28c76c1be49d7652b303163f3f67a </th>
+   <th> fix: Corrected gramatical errors </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 7bd7040c559bcc42ea421ad5c19b9e327a08318d </th>
+   <th> feat: Added pointer effect for links </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> d0a429776e503dd847a36104e925c3248bc14092 </th>
+   <th> fix: Cleaned codes </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 3e0d0bd7fbcafd14f47b1ce85b5b849ef7faa5da </th>
+   <th> fix: Corrected pointer effect for links </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 6296c32cbf1859e4de16190b91fb03ffc210b0b3 </th>
+   <th> feat: add 'colabora' section </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> f9fadceddf9bf04f7c1c9ae881bc476dea6c5816 </th>
+   <th> feat: carousel </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 76e0ad2518a5467a5d1e354e18bea4f3ee7bb15f </th>
+   <th> fix: name js </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 5ddc0a6a38e08b46829ce499b18d142dfa9f1c2e </th>
+   <th> fix: responsive </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> a201ca381e7c183fcb050ed1664ceabd6f204e61 </th>
+   <th> feat: Add Artists </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> cd20d390e3e3c7553e4fe7b7cfaa39a93badcb85 </th>
+   <th> Merge branch 'feature/explora' of https://github.com/Open-Source-SW54-Group-3-ArtCollab/Landing-Page into feature/exploras </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 871a09d561091606651be57b644cbb312295877a </th>
+   <th> feat: Add carousel artists </th>
+   <th> </th>
+   <th> 09/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 921956615a29006a83928f3ead07bf91acb16a45 </th>
+   <th> feat: Merge to develop </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 8270d3af9cb71b9dae532c9fa36d55524be9cc5f </th>
+   <th> feat: Merge to Feature/explora </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 7d1681dffa6926eb7eea55a375973f6d3bdb2afc </th>
+   <th> Merge branch 'feature/colabora' into develop </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> c38aa5452145346cbc10a9d3c353ff54506c381f </th>
+   <th> Merge branch 'feature/footer' into develop </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 71edef66a60ba9c639bab393f56cae8245e770f2 </th>
+   <th> Merge branch 'feature/log-in' into develop </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 55a34ec3f76fde4b723541a87acb4ac00309ece7 </th>
+   <th> feat: merge with feature/footer and feature/hero </th>
+   <th> </th>
+   <th> 12/04/2024 </th>
+  </tr>
+
+
+  </table>
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
