@@ -42,7 +42,7 @@ Ser una empresa líder en el mercado de desarrollo de soluciones innovadoras des
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/Gustavo-Huilca-Chipana.png?raw=true" alt="Gustavo Huilca Chipana" style="margin-bottom: 5px;" width="150"/>
+            <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/e79538ef9c904aa3191535cc4ef603fa57926ce8/assets/images/Gustavo-Huilca-Chipana.png?raw=true" alt="Gustavo Huilca Chipana" style="margin-bottom: 5px;" width="150"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
