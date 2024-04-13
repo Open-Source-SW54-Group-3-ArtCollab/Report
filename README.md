@@ -56,6 +56,8 @@
 
 # Project Report Collaboration Insights
 TB1:
+
+<img src="./assets/images/commitsTable.jpeg"/>
 <br>
 
 ---
