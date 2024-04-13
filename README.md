@@ -139,7 +139,7 @@ Estoy comprometido con este trabajo y el equipo.
     </tr>
     <tr align="center">
         <td rowspan="3">
-                        <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Samira-Alvarez-photo.jpeg" alt=""  style="margin-bottom: 5px;" width="600"/>
+                        <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Samira-Alvarez-photo.jpg" alt=""  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
