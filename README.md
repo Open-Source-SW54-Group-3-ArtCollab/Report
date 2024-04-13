@@ -39,6 +39,7 @@ Durante el avance del presente trabajo cada integrante del grupo trabajo mediant
 
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
+Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
 
 </td>
             <td>TB1: </td>
@@ -73,6 +74,7 @@ En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diag
 
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
+En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de escritores, ilustradores y lectores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
 </td>
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
