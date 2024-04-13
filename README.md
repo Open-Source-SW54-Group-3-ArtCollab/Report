@@ -25,6 +25,8 @@ En el avance del trabajo se hizo mediante branches para la colaboracion en la cr
 
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
+Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de 
+nuestra solución. Asímismo, el uso de Gitflow facilitó un flujo de trabajo eficiente, permitiendo a cada miembro contribuir al desarrollo de la landing page de manera coordinada y fluida.
 
 Huilca Chipana, Gustavo <br>
 TB1 <br>
@@ -57,6 +59,7 @@ Para la entrega del trabajo, se realizaron diversos analices para identificar y 
 
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
+En este primer avance del trabajo, se realizó el diccionario de clases de cada bounded context, detallando sus atributos, métodos y relaciones para un mejor entendimiento de la arquitectura del modelo. Asímismo, se establecieron y documentaron las herramientas y tecnologías utilizadas en el desarrollo del proyecto, incluyendo la configuración para el despliegue de la landing page. De igual manera, se definió el flujo de trabajo del equipo, junto los estilos y convenciones para la codificación de la aplicación web.
 
 Huilca Chipana, Gustavo <br>
 TB1<br>
