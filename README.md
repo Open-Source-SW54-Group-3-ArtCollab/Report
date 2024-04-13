@@ -196,6 +196,8 @@ Versión Mobile:
 
 
 ## 4.4. Web Applications UX/UI Design
+Esta sección incluye secciones internas donde presentamos la propuesta visual y de interacción para nuestra web application, considerando la experiencia de usuario con el producto.
+
 ### 4.4.1. Web Applications Wireframes
 En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
 
