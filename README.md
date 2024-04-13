@@ -819,6 +819,91 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
   </table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Open-Source-SW54-Group-3-ArtCollab/Acceptance-Tests
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 78d4fc3cb7cf64f4df278a607121cedc7754c3dd  </strong> </th>
+    <th> <strong> Initial commit </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 12/04/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 51eb311e2fec76f62ec148dcd51ec0c416c8f878 </strong> </th>
+    <th> <strong> feat: us-01 feature added </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 12/04/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 310320cffbc181b5a6f37dee232df6162b66f26a </strong> </th>
+    <th> <strong> feat: us-02 feature added </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 12/04/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 61aadc8fa1f0523aaaead7be5bbef314cc04de31 </strong> </th>
+    <th> <strong> feat: us-03 added </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 12/04/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 7c656982f70ae7c9e1e91e993e4837bf17e23f19 </strong> </th>
+    <th> <strong> feat: us-04 added </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 12/04/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> f8e9d1e3f4803632517b230de9f83937efd68169 </strong> </th>
+    <th> <strong> feat: us-05 added </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 12/04/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 3c198e8c222be111803a7b54d2df4380c39d2205 </strong> </th>
+    <th> <strong> feat: us-17 added </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 12/04/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 3efde0b266906a99d2ba4001ea9a1f2a488f5133 </strong> </th>
+    <th> <strong> feat: us-18 feature added </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 12/04/2024 </strong> </th>
+ <tr>
+
+</table>
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
 <p> Para esta entrega, el equipo ArtCollab logró implementar exitosamente el landing page, en la cual se brindarán información especifica para conocer nuestra misión como startup, asi como también los servicios que ofrecemos en nuestra aplicación web. </p>
