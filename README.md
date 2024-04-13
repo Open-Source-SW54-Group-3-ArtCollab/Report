@@ -62,7 +62,6 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta “assets” en la rama develop del repositorio del informe.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
 
-Si pueden tambien le colocan esta descripcion vi que le falta
 
 <img src="./assets/images/commitsTable.jpeg"/>
 <br>
