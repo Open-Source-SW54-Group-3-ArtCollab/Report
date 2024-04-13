@@ -20,6 +20,7 @@ TB1 <br>
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
+En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
 
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
