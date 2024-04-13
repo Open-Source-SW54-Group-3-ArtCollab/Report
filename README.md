@@ -378,7 +378,7 @@ En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicat
 #### Mock-ups de la sección editar perfil artista
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Editar-perfil-ilustrador.png?raw=true" alt="Web App Desktop Editar artista">
 
-Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
+Enlace a la mockup de la App Web en Figma: https://www.figma.com/file/W40HTJClec3Dm2dMZ40oAq/ArtCollab-WebApp-Open-Source?type=design&node-id=0%3A1&mode=design&t=OAkLFlb9d9QB2z8Z-1
 
 ### 4.4.4 Web Applications User Flow Diagrams.
 
