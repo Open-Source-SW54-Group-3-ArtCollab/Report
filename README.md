@@ -17,6 +17,7 @@ software.</td>
 
 Amaro Villanueva, Camila Elena <br>
 TB1 <br>
+Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
@@ -48,6 +49,7 @@ software.</td>
 
 Amaro Villanueva, Camila Elena <br>
 TB1 <br>
+Para esta entrega se analizaron las preferencias de los segmentos escritor, ilustrador y lector mendiante la realización y análisis de entrevistas. Además, de aplicar un adecuado diseño UX/UI acorde a los usuarios tanto para la versión de escritorio como responsive. Asimismo, se realizó un análisis exhaustivo de la competencia, para poder identificar de que manera nuestra aplicacion se puede diferenciar de ello, considerando tambien los antecedentes relacionados a la problematica que deseamos resolver.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
@@ -68,7 +70,7 @@ Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 
 </td>
-            <td>TB1: 
+            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
        <tr>
 </table>
 
