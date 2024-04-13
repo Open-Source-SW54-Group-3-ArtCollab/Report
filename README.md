@@ -1002,3 +1002,107 @@ Para el presente sprint, se ha desarrollado la landing page. Para el despliegue 
 </ul>
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+El equipo desarrolló el landing page por ramas con la finalidad de desarrollar cada sección de manera indpeendiente para optimizar el mantenimiento y colaboración durante el sprint. Asimismo se aplico las convenciones estandard de gitflow, por lo que contamos con nuestras ramas de develop y feature segun la funcionalidad. A continuación se presenta las tareas asignadas a cada integrante del equipo, asi como también el insight del equipo a través de la plataforma GitHub: 
+
+
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th> Jave Diaz, Mathias Alejandro  </th>
+   <th>  Implementación de la navbar tanto en su versión mobile como desktop, también en la implementación de la sección footer en su modo responsive </th>
+ </tr>
+  <tr> 
+   <th> Huilca Chipana, Gustavo  </th>
+   <th>  Implementación de la sección footer tanto en su versión mobile como desktop </th>
+ </tr>
+  <tr> 
+   <th> Amaro Villanueva, Camila Elena  </th>
+   <th>  Implementación de la sección hero en su versión mobile y desktop </th>
+ </tr>
+  <tr> 
+   <th> Alvarez Araguache, Samira Jetzabel </th>
+   <th>  Implementación de la sección colabora tanto en su versión mobile como desktop </th>
+ </tr> 
+ <tr> 
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+   <th>  Implementacion de la sección Explora tanto en su versión mobile como desktop </th>
+ </tr>
+  <tr> 
+   <th> Luna Capuñay, Italo D'Alessandro </th>
+   <th>  Implementacion de la sección Explora tanto en su versión mobile como desktop </th>
+ </tr>
+
+ </table>
+
+ </table>
+
+Hemos desarrollado en conjunto un total de 43 commits para el desarrollo de la landing page, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+
+A continuación se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+
+Tabla de integrantes:
+
+
+<table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> LordMathi2741  </th>
+   <th>Jave Diaz, Mathias Alejandro   </th>
+ </tr>
+  <tr> 
+  <th> GustavoHuilca31 </th>
+   <th> Huilca Chipana, Gustavo  </th>
+ </tr>
+  <tr> 
+   <th> CamiAm404 </th>
+   <th> Amaro Villanueva, Camila Elena  </th>
+
+ </tr>
+  <tr> 
+   <th> tatoft </th>
+   <th> Luna Capuñay, Italo D'Alessandro  </th>
+ </tr> 
+   <tr> 
+   <th> Samira-AA </th>
+   <th> Alvarez Araguache, Samira Jetzabel  </th>
+ </tr> 
+ <tr> 
+   <th> JuanAlejandroCuadrosRodriguez </th>
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+ </tr>
+
+</table>
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/insights/NetworkGraph-1.png"/>
+
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/insights/NetWorkGraph-2.png"/>
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/insights/TablaCommitspng.png"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/insights/FlujoTrabajo.png"/>
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+<img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/insights/Colaborations.png"/>
+
+#### Anexo: Colaboration Insights en el periodo de 1 mes
+
+ 
+
+ 
