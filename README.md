@@ -2,7 +2,7 @@
 En este capítulo se incluyen todo lo relacionado con el diseño de la solución como el estilo visual, diagramas C4, de clases y modelos de base de datos.
 
 ## 4.1. Style Guidelines.
-<hr>
+En esta sección se encuentra el conjunto de estándares para el formato y diseño de la solución.
 
 ### 4.1.1. General Style Guidelines.
 ### Historia de la marca
