@@ -1,5 +1,5 @@
 # Capítulo IV: Product Design
-<hr>
+En este capítulo se incluyen todo lo relacionado con el diseño de la solución como el estilo visual, diagramas C4, de clases y modelos de base de datos.
 
 ## 4.1. Style Guidelines.
 <hr>
