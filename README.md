@@ -197,6 +197,55 @@ Versión Mobile:
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
+
+#### Wireframes de la sección Géneros
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Generos.png?raw=true" alt="Web App Desktop Generos">
+
+#### Wireframes de la sección Populares
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Populares.png?raw=true" alt="Web App Desktop Populares">
+
+#### Wireframes de la sección Suscripciones
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
+
+#### Wireframes de la sección Monetización
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Monetizaci%C3%B3n.png?raw=true" alt="Web App Desktop artistas monetización">
+
+#### Wireframes de la sección Artistas
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Artistas.png?raw=true" alt="Web App Desktop Artistas">
+
+#### Wireframes de la sección inicio de sesión
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
+
+#### Wireframes de la sección registro
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
+
+#### Wireframes de la sección recuperar contraseña
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
+
+#### Wireframes de la sección perfiles
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
+
+#### Wireframes de la sección chat artista
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
+
+#### Wireframes de la sección historia
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/historia.png?raw=true" alt="Web App Desktop Historia">
+
+#### Wireframes de la sección publicar libro
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/publicar-libro.png?raw=true" alt="Web App Desktop Publicar libro">
+
+#### Wireframes de la sección editar historia
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
+
+#### Wireframes de la sección editar perfil escritor/lector
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Editar-perfil-lector-escritor.png?raw=true" alt="Web App Desktop Editar perfil">
+
+#### Wireframes de la sección editar perfil artista
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Editar-perfil-ilustrador.png?raw=true" alt="Web App Desktop Editar artista">
+
+Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/W40HTJClec3Dm2dMZ40oAq/ArtCollab-WebApp-Open-Source?type=design&node-id=2043%3A1059&mode=design&t=ZviikLq3FcvGck9I-1
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 Enlace a traves de la herramienta LucidChart: https://lucid.app/lucidchart/1f8c4e0b-8101-4166-9a44-dca738736ddd/edit?viewport_loc=2076%2C-7%2C1953%2C988%2C0_0&invitationId=inv_7fd31580-59fc-4cd2-bee3-fc3d15fcfde4
