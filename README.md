@@ -415,7 +415,7 @@ Evidencia de la entrevista:
 
 
 
-Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/Ec8vX3-Ei_hEo1dRD6eUg4gB5ktef_jDtELJesmtgNKrew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BByu5K
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EYuhUaP2EvtCn4G-tnb05QIBFWLIOy0QpEP4uR7fiqfF9w?e=8uPsep
 
 **Entrevista 4:**
 
@@ -518,7 +518,7 @@ Entrevistador: Mathias Jave
 Evidencia de la entrevista:
  <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/entrevistas/Mathi/entrevista03-lector.png" alt="Entrevista 03 Segmento Lector"/>
 
- Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212721_upc_edu_pe/EWgNxIyoPgtImcY64zOA1HEB9rtLDY1afIgttERgdGsSXA?e=ahN2Q3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+ Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EalNqPHinQ9HuaagygD0XZsBvhhydbEdmz-9QbgNKhOUeA?e=wERWvN
 
  Se entrevisto a Mauricio,un joven de 22 años que actualmente se encuentra estudiando la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas en la ciudad de Lima.
 
