@@ -2980,7 +2980,7 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/404
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarLibro.png"/>
 
 <h4> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </h4>
-<img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/652db5f0d26cd0c9384cba2b532d6f406af7ec45/assets/Userflow-diagrams/IniciarSala.png"/>
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/Userflow-diagrams/IniciarSala.png?raw=true"/>
 
 <h4> User goal, usuario del tipo ilustrador edita su perfil </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarPerfilArtista.png"/>
