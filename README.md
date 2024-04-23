@@ -3020,13 +3020,13 @@ user goals.
 
 Timing: 0:00
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal1.png?raw=true" alt="Web App Prototype User goal 1">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal1.png?raw=true" alt="Web App Prototype User goal 1">
 <br>
 <strong> User goal: usuario publica una nueva historia y agrega series a la historia </strong>
 
 Timing: 1:32
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
 <br>
 <strong> User goal: usuario edita el contenido de una historia, como el contenido y las series. </strong>
 
@@ -3038,19 +3038,19 @@ Timing: 2:40
 
 Timing: 3:40
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
 <br>
 <strong> User goal: usuario del tipo ilustrador edita su perfil </strong>
 
 Timing: 4:50
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
 <br>
 <strong> User goal: usuario del tipo escritor edita su perfil </strong>
 
 Timing: 5:27
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867400eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
 <br>
 <strong> User goal: usuario busca un libro segun su popularidad y género  </strong>
 
