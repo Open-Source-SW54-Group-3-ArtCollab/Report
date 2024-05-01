@@ -1001,6 +1001,8 @@ Edad: 24 años
 
 Lugar de residencia: Lima, Perú
 
+Entrevistador: Gustavo Huilca Chipana
+
 Evidencia de la entrevista: 
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/b14214d557f98c57f6dc4f514dbbeac920b8cd99/assets/images/entrevistas/entrevista01-escritor.png?raw=true" alt="Entrevista 01 Segmento escritor">
@@ -3092,7 +3094,7 @@ Timing: 8:54
 
 ### 4.6.2. Software Architecture Container Diagram.
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/component-diagram.png?raw=true" alt="ArtCollab Container Diagram">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/0140f29e886e63c6caef029d13dc6a4eb34d63c8/assets/images/C4/container-diagram.png?raw=true" alt="ArtCollab Container Diagram">
 
 ### 4.6.3. Software Architecture Component Diagram.
 
