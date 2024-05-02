@@ -2907,19 +2907,19 @@ Esta sección incluye secciones internas donde presentamos la propuesta visual y
 En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
 
 #### Wireframes de la sección Géneros
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Generos.png?raw=true" alt="Web App Desktop Generos">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654741099544576/Generos.png?ex=663528a7&is=6633d727&hm=b1d0794f30d60b0d5998ce27cf5b53ceddb2cacdb1f809ca40e2ca4cfc031877&=&format=webp&quality=lossless&width=865&height=1002" alt="Web App Desktop Generos">
 
 #### Wireframes de la sección Populares
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Populares.png?raw=true" alt="Web App Desktop Populares">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654728592130068/Populares.png?ex=663528a4&is=6633d724&hm=f9c54739a7cca53e97e5f1230d775a89c2249c43d8b781784c27bda765788dab&=&format=webp&quality=lossless&width=861&height=1002" alt="Web App Desktop Populares">
 
 #### Wireframes de la sección Suscripciones
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654705385046146/Suscripciones.png?ex=6635289f&is=6633d71f&hm=eaa0c32eebd68f23f6445687cf937a82923ff60cc274f85b860189a2894b2ccc&=&format=webp&quality=lossless&width=1920&height=930" alt="Web App Desktop Suscripciones">
 
 #### Wireframes de la sección Monetización
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/WebApp-Wireframes/Monetizaci%C3%B3n.png?raw=true" alt="Web App Desktop artistas monetización">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654692449816730/Monetizacion.png?ex=6635289c&is=6633d71c&hm=f6e9ae61b9b5b5add851f336286808ce9121e2b781788295bd7b20493a12c5da&=&format=webp&quality=lossless&width=756&height=1002" alt="Web App Desktop artistas monetización">
 
 #### Wireframes de la sección Artistas
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Artistas.png?raw=true" alt="Web App Desktop Artistas">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654680588058644/Artistas.png?ex=66352899&is=6633d719&hm=d4bccda0eef038c37ff2c78eb687212f610f45f15f4ff9535db3c379b9241537&=&format=webp&quality=lossless&width=627&height=1002" alt="Web App Desktop Artistas">
 
 #### Wireframes de la sección inicio de sesión
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
