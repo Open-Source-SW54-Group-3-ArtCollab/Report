@@ -2866,20 +2866,20 @@ Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/
 
 Versión Desktop:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Wireframes/Hero.png?raw=true" alt="Landing Page Hero Wireframe">
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Wireframes/DESCUBRE.png?raw=true" alt="Landing Page DESCUBRE Wireframe">
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Wireframes/COLABORA.png?raw=true" alt="Landing Page COLABORA Wireframe">
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Wireframes/Footer.png?raw=true" alt="Landing Page Footer Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235652421384933447/Hero.png?ex=6635267e&is=6633d4fe&hm=923194a2e636b7c91991290154c6c6562df8f20a5e30010f4c56f9bc9c5ab099&=&format=webp&quality=lossless&width=720&height=495" alt="Landing Page Hero Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651393826586634/DESCUBRE.png?ex=66352589&is=6633d409&hm=f03569ad2db9ada3858e3fe48248fb5a80c1443a88585b930762c68331d3f892&=&format=webp&quality=lossless&width=399&height=597" alt="Landing Page DESCUBRE Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651418723975198/COLABORA.png?ex=6635258f&is=6633d40f&hm=7f4288ffddd8a6d05e6971bf625041fe6ce40ff811625fd553a77ddc8fa8a26a&=&format=webp&quality=lossless&width=491&height=597" alt="Landing Page COLABORA Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651442019139695/Footer.png?ex=66352595&is=6633d415&hm=08242b425f1a92f41eaa35e5a82aa85a5013fa20a8f0774bca549c5ab08f696a&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Footer Wireframe">
 
 Versión Mobile:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/Hero-Mobile.png?raw=true" alt="Landing Page Mobile Hero Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651541092925600/Hero-Mobile.png?ex=663525ac&is=6633d42c&hm=aa76fca0742780e647f8b61df210b39ec4a46baeda189309212cc81a082385b8&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero Wireframe">
 <br>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/DESCUBRE-Mobile.png?raw=true" alt="Landing Page Mobile DESCUBRE Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651586437546035/DESCUBRE-Mobile.png?ex=663525b7&is=6633d437&hm=75134f13fb2cbb450126bbbe9a5a57c033063f443cb465d7ca8b06ec0dc765e0&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE Wireframe">
 <br>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/COLABORA-Mobile.png?raw=true" alt="Landing Page Mobile COLABORA Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651612735705250/COLABORA-Mobile.png?ex=663525bd&is=6633d43d&hm=6585ad925c4c6ffb6ff607222d45174978ac1d778e1588e6b74a2f500980a1e5&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA Wireframe">
 <br>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/267972bfe26e82cf41c7bca2350823b0e2c310ff/assets/images/landing-page/Wireframes/Footer-Mobile.png?raw=true" alt="Landing Page Mobile Footer Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651642834292886/Footer-Mobile.png?ex=663525c4&is=6633d444&hm=527f1c01f06a3b835ee01dfe78e8b08ec0000f62beed00ed2084a53ef2ed4c81&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer Wireframe">
 
 ### 4.3.2. Landing Page Mockup.
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
