@@ -2884,20 +2884,20 @@ Versión Mobile:
 ### 4.3.2. Landing Page Mockup.
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/7aea00ae377ffed000f1efd7462952f131256f83/assets/images/Hero.png?raw=true" alt="Landing Page Desktop Hero">
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/7aea00ae377ffed000f1efd7462952f131256f83/assets/images/DESCUBRE.png?raw=true" alt="Landing Page Desktop DESCUBRE">
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/7aea00ae377ffed000f1efd7462952f131256f83/assets/images/COLABORA.png?raw=true" alt="Landing Page Desktop COLABORA">
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/7aea00ae377ffed000f1efd7462952f131256f83/assets/images/Footer.png?raw=true" alt="Landing Page Desktop Footer">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235653889169293442/Hero.png?ex=663527dc&is=6633d65c&hm=cd960b77b2404b41bca68e03ddbb1d8e73dc5df64187a9175474ac8005c2b20e&=&format=webp&quality=lossless&width=509&height=350" alt="Landing Page Desktop Hero">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654178156580937/DESCUBRE.png?ex=66352821&is=6633d6a1&hm=3d9ad2994d327be7ff94d7faaccd52a46a141a71a76678427cb697f725b8414c&=&format=webp&quality=lossless&width=234&height=350" alt="Landing Page Desktop DESCUBRE">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654188592271490/COLABORA.png?ex=66352823&is=6633d6a3&hm=528ff1e37f18d0d5aaf32e91c0e2bf9203bf08da489b6d44b95bb694ba3c0805&=&format=webp&quality=lossless&width=288&height=350" alt="Landing Page Desktop COLABORA">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654201879826492/Footer.png?ex=66352827&is=6633d6a7&hm=a67a0d6c83c6bb818edafa3f7fab8b4852080e274a344635fa513b546a5578ce&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Desktop Footer">
 
 Versión Mobile:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Mockup/Hero-Mobile.png?raw=true" alt="Landing Page Mobile Hero">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654255411466351/Hero-Mobile.png?ex=66352833&is=6633d6b3&hm=987f2a01a3c906a3e577056e3f13823d92a996214308da33abcdb28461f7f48a&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero">
 <br>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Mockup/DESCUBRE-Mobile.png?raw=true" alt="Landing Page Mobile DESCUBRE">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654270351708180/DESCUBRE-Mobile.png?ex=66352837&is=6633d6b7&hm=6a57a3b4a89a815809f3cf242af959a6561f842cbaa117920023f04e42c378da&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE">
 <br>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Mockup/COLABORA-Mobile.png?raw=true" alt="Landing Page Mobile COLABORA">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654286797705276/COLABORA-Mobile.png?ex=6635283b&is=6633d6bb&hm=28e789b91f9d7b06db5b30fa78852b7efb55922b7e7f549cf997250417c0f2ed&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA">
 <br>
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/f772ecd60eb11fc1133cb643a10c784ecb3272aa/assets/images/landing-page/Mockup/Footer-Mobile.png?raw=true" alt="Landing Page Mobile Footer">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=6635283f&is=6633d6bf&hm=b3a44a9a1272e070aeee4de558bda9773bc35de1a460794e2f17d5974b3e5129&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer">
 
 
 ## 4.4. Web Applications UX/UI Design
