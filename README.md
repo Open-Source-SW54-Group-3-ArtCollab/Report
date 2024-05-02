@@ -62,8 +62,16 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta “assets” en la rama develop del repositorio del informe.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
 
+<img src="./assets/images/commitsTable.jpeg" alt="Report Commits TB1"/>
+<br>
 
-<img src="./assets/images/commitsTable.jpeg"/>
+TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo: [Repositorio Github](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report).
+
+- Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio. 
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
+- Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la Web App.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235668875379478589/image.png?ex=663535d1&is=6633e451&hm=f91072ff2b1afa40a6c57535b01336357c286bd9a6654e2de7910f43c1d7e68e&=&format=webp&quality=lossless&width=633&height=597" alt="Report Commits TB1"/>
 <br>
 
 ---
