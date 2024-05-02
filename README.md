@@ -111,6 +111,9 @@ Amaro Villanueva, Camila Elena <br>
 TB1 <br>
 Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
 
+TP1:
+Se ha avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
+
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
