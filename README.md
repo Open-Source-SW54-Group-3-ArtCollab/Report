@@ -111,7 +111,7 @@ Amaro Villanueva, Camila Elena <br>
 TB1 <br>
 Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
 
-TP1:
+TP1 <br>
 Se ha avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
 
 Cuadros Rodriguez, Juan Alejandro <br>
@@ -157,6 +157,9 @@ software.</td>
 Amaro Villanueva, Camila Elena <br>
 TB1 <br>
 Para esta entrega se analizaron las preferencias de los segmentos escritor, ilustrador y lector mendiante la realización y análisis de entrevistas. Además, de aplicar un adecuado diseño UX/UI acorde a los usuarios tanto para la versión de escritorio como responsive. Asimismo, se realizó un análisis exhaustivo de la competencia, para poder identificar de que manera nuestra aplicacion se puede diferenciar de ello, considerando tambien los antecedentes relacionados a la problematica que deseamos resolver.
+
+TP1 <br>
+Para la entrega del segundo avance del trabajo, se completaron los requisitos establecidos, lo que incluyó avanzar significativamente con el desarrollo del frontend de la aplicación web. Además, se logró desplegar la aplicación de manera efectiva, lo que garantiza su disponibilidad para los usuarios finales. De igual modo, se llevó a cabo la creación de una API, permitiendo mediante esta una comunicación eficiente y segura.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
