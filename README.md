@@ -5267,6 +5267,546 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
 
 ### 5.2.2.3. Development Evidence for Sprint Review.
 
+<table>
+
+ <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+<tr>
+
+ <th> Frontend </th> 
+   <th> main </th>
+   <th> 5bf97a8fc2d58dad260d162ff741eaa91c0e9521 </th>
+   <th> chore(src): added ddd organization for the proyect folders </th>
+   <th> </th>
+   <th> 23/04/2024 </th>
+  </tr>
+  
+<th> Frontend </th> 
+   <th> main </th>
+   <th> dbc7026e1b1a96f46ee8d1564331d854dd8553e1 </th>
+   <th> chore(package.json): added angular material config </th>
+   <th> </th>
+   <th> 23/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> 0bf039458817190bffffa21c60d26bab7dc1ff2a </th>
+   <th> feat(navbar): added navbar content </th>
+   <th> </th>
+   <th> 23/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> 86bc437ac5f5d54b069c650c270fb691dca61765 </th>
+   <th> feat(navbar): added navbar content </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> e7070d2c0dd6e40fec743811f8ad131aaff10a6e </th>
+   <th> fix: Applied custom fonts and corrected navbar </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> 44648dbd263ea3fb0246d0774ee1929c5270f181 </th>
+   <th> fix: Corrected gapping in navbar </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> eab3f238d7333730bcdd55175931acd5b739c3e7 </th>
+   <th> feat: Added sidenav to responsive navbar </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> abbe62ad7bcb700d0d63be74387dbbfb9c173b9b </th>
+   <th> feat(footer): added footer content </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> fd01714b883f9537d351755b8c7942d6ffedc74e </th>
+   <th> feat: Added font awesome icons </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> e71d7153cb26e547c83a1b6d43a0a8c7f076436a </th>
+   <th> feat: add youtube and tiktok icons </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> 201f058e57cfb01608fc0f1a929d1578d8b4a181 </th>
+   <th> chore(package.json): added tailwind configs </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> main </th>
+   <th> 201f058e57cfb01608fc0f1a929d1578d8b4a181 </th>
+   <th> chore(package.json): added tailwind configs </th>
+   <th> </th>
+   <th> 24/04/2024 </th>
+  </tr>
+
+  
+<th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> a9158ec5c8e1d707cfdf61bf0083f4ee57123257 </th>
+   <th> chore(src): added ddd organization for monetization bounded context </th>
+   <th> </th>
+   <th> 25/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> 0ac445e9840416bfb4a3f6690fd9d14147bf7441 </th>
+   <th> feat(monetization): added monetization hero and monetization steps content </th>
+   <th> </th>
+   <th> 25/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> 845ee5e0907b6138caceaee5e1fbeea7d6c8c2a0 </th>
+   <th> style(monetization)/feat(monetization): change general styles and added steps section content </th>
+   <th> </th>
+   <th> 25/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> 845ee5e0907b6138caceaee5e1fbeea7d6c8c2a0 </th>
+   <th> style(monetization)/feat(monetization): change general styles and added steps section content </th>
+   <th> </th>
+   <th> 25/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> 118ab111c456bda9fed27a86a2df45e01adcbeed </th>
+   <th> chore(fake-api): cofigured api fake dependencies</th>
+   <th> </th>
+   <th> 25/04/2024 </th>
+  </tr>
+
+
+<th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> 7551273333d18ac5816f955e3ecb3a604e81c410 </th>
+   <th> fix(navbar)/feat(monetization): fixed navbar bug with xs screens and monetization hero added </th>
+   <th> </th>
+   <th> 25/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> e89e3a02a1ad6b04d2cce21d0362987d4611e2cf </th>
+   <th> feat(db.json): added content in the api fake </th>
+   <th> </th>
+   <th> 26/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 78f03bc725161f72deb6f35fae06060e60167247 </th>
+   <th> chore: Add main-page components </th>
+   <th> </th>
+   <th> 26/04/2024 </th>
+  </tr>
+
+ <th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 9be0cbea461f69a6c2cc673af853ea297caea92c </th>
+   <th> feat: add main-page </th>
+   <th> </th>
+   <th> 26/04/2024 </th>
+  </tr>
+
+
+<th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> b78cc9aebe03f0e79c415684c1e3681600dce183 </th>
+   <th> feat(db.json): added user service </th>
+   <th> </th>
+   <th> 26/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> ba94b31060b6b2a578b5f2bb25a3fc9ed6e1e421 </th>
+   <th> feat: Add login components and linked to navbar </th>
+   <th> </th>
+   <th> 27/04/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/monetization </th>
+   <th> af5a45ebf497d73c372ec3ca9a560560e84d09af </th>
+   <th> feat(db.json): chore(shared): added share service </th>
+   <th> </th>
+   <th> 27/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> 716fa05942e4fda20ea02da5062de94be4f38d77 </th>
+   <th> feat: Add user register page </th>
+   <th> </th>
+   <th> 27/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> b7377bb4e8fcf2cf2c97a133c4b29a6a0b732520 </th>
+   <th> feat: added artist user components</th>
+   <th> </th>
+   <th> 27/04/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> be005de9463702ade3d1131cbfd5c723679311af</th>
+   <th> fix: updated in app.component index</th>
+   <th> </th>
+   <th> 27/04/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> dba0d03e5b1768170015fa9e9969344e1abcbd2e </th>
+   <th> chore(angular.json)/feat(my-theme.scss): Added new styles and its config </th>
+   <th> </th>
+   <th> 28/04/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> 089cb0581bec467e8909daa0b0e64d2f8422efa4</th>
+   <th> feat: added writer profile components</th>
+   <th> </th>
+   <th> 28/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 6722212e4a1dabbdad1f25957e9b4119d1819f6c </th>
+   <th> feat: add fake-api and api service </th>
+   <th> </th>
+   <th> 28/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 288e752c5a18905c1afad3e9f255bd0241419572 </th>
+   <th> feat(book-publish-stepper): Added component </th>
+   <th> </th>
+   <th> 28/04/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 6722212e4a1dabbdad1f25957e9b4119d1819f6c </th>
+   <th> feat: add fake-api and api service </th>
+   <th> </th>
+   <th> 28/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> a90279ca93e8da446a484bcfe2823c22ee6dcb9d</th>
+   <th> feat: added components to writer profile edit</th>
+   <th> </th>
+   <th> 28/04/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> 08b9558502f042ecd177707363d153f7933b63ab</th>
+   <th> feat: Add fake-api and api services</th>
+   <th> </th>
+   <th> 28/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 79367dfe2c04a511a463381d066db21aed65cb58 </th>
+   <th> feat(book-publish-stepper): Added components and styles </th>
+   <th> </th>
+   <th> 28/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> b967d74e0c45cc5ff46db7e0d79936c830d6596e </th>
+   <th> feat: add book profile component </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> 6d170cc3e76a30d1eddbf46349696686cd487d64</th>
+   <th> fix: update index.html to app component</th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 3f96b58e8debe1130ca8be5c892cbab305b9941f </th>
+   <th> feat (shared): add components folder and book details component </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 446826d4082bc14dc590f3567401dc7d1df25407 </th>
+   <th> feat (pages): add book-detail component </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> bc02c928e5c9f030dc2d8a38a7affd22a19685e8 </th>
+   <th> feat(content): added popular page </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 859e9eebefbb0cc45fe122890c8ff13319366872 </th>
+   <th> feat(book-publish-page)/chore(app.ts): Added component to page and import it to app </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 99e97a2279c0803b0403ce454da71e5f937ccddc </th>
+   <th> feat(the-book-details-edit-tabview): Created component </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 02b0c29ada135d0666a06f5bc5b5e19d49cf0f56 </th>
+   <th> feat(book-details-edit-page): Created page and added component </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 6e1bd2f562e043adad5a66335f82bf2ef447a88e </th>
+   <th> feat(details-edit-page): Added toolbar </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 9487a8af9daa7ddae4979d58e4d72195dc3ca5d9 </th>
+   <th> feat: Add data to db.json </th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> c0819cbac528d229e138e4f68460ace2f73ee4f0</th>
+   <th> refactor(db.json): adapted service with database</th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> cb26f6d87e9ad5e5d5d1ff05263f034c0a6c96b7</th>
+   <th> feat: Linked user register with service</th>
+   <th> </th>
+   <th> 29/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> df7b249020e2eeae98c26b2b443dbe5e4650d78a</th>
+   <th> feat: added connected fake api</th>
+   <th> </th>
+   <th> 30/04/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> a1a5c099feb57b97423765f93c2eecca11ae10d4</th>
+   <th>feat: Add the-user-edit-account in components file</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/collaboration </th>
+   <th> e974b29c31883dc0bf318c9374c30fa2674c1387</th>
+   <th>feat: Add the-artist-room in components</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 26bbd4759db63e02c55699121e0ec372bc038824</th>
+   <th>feat(the-book-profile): connect with API</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/user </th>
+   <th> d048f86736011fa911c88e559fe396244bb8c426</th>
+   <th>fix: user-edit.account in page</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> a69b07e9f68138680976494975ad85b9594f4eff</th>
+   <th>feat(content)/feat(book.service): added the-book-details section and added services for edit 		chapter</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 6a8bb5bbab82f034f1b9025a4e7904b50af79455</th>
+   <th>feat: Add Chapter in components</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+  
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> ec5f4f731c8d1dd897343e9501d0ace58fb3bb65</th>
+   <th>feat: completed main-page</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+  
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 3eb2f7c6b05ed31bf297696c8bf0ccea4561c4b2</th>
+   <th>feat (pages): add book genre page</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/content </th>
+   <th> 71a13daccdb922729c80c0a00efe5956de11a897</th>
+   <th>feat(the-about): Added page and its component</th>
+   <th> </th>
+   <th> 01/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/collaboration </th>
+   <th> eae9808c4d81c5cd2cb7f77f6322ef940a584735</th>
+   <th>feat(collaboration): added chat section feature</th>
+   <th> </th>
+   <th> 02/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> bounded-context/collaboration </th>
+   <th> ddaca455c5605f89703a57e38845d382133b1e64</th>
+   <th>feat(collaboration)/feat(chat-service): added services for create chat and delete chatRoom and their implementions</th>
+   <th> </th>
+   <th> 02/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> develop </th>
+   <th> 7119cc43235489d4c1292980aacfca647c9e9496</th>
+   <th>Merge remote-tracking branch 'origin/bounded-context/user' into develop</th>
+   <th> </th>
+   <th> 02/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> develop </th>
+   <th> 9e5e477b967e68a853c3215c9fddcc289e6ebb4f</th>
+   <th>Merge remote-tracking branch 'origin/bounded-context/content' into develop</th>
+   <th> </th>
+   <th> 02/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> develop </th>
+   <th> cae6df7bfe3db4cc2e88c43a2c2ae75bd9d45ecf</th>
+   <th>Merge remote-tracking branch 'origin/bounded-context/collaboration' into develop</th>
+   <th> </th>
+   <th> 02/05/2024 </th>
+  </tr>
+
+  <th> Frontend </th> 
+   <th> develop </th>
+   <th> 8c35061bbf300b16ba55856868501a2ffa58526b</th>
+   <th>Merge remote-tracking branch 'origin/bounded-context/monetization' into develop</th>
+   <th> </th>
+   <th> 02/05/2024 </th>
+  </tr>
+
+<th> Frontend </th> 
+   <th> develop </th>
+   <th> 79a03107c5b23c0e5a1f25d8b50760e76f4916cd</th>
+   <th>fix: Corrected routes</th>
+   <th> </th>
+   <th> 02/05/2024 </th>
+  </tr>
+  
+<th> Frontend </th> 
+   <th> develop </th>
+   <th> 105c58963789ee40961d6d973150bccc276d47d1</th>
+   <th>feat: Add deployed api</th>
+   <th> </th>
+   <th> 02/05/2024 </th>
+  </tr>
+
+
+  </table>
+
 ### 5.2.2.5 Execution Evidence for Sprint Review.
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review.
