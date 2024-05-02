@@ -1,4 +1,4 @@
-# COURSE PROJECT
+![imagen](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/assets/132599983/7d015af8-1a12-4714-ae6f-cb81ed4b1eef)# COURSE PROJECT
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
@@ -2925,31 +2925,31 @@ En esta sección se pueden encontrar los wireframes relacionados a nuestro aplic
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
 
 #### Wireframes de la sección registro
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659313616261211/registro-web-app.png?ex=66352ce9&is=6633db69&hm=0afe9beac582f05e5d9a1267d0578a1e5dc344bf064ae113069a66cd6ff80723&=&format=webp&quality=lossless&width=1920&height=934" alt="Web App Desktop Registro">
 
 #### Wireframes de la sección recuperar contraseña
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659230418042891/recuperar-contrasena.png?ex=66352cd5&is=6633db55&hm=e9044c6c27fc3910ec7cb4cf642aa534d22e5d8981b0141fba679b8579c81547&=&format=webp&quality=lossless&width=1920&height=933" alt="Web App Desktop Recuperar contraseña">
 
 #### Wireframes de la sección perfiles
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659242917204060/perfiles.png?ex=66352cd8&is=6633db58&hm=06477de0575258bd5f7e30c9a744b8f55c4ea7e8e3d916e18d1425ec87528781&=&format=webp&quality=lossless&width=1705&height=1002" alt="Web App Desktop Perfiles">
 
 #### Wireframes de la sección chat artista
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659253956481044/chat-artista.png?ex=66352cdb&is=6633db5b&hm=18627e23387f30acde77bd444d41db4af7c051d603618b6ff78636678e891648&=&format=webp&quality=lossless&width=1920&height=868" alt="Web App Desktop Chat artista">
 
 #### Wireframes de la sección historia
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/historia.png?raw=true" alt="Web App Desktop Historia">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659263473483940/historia.png?ex=66352cdd&is=6633db5d&hm=c8e278cad00e7fdc5278887e8c360fa88d8c8c4cfa32dbeaed34ff47f2e650dd&=&format=webp&quality=lossless&width=1759&height=1002" alt="Web App Desktop Historia">
 
 #### Wireframes de la sección publicar libro
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/publicar-libro.png?raw=true" alt="Web App Desktop Publicar libro">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659276538613760/publicar-libro.png?ex=66352ce0&is=6633db60&hm=5a53677cca9eb408f090cb5dea9b3cd064f88513555343e23ae0ce40b154f1c1&=&format=webp&quality=lossless&width=1920&height=766" alt="Web App Desktop Publicar libro">
 
 #### Wireframes de la sección editar historia
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659284423905300/Editar-detalles-historia.png?ex=66352ce2&is=6633db62&hm=71aed3128acf03fa052418f08a5f41da7a6972c9de19597a74534acd57e1214a&=&format=webp&quality=lossless&width=1920&height=559" alt="Web App Desktop Editar historia">
 
 #### Wireframes de la sección editar perfil escritor/lector
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Editar-perfil-lector-escritor.png?raw=true" alt="Web App Desktop Editar perfil">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659293416620142/Editar-perfil-lector-escritor.png?ex=66352ce4&is=6633db64&hm=ec6b3585fbb8ae61c06d8f51bce44176f0387ec295cfac24346f21c2eff95a1f&=&format=webp&quality=lossless&width=1920&height=780" alt="Web App Desktop Editar perfil">
 
 #### Wireframes de la sección editar perfil artista
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/Editar-perfil-ilustrador.png?raw=true" alt="Web App Desktop Editar artista">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659303969488966/Editar-perfil-ilustrador.png?ex=66352ce7&is=6633db67&hm=081afb78ffe1070c8893954487fe810debd06d7f691ac527faac2b6595bc00ec&=&format=webp&quality=lossless&width=1488&height=1002" alt="Web App Desktop Editar artista">
 
 Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/W40HTJClec3Dm2dMZ40oAq/ArtCollab-WebApp-Open-Source?type=design&node-id=2043%3A1059&mode=design&t=ZviikLq3FcvGck9I-1
 
