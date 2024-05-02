@@ -2441,6 +2441,28 @@ y elije la red la red social Twitter.
 <td>8</td>
 </tr>
 
+<tr class="even">
+<td>E9-US26</td>
+<td>Toolbar de navegación</td>
+<td><p><strong>Como</strong> lector, ilustrador o escritor</p>
+<p><strong>quiero</strong> visualizar una toolbar con links de navegación</p>
+<p><strong>para</strong> navegar por la aplicación</p></td>
+
+<td><p>Escenario 1: Navegación por la toolbar en versión desktop</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la pantalla principal</p>
+<p>Y visualice la toolbar</p>
+<p>Cuando selecciona cualquiera de los apartados</p>
+<p>Entonces será redirigido al apartado seleccionado</p>
+
+<p>Escenario 2: Navegación por la toolbar en versión mobile</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la pantalla principal</p>
+<p>Y visualice el ícono de menú-hamburguesa</p>
+<p>Cuando presiona el ícono</p>
+<p>Y se despliegue la sidebar</p>
+<p>Entonces selecciona cualquiera de los apartados</p>
+<p>Y será redirigido al apartado seleccionado</p>
+<td>9</td>
+</tr>
 </tbody>
 </table>
 <hr>
