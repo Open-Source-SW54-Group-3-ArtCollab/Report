@@ -5151,7 +5151,84 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 #### Anexo: Colaboration Insights en el periodo de 1 mes
 
- 
+
+## 5.2.2. Sprint 2
+
+### 5.2.1.2. Sprint Planning 2 
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 22/04/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 22:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+           Luna Capuñay, Italo D'Alessandro
+          <br>
+         Huilca Chipana, Gustavo 
+              <br>
+         Alvarez Araguache, Samira Jetzabel
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td> Durante el Sprint 1, se implementó con éxito la landing page y se realizó su despliegue en Netlify. Se cumplió satisfactoriamente con todos los requisitos funcionales del sprint.<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> En el sprint 1, nuestro trabajo colaborativo y la clara definición de los alcances de cada tarea permitieron una entrega exitosa. No obstante, consideramos necesario optimizar la planificación de nuestros tiempos de entrega para futuras iteraciones.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td>  En este sprint se tiene como objetivo implementar el frontend de la aplicación web, utilizando las tecnologías Angular y Tailwind.css para el frontend y JSON Server para el backend. Se contempla el desarrollo de las secciones de inicio, suscripciones, géneros, populares, artistas y monetización. Además, se planifica el despliegue en la plataforma Netlify. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td>  94 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td>  <td>
+      </tr>
+
+
+  </table>
+
+  ### 5.2.2.2. Sprint backlog 2
+
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
+
+Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
+
+<img src="./assets/images/Sprint-Backlog/SprintBacklog2png.png" width:200px/>
 
  
 # Conclusiones
