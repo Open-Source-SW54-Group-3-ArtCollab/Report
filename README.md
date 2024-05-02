@@ -123,6 +123,9 @@ TB1 <br>
 Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de 
 nuestra solución. Asímismo, el uso de Gitflow facilitó un flujo de trabajo eficiente, permitiendo a cada miembro contribuir al desarrollo de la landing page de manera coordinada y fluida.
 
+TP1 <br>
+Para este avance del trabajo donde se desarrollo de la parte frontend de nuestra aplicación web, hemos seguido un flujo de trabajo definido utilizando Gitflow para gestionar nuestras ramas de código. Esto nos permitió trabajar de manera coordinada en las diferentes partes del proyecto. Además, hemos utilizado un tablero en Trello para mantener un seguimiento del progreso de nuestras tareas, lo que facilitó la colaboración y la comunicación entre el equipo.
+
 Huilca Chipana, Gustavo <br>
 TB1 <br>
 En este avance del trabajo, se ha trabajado en equipo para realizar las entrevistas a los usuarios y obtener información relevante para el desarrollo de la aplicación. Además, se ha colaborado en la creación de los mockups y prototipos de la aplicación web, así como en el desarrollo en código de la Landing page.
@@ -162,6 +165,9 @@ Para la entrega del trabajo, se realizaron diversos analices para identificar y 
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
 En este primer avance del trabajo, se realizó el diccionario de clases de cada bounded context, detallando sus atributos, métodos y relaciones para un mejor entendimiento de la arquitectura del modelo. Asímismo, se establecieron y documentaron las herramientas y tecnologías utilizadas en el desarrollo del proyecto, incluyendo la configuración para el despliegue de la landing page. De igual manera, se definió el flujo de trabajo del equipo, junto los estilos y convenciones para la codificación de la aplicación web.
+
+TP1 <br>
+Durante este avance del trabajo, hemos desarrollado los componentes que conforman el frontend de nuestra aplicación web, los cuales permiten a los usuarios visualizar historias por género, así como acceder a perfiles y detalles de cada historia publicada.
 
 Huilca Chipana, Gustavo <br>
 TB1<br>
