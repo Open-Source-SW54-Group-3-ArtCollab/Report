@@ -126,6 +126,9 @@ Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
 
+TP1 <br>
+En esta entrega, el trabajo  donde se desarrollo el front de nuestra aplicacion web donde se utilizo las diversas ramas para la organizacion del trabajo. Ademas, del uso de GitFlow y el DDD permitiendo un enfoque claro y estructurado para el diseño del sistemas y mantenimiento del codigo.
+
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
 Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de 
@@ -173,7 +176,10 @@ Para la entrega del segundo avance del trabajo, se completaron los requisitos es
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
-Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
+Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.}
+
+TP1 <br>
+En el avance del trabajo, se reaaizo los componentes que conforman el desarrollo del frontend de la aplicacion web. Se completo la creacion del API necesario para al app y se logro desplegarla.
 
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
