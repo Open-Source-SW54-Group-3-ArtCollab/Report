@@ -3251,33 +3251,33 @@ Timing: 8:54
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/context-diagram.png?raw=true" alt="ArtCollab Context Diagram">
+<img src="https://images-ext-1.discordapp.net/external/qsi7A2QGjUTTZZbASZimPuJqrud68efVeUWAWVmx2tQ/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/context-diagram.png?format=webp&quality=lossless&width=1145&height=597" alt="ArtCollab Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagram.
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/0140f29e886e63c6caef029d13dc6a4eb34d63c8/assets/images/C4/container-diagram.png?raw=true" alt="ArtCollab Container Diagram">
+<img src="https://images-ext-1.discordapp.net/external/CuAmLHD1GS1Wcc8T3TW8r8TWbDhg9bCoQrkBssCB-Ek/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/container-diagram.png?format=webp&quality=lossless&width=686&height=597" alt="ArtCollab Container Diagram">
 
 ### 4.6.3. Software Architecture Component Diagram.
 
 API Rest Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/api-rest-component-diagram.png?raw=true" alt="API Rest Component Diagram">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235643595432792094/api-rest-component-diagram.png?ex=66351e46&is=6633ccc6&hm=804357892c353e6dbfdb9c682c508a07012987d5568ebdd6dac8f83054dbbf8c&=&format=webp&quality=lossless&width=1365&height=597" alt="API Rest Component Diagram">
 
 User Bounded Context Component Diagram:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/userbc-component-diagram.png?raw=true" alt="User BC Component Diagram">
+<img src="https://images-ext-1.discordapp.net/external/GLFcnJQ84zCelEznlOucJoFbz3spTZgQ4JtoIIOMr8A/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/userbc-component-diagram.png?format=webp&quality=lossless&width=597&height=597" alt="User BC Component Diagram">
 
 Content Bounded Context Component Diagram:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/contentbc-component-diagram.png?raw=true" alt="Content BC Component Diagram">
+<img src="https://images-ext-1.discordapp.net/external/rj8J2DVeW-hf5-ZS3JyD1oaCWvimo_cYqE9H-fTpSLM/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/contentbc-component-diagram.png?format=webp&quality=lossless&width=597&height=597" alt="Content BC Component Diagram">
 
 Collaboration Bounded Context Component Diagram:
 
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/842c94958bf7962e32880a5c1f6a5a8bd2a0d89a/assets/images/C4/collaborationbc-component-diagram.png?raw=true" alt="Collaboration BC Component Diagram">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235643631227113502/collaborationbc-component-diagram.png?ex=66351e4e&is=6633ccce&hm=a0146639394f17a2bbcda8ede4c6c3f5ade5401491b2a418708b9b717dec5b7c&=&format=webp&quality=lossless&width=426&height=596" alt="Collaboration BC Component Diagram">
 
 Monetization Bounded Context Component Diagram:
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/652db5f0d26cd0c9384cba2b532d6f306af7ec45/assets/C4/monetizationbc-component-diagram.png?raw=true" alt="Monetization Bounded Context Class Diagram">
+<img src="https://images-ext-1.discordapp.net/external/vCbi4M9CQFGa0PZSNWOBc5_JN_Js-pQLqxjjmqtT-9I/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/monetizationbc-component-diagram.png?format=webp&quality=lossless&width=459&height=596" alt="Monetization Bounded Context Class Diagram">
 
 
 ## 4.7. Software Object-Oriented Design
