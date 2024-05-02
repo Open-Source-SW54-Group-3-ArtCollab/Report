@@ -1,4 +1,4 @@
-![imagen](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/assets/132599983/7d015af8-1a12-4714-ae6f-cb81ed4b1eef)# COURSE PROJECT
+# COURSE PROJECT
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
