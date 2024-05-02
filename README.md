@@ -2286,6 +2286,161 @@ y elije la red la red social Twitter.
 <td>7</td>
 </tr>
 
+<tr class="odd">
+<td>E8-US22</td>
+<td>Registro de cuentas</td>
+<td><p><strong>Como</strong> lector, ilustrador o escritor</p>
+<p><strong>quiero</strong> registrarme en la aplicación</p>
+<p><strong>para</strong> acceder a sus funcionalidades.</p></td>
+
+<td><p>Escenario 1: Registro de cuenta</p>
+<p>Dado que el lector, ilustrador o escritor ingrese a la aplicación web</p>
+<p>y se encuentre en la sección de registro.</p>
+<p>Cuando ingrese los datos de registro</p>
+<p>Y sean válidos</p>
+<p>Entonces se creará la cuenta</p>
+
+<p>Escenario 2: Registro de cuenta con Google </p>
+<p>Dado que el lector, ilustrador o leescritorctor ingrese a la aplicación web.</p>
+<p>y se encuentre en la sección de registro.</p>
+<p>Cuando seleccione la opción de registro con Google</p>
+<p>Y se redireccione a la autenticación de google</p>
+<p>Y sus credenciales sean validadas y autorizadas </p>
+<p>Entones se creará la cuenta vinculada con una cuenta de Google</p>
+
+<p>Escenario 3: Registro de cuenta con X </p>
+<p>Dado que el lector, ilustrador o escritor ingrese a la aplicación web.</p>
+<p>y se encuentre en la sección de registro.</p>
+<p>Cuando seleccione la opción de registro con X</p>
+<p>Y se redireccione a la autenticación de X</p>
+<p>Y sus credenciales sean validadas y autorizadas </p>
+<p>Entones se creará la cuenta vinculada con una cuenta de X</p>
+
+<p>Escenario 4: Registro de cuenta con Facebook </p>
+<p>Dado que el lector, ilustrador o escritor ingrese a la aplicación web.</p>
+<p>y se encuentre en la sección de registro.</p>
+<p>Cuando seleccione la opción de registro con Facebook</p>
+<p>Y se redireccione a la autenticación de Facebook</p>
+<p>Y sus credenciales sean validadas y autorizadas </p>
+<p>Entones se creará la cuenta vinculada con una cuenta de Facebook</p>
+
+<p>Escenario 5: Registro de cuenta incorrecto </p>
+<p>Dado que el lector, ilustrador o escritor ingrese a la aplicación web.</p>
+<p>y se encuentre en la sección de registro.</p>
+<p>Cuando ingrese los datos de registro de manera incorrecta</p>
+<p>Entonces no se creará la cuenta</p>
+<p>Y sus credenciales sean validadas y autorizadas </p>
+<td>8</td>
+</tr>
+
+<tr class="even">
+<td>E8-US23</td>
+<td>Inicio de sesión</td>
+<td><p><strong>Como</strong> lector, ilustrador o escritor</p>
+<p><strong>quiero</strong> iniciar sesión con mi cuenta</p>
+<p><strong>para</strong> acceder a las funcionalidades de la aplicación</p></td>
+
+<td><p>Escenario 1: Inicio de sesión correcto</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la sección de inicio de sesión</p>
+<p>y tenga una cuenta creada.</p>
+<p>y seleccione la opción de iniciar sesión con Email</p>
+<p>Cuando ingrese su correo electrónico y contraseña de manera correcta</p>
+<p>Y le de click al botón de iniciar sesión</p>
+<p>Entonces iniciará sesión y será redirijido a la pantalla principal</p>
+
+<p>Escenario 2: Inicio de sesión incorrecto</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la sección de inicio de sesión</p>
+<p>y tenga una cuenta creada.</p>
+<p>y seleccione la opción de iniciar sesión con Email</p>
+<p>Cuando ingrese su correo electrónico y contraseña de manera incorrecta</p>
+<p>Y le de click al botón de iniciar sesión</p>
+<p>Entonces recibirá un mensaje indicando que las credenciales son incorrectas </p>
+
+<p>Escenario 3: Inicio de sesión exitoso con cuenta de Google </p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la sección de inicio de sesión</p>
+<p>Cuando seleccione la opción de iniciar sesión con Google</p>
+<p>Y proporcione autorización para acceder a su cuenta de Google</p>
+<p>Y su cuenta esté registrada con anterioridad en la aplicación</p>
+<p>Entonces iniciará sesión y será redirijido a la pantalla principal</p>
+
+<p>Escenario 4: Inicio de sesión incorrecto con cuenta de Google </p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la sección de inicio de sesión</p>
+<p>Cuando seleccione la opción de iniciar sesión con Google</p>
+<p>Y proporcione autorización para acceder a su cuenta de Google</p>
+<p>Y su cuenta no esté registrada con anterioridad en la aplicación</p>
+<p>Entonces recibirá un mensaje indicando que no tiene una cuenta asociada</p>
+<p>Y será redireccionado al registro de cuenta</p>
+
+<<p>Escenario 5: Inicio de sesión exitoso con cuenta de X </p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la sección de inicio de sesión</p>
+<p>Cuando seleccione la opción de iniciar sesión con X</p>
+<p>Y proporcione autorización para acceder a su cuenta de X</p>
+<p>Y su cuenta esté registrada con anterioridad en la aplicación</p>
+<p>Entonces iniciará sesión y será redirijido a la pantalla principal</p>
+
+<p>Escenario 6: Inicio de sesión incorrecto con cuenta de Facebook </p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la sección de inicio de sesión</p>
+<p>Cuando seleccione la opción de iniciar sesión con Facebook</p>
+<p>Y proporcione autorización para acceder a su cuenta de Facebook</p>
+<p>Y su cuenta no esté registrada con anterioridad en la aplicación</p>
+<p>Entonces recibirá un mensaje indicando que no tiene una cuenta asociada</p>
+<p>Y será redireccionado al registro de cuenta</p>
+<td>8</td>
+</tr>
+
+<tr class="odd">
+<td>E8-US24</td>
+<td>Recuperar contraseña</td>
+<td><p><strong>Como</strong> lector, ilustrador o escritor</p>
+<p><strong>quiero</strong> recuperar la contraseña de mi cuenta</p>
+<p><strong>para</strong> poder iniciar sesión en la aplicación</p></td>
+
+<td><p>Escenario 1: Solicitud de reestablecimiento de contraseña</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la sección de recuperar contraseña</p>
+<p>Cuando ingrese el correo electrónico con el que se registró en la aplicación</p>
+<p>Y exista una cuenta asociada a este correo</p>
+<p>Y le de click al botón de enviar</p>
+<p>Entonces se mandará un link para recuperar su contraseña a dicho correo</p>
+
+<p>Escenario 2: Solicitud de reestablecimiento de contraseña con correo inexistente</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la sección de recuperar contraseña</p>
+<p>Cuando ingrese el correo electrónico con el que se registró en la aplicación</p>
+<p>Y no exista una cuenta asociada a este correo</p>
+<p>Y le de click al botón de enviar</p>
+<p>Entonces no se mandará un link para recuperar su contraseña a dicho correo</p>
+<td>8</td>
+</tr>
+
+<tr class="odd">
+<td>E8-US25</td>
+<td>Editar perfil</td>
+<td><p><strong>Como</strong> lector, ilustrador o lector</p>
+<p><strong>quiero</strong> editar la información de mi perfil</p>
+<p><strong>para</strong> actualizar mis datos</p></td>
+
+<td><p>Escenario 1: Visualizar perfil</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en la pantalla principal</p>
+<p>Cuando seleccionen su perfil arriba a la derecha</p>
+<p>Entonces visualizará los datos de su perfil</p>
+
+<p>Escenario 2: Editar perfil</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en su perfil</p>
+<p>Cuando seleccionen la opción de Editar Perfil</p>
+<p>Y edite los datos que quiera</p>
+<p>Y le de al botón de Guardar</p>
+<p>Entonces se actualizará su perfil con los nuevos datos</p>
+
+<p>Escenario 3: Editar perfil insatisfactoriamente</p>
+<p>Dado que el lector, ilustrador o escritor se encuente en su perfil</p>
+<p>Cuando seleccionen la opción de Editar Perfil</p>
+<p>Y edite los datos que quiera</p>
+<p>Y deje campos obligatorios en blanco</p>
+<p>Y le de al botón de Guardar</p>
+<p>Entonces no se actualizará su perfil con los nuevos datos</p>
+<p>Y se mostrará un mensaje indicando que ingrese de manera correcta todos los datos</p>
+<td>8</td>
+</tr>
+
 </tbody>
 </table>
 <hr>
