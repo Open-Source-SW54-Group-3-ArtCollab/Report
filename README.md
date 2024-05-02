@@ -5249,7 +5249,7 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint y
 
 Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
 
-<img src="./assets/images/Sprint-Backlog/SprintBacklog2png.png" width:200px/>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235639988943720499/image.png?ex=66351aea&is=6633c96a&hm=b26bea98967b46217720911213e1d4e0efe61254e7c3ecae4a9cc396800b5297&=&format=webp&quality=lossless&width=1404&height=780" width:200px/>
 
  
 # Conclusiones
