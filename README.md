@@ -3036,52 +3036,52 @@ En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicat
 
 ### Mock-ups versión Desktop:
 #### Mock-ups de la página principal
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Pagina-principal.png?raw=true" alt="Web App Page Desktop Main page">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657428088131595/Pagina-principal.png?ex=66352b28&is=6633d9a8&hm=f96d772a5b0048e7fdfe1a0cf87da26672eb14f8225eef05c5bb845ec64bc931&=&format=webp&quality=lossless&width=720&height=308" alt="Web App Page Desktop Main page">
 
 #### Mock-ups de la sección Géneros
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Generos.png?raw=true" alt="Web App Desktop Generos">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657452565827696/Generos.png?ex=66352b2e&is=6633d9ae&hm=f0052557e2d40bf0fce243f79d427b1e649b9bb0531019f52235455a7f4a893f&=&format=webp&quality=lossless&width=517&height=603" alt="Web App Desktop Generos">
 
 #### Mock-ups de la sección Populares
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Populares.png?raw=true" alt="Web App Desktop Populares">
+<img src="[https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Populares.png?raw=true](https://media.discordapp.net/attachments/1235639705157107719/1235657473147408458/Populares.png?ex=66352b33&is=6633d9b3&hm=72c7164e8b1649e50ecd74669a85a1d43902c38c2bbcdeecc1b0550f65b00470&=&format=webp&quality=lossless&width=516&height=603)" alt="Web App Desktop Populares">
 
 #### Mock-ups de la sección Suscripciones
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Suscripciones.png?raw=true" alt="Web App Desktop Suscripciones">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657490109038682/Suscripciones.png?ex=66352b37&is=6633d9b7&hm=b024ec3f83e2233c5a21d8a6afc20f61ab79344ab7eccfc37c33a0f6d7abd59a&=&format=webp&quality=lossless&width=720&height=385" alt="Web App Desktop Suscripciones">
 
 #### Mock-ups de la sección Monetización
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Monetizacion.png?raw=true" alt="Web App Desktop artistas monetización">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657505338822666/Monetizacion.png?ex=66352b3a&is=6633d9ba&hm=6c831aad9184b321797b28c15599225d6f3ef5a10f515d3ee6542a36d2120636&=&format=webp&quality=lossless&width=456&height=602" alt="Web App Desktop artistas monetización">
 
 #### Mock-ups de la sección Artistas
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Artistas.png?raw=true" alt="Web App Desktop Artistas">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657523587977236/Artistas.png?ex=66352b3f&is=6633d9bf&hm=ba3120bd8dcb1ef7f278f3ae72624841f3be788a113213ada7bef0d7eafe6f14&=&format=webp&quality=lossless&width=221&height=350" alt="Web App Desktop Artistas">
 
 #### Mock-ups de la sección inicio de sesión
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657545465466964/iniciar-sesion-web.png?ex=66352b44&is=6633d9c4&hm=5054ee3e03999cff2bea0edc6329bd126f9f1a14444400d3dba2e3f5be14f1fa&=&format=webp&quality=lossless&width=481&height=350" alt="Web App Desktop Inicio de sesión">
 
 #### Mock-ups de la sección registro
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/registro-web-app.png?raw=true" alt="Web App Desktop Registro">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657561034981446/registro-web-app.png?ex=66352b47&is=6633d9c7&hm=e63b89c51dc5f3223ef152e1156da0cf56e49fed89ffcfd31fa3588d3954b4fa&=&format=webp&quality=lossless&width=720&height=357" alt="Web App Desktop Registro">
 
 #### Mock-ups de la sección recuperar contraseña
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/recuperar-contrase%C3%B1a.png?raw=true" alt="Web App Desktop Recuperar contraseña">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657587354112000/recuperar-contraseC3B1a.png?ex=66352b4e&is=6633d9ce&hm=382a5b691c8b405a4ad37184ffe410abeb46b86f63751b8277a2a9bd5de5c6b6&=&format=webp&quality=lossless&width=550&height=272" alt="Web App Desktop Recuperar contraseña">
 
 #### Mock-ups de la sección perfiles
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/perfiles.png?raw=true" alt="Web App Desktop Perfiles">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657604341170176/perfiles.png?ex=66352b52&is=6633d9d2&hm=2a2f365a7a05b723f6b659ac910c16a8f0e1f4ff3f2c7ceea94f17274ac1bbe8&=&format=webp&quality=lossless&width=550&height=311" alt="Web App Desktop Perfiles">
 
 #### Mock-ups de la sección chat artista
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/chat-artista.png?raw=true" alt="Web App Desktop Chat artista">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657622372356177/chat-artista.png?ex=66352b56&is=6633d9d6&hm=c7bd643713399f67ebe81a94a1ecbe1560d78f9fe4ad8b5262e31ec5049de8d2&=&format=webp&quality=lossless&width=720&height=326" alt="Web App Desktop Chat artista">
 
 #### Mock-ups de la sección historia
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/historia.png?raw=true" alt="Web App Desktop Historia">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657645185306645/historia.png?ex=66352b5c&is=6633d9dc&hm=48d80ade29f57e68a8b5488eafed8edbd76dc7ace8b89d15364a272e6f85d003&=&format=webp&quality=lossless&width=550&height=304" alt="Web App Desktop Historia">
 
 #### Mock-ups de la sección publicar libro
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/publicar-libro.png?raw=true" alt="Web App Desktop Publciar libro">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657660762947646/publicar-libro.png?ex=66352b5f&is=6633d9df&hm=3e0d0617e7872c4f84f38eca073ec860d58410a8cc8e42ddb137a7293968fa9e&=&format=webp&quality=lossless&width=550&height=218" alt="Web App Desktop Publciar libro">
 
 #### Mock-ups de la sección editar historia
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Editar-detalles-historia.png?raw=true" alt="Web App Desktop Editar historia">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235658744004743290/Editar-detalles-historia.png?ex=66352c62&is=6633dae2&hm=40e77e55f3e7e16d8ec1c34ea34447be45c4771c4dc8502f627c278334939468&=&format=webp&quality=lossless&width=720&height=207" alt="Web App Desktop Editar historia">
 
 #### Mock-ups de la sección editar perfil escritor/lector
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Editar-perfil-lector-escritor.png?raw=true" alt="Web App Desktop Editar perfil">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657677359808512/Editar-perfil-lector-escritor.png?ex=66352b63&is=6633d9e3&hm=7abb415af8ca32a0d14785c3d56a1d020ad5137e5446187fda8918446e90d273&=&format=webp&quality=lossless&width=720&height=286" alt="Web App Desktop Editar perfil">
 
 #### Mock-ups de la sección editar perfil artista
-<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Editar-perfil-ilustrador.png?raw=true" alt="Web App Desktop Editar artista">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657694375837726/Editar-perfil-ilustrador.png?ex=66352b67&is=6633d9e7&hm=d8210ee69db2efc9cf93981a7aa10732c935c6de228e6b088837d8563fb267c6&=&format=webp&quality=lossless&width=511&height=350" alt="Web App Desktop Editar artista">
 
 <br>
 
