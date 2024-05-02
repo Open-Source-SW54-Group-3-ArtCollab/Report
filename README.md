@@ -2564,6 +2564,46 @@ aplicación</p></td>
 <tr class="even">
 <td>6</td>
 <td>US06</td>
+<td>Registro de cuentas</td>
+<td><p><strong>Como</strong> lector, escritor o ilustrador</p>
+<p><strong>quiero</strong> registrarme en la aplicación</p>
+<p><strong>para</strong> acceder a sus funcionalidades</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>US07</td>
+<td>Inicio de sesión</td>
+<td><p><strong>Como</strong> lector, artista o escritor</p>
+<p><strong>quiero</strong> iniciar sesión con mi cuenta</p>
+<p><strong>para</strong> acceder a las funcionalidades de la aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>US08</td>
+<td>Recuperar contraseña</td>
+<td><p><strong>Como</strong>  lector, ilustrador o escritor</p>
+<p><strong>quiero</strong>recuperar la contraseña de mi cuenta</p>
+<p><strong>para</strong>  poder iniciar sesión en la aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>US09</td>
+<td>Toolbar de navegación</td>
+<td><p><strong>Como</strong> lector, artista o escritor</p>
+<p><strong>quiero</strong> visualizar una toolbar con links de navegación</p>
+<p><strong>para</strong> navegar por la aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>US10</td>
 <td>Asignación de Rol</td>
 <td><p><strong>Como</strong> lector</p>
 <p><strong>quiero</strong> poder asignarle un rol</p>
@@ -2572,8 +2612,8 @@ aplicación</p></td>
 <td>3</td>
 </tr>
 <tr class="odd">
-<td>7</td>
-<td>US07</td>
+<td>11</td>
+<td>US11</td>
 <td>Configuración de Perfil de Usuario</td>
 <td><p><strong>Como</strong> lector, artista o escritor</p>
 <p><strong>quiero</strong> configurar mi perfil</p>
@@ -2582,8 +2622,8 @@ aplicación</p></td>
 <td>3</td>
 </tr>
 <tr class="even">
-<td>8</td>
-<td>US08</td>
+<td>12</td>
+<td>US12</td>
 <td>Sube tus libros</td>
 <td><p><strong>Como</strong> escritor</p>
 <p><strong>quiero</strong> una plataforma</p>
@@ -2592,8 +2632,8 @@ aplicación</p></td>
 <td>3</td>
 </tr>
 <tr class="odd">
-<td>9</td>
-<td>US09</td>
+<td>13</td>
+<td>US13</td>
 <td>Colaboración con Ilustradores</td>
 <td><p><strong>Como</strong> escritor</p>
 <p><strong>quiero</strong> que mis obras sean ilustradas</p>
@@ -2602,8 +2642,8 @@ aplicación</p></td>
 <td>2</td>
 </tr>
 <tr class="even">
-<td>10</td>
-<td>US10</td>
+<td>14</td>
+<td>US14</td>
 <td>Destaca tus libros</td>
 <td><p><strong>Como</strong> escritor</p>
 <p><strong>quiero</strong> destacar mis libros</p>
@@ -2612,8 +2652,8 @@ aplicación</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>11</td>
-<td>US11</td>
+<td>15</td>
+<td>US15</td>
 <td>Reparto por Ingresos publicitarios</td>
 <td><p><strong>Como</strong> escritor</p>
 <p><strong>quiero</strong> generar ingresos</p>
@@ -2622,8 +2662,8 @@ aplicación</p></td>
 <td>3</td>
 </tr>
 <tr class="even">
-<td>12</td>
-<td>US12</td>
+<td>16</td>
+<td>US16</td>
 <td>Diversos géneros literarios</td>
 <td><p><strong>Como</strong> lector</p>
 <p><strong>quiero</strong> tener una gran cantidad de géneros literarios
@@ -2634,8 +2674,8 @@ para mis lecturas</p></td>
 <td>3</td>
 </tr>
 <tr class="odd">
-<td>13</td>
-<td>US13</td>
+<td>17</td>
+<td>US17</td>
 <td>Desbloqueo de Capítulos</td>
 <td><p><strong>Como</strong> lector</p>
 <p><strong>quiero</strong> tener acceso al contenido exclusivo de la
@@ -2646,8 +2686,8 @@ disposición</p></td>
 <td>3</td>
 </tr>
 <tr class="even">
-<td>14</td>
-<td>US14</td>
+<td>18</td>
+<td>US18</td>
 <td>Dejar Comentarios</td>
 <td><p><strong>Como</strong> lector, escritor e ilustrador</p>
 <p><strong>quiero</strong> poder comentar las obras</p>
@@ -2657,8 +2697,8 @@ feedback</p></td>
 <td>3</td>
 </tr>
 <tr class="odd">
-<td>15</td>
-<td>US15</td>
+<td>19</td>
+<td>US19</td>
 <td>Ingreso por las ilustraciones</td>
 <td><p><strong>Como</strong> ilustrador</p>
 <p><strong>quiero</strong> contar con una monetización por mis
@@ -2669,8 +2709,8 @@ aplicación</p></td>
 <td>3</td>
 </tr>
 <tr class="even">
-<td>16</td>
-<td>US16</td>
+<td>20</td>
+<td>US20</td>
 <td>Flexibilidad al ilustrar</td>
 <td><p><strong>Como</strong> ilustrador</p>
 <p><strong>quiero</strong> tener flexibilidad creativa a la hora de
@@ -2680,8 +2720,8 @@ dibujar</p>
 <td>3</td>
 </tr>
   <tr class="odd">
-<td>17</td>
-<td>US17</td>
+<td>21</td>
+<td>US21</td>
 <td>Compatibilidad con diferentes dispositivos</td>
 <td><p><strong>Como</strong> usuario interesado en el producto</p>
 <p><strong>quiero</strong> que la landing page sea responsive</p>
@@ -2690,8 +2730,8 @@ dibujar</p>
 <td>3</td>
 </tr>
 <tr class="even">
-<td>18</td>
-<td>US18</td>
+<td>22</td>
+<td>US22</td>
 <td>Accesibilidad en el Landing page</td>
 <td><p><strong>Como</strong> usuario que tiene una discapacidad</p>
 <p><strong>quiero</strong> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
@@ -2700,8 +2740,8 @@ dibujar</p>
 <td>3</td>
 </tr>
   <tr class="odd">
-<td>19</td>
-<td>US19</td>
+<td>23</td>
+<td>US23</td>
 <td>Uso de API para el inicio de sesión</td>
 <td><p><strong>Como</strong> desarrollador</p>
 <p><strong>quiero</strong> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
@@ -2710,8 +2750,8 @@ dibujar</p>
 <td>3</td>
 </tr>
   <tr class="even">
-<td>20</td>
-<td>US20</td>
+<td>24</td>
+<td>US24</td>
 <td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
 <td><p><strong>Como</strong> desarrollador</p>
 <p><strong>quiero</strong> integrar la funcionalidad de pago utilizando la API de PayPal</p>
@@ -2720,8 +2760,8 @@ dibujar</p>
 <td>3</td>
 </tr>
   <tr class="odd">
-<td>21</td>
-<td>US21</td>
+<td>25</td>
+<td>US25</td>
 <td>Uso de API para compartir libros en redes sociales</td>
 <td><p><strong>Como</strong> desarrollador</p>
 <p><strong>quiero</strong> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
