@@ -165,6 +165,9 @@ TB1<br>
 En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
 Además, se realizaron los diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente haciendo uso de distintos patrones de diseño.
 
+TP01 <br>
+En este avance del trabajo, se hizo uso de los servicios de búsqueda http para el consumo de datos de una API fake a través de los métodos CRUD. Se consumieron los datos de los endpoints de libros, ilustraciones, usuarios, información de chats, entre otros.
+
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
 En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diagrams) para ilustrar el flujo lógico de las acciones del usuario dentro de la aplicación web. Adicionalmente, se han creado diagramas de flujo de trabajo (wireflow diagrams) para representar el proceso lógico de la aplicación. Ambas tareas han contribuido a mejorar la experiencia del usuario (UX) al priorizar sus objetivos. Además, se ha implementado el modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará posteriormente en el backend. Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
