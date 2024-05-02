@@ -5247,13 +5247,110 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
   </table>
 
-  ### 5.2.2.2. Sprint backlog 2
+
+### 5.2.2.2. Sprint backlog 2
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
 
 Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1235639988943720499/image.png?ex=66351aea&is=6633c96a&hm=b26bea98967b46217720911213e1d4e0efe61254e7c3ecae4a9cc396800b5297&=&format=webp&quality=lossless&width=1404&height=780" width:200px/>
+
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+### 5.2.2.5 Execution Evidence for Sprint Review.
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review.
+
+En el alcance del sprint 1 se ha priorizado el desarrollado del frontent de la aplicación web, por lo que para este sprint no se evidencia el empleo de web services.
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+Para el presente sprint se ha desarrollado el frontent de la aplicación web. Para el despliegue se emplearon las siguientes herramientas:
+
+<ul>
+ <li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+
+ </li>
+
+ <li> Gitflow: Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+
+ <li>
+    GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+ </li>
+
+ <li>
+    Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar nuestra el landing page.
+ </li>
+
+</ul>
+
+### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+El equipo desarrolló el frontent de la aplicación web por ramas con la finalidad de desarrollar cada sección de manera independiente para optimizar el mantenimiento y colaboración durante el sprint. Asimismo, se aplico las convenciones estandar de gitflow, por lo que contamos con nuestras ramas develop y feature según la funcionalidad.
+
+Hemos desarrollado en conjunto un total de 176 commits para el desarrollo del frontent de la aplicación web, los cuales representan la correción de bugs, merge entre ramas, agregado de secciones y corrreción en el codigo fuente.
+
+A continuación, se presentara la tabla de colaboradores en el repositorio de Github, con la finalidad de identificar a cada integrante del equipo.
+
+Tabla de integrantes:
+
+
+<table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> LordMathi2741  </th>
+   <th>Jave Diaz, Mathias Alejandro   </th>
+ </tr>
+  <tr> 
+  <th> GustavoHuilca31 </th>
+   <th> Huilca Chipana, Gustavo  </th>
+ </tr>
+  <tr> 
+   <th> CamiAm404 </th>
+   <th> Amaro Villanueva, Camila Elena  </th>
+
+ </tr>
+  <tr> 
+   <th> tatoft </th>
+   <th> Luna Capuñay, Italo D'Alessandro  </th>
+ </tr> 
+   <tr> 
+   <th> Samira-AA </th>
+   <th> Alvarez Araguache, Samira Jetzabel  </th>
+ </tr> 
+ <tr> 
+   <th> JuanAlejandroCuadrosRodriguez </th>
+   <th> Cuadros Rodriguez, Juan Alejandro  </th>
+ </tr>
+
+</table>
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673463113650276/image.png?ex=66353a17&is=6633e897&hm=d68723996172c30705153d88df9ef59114c8bd2fe6e99ef7726f7cdc970d21b7&=&format=webp&quality=lossless&width=1402&height=675"/>
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673319114670120/image.png?ex=663539f4&is=6633e874&hm=7a5fee543268afff4094cc749e015945bf96866830096a71a53a1f8f5122970a&=&format=webp&quality=lossless&width=1417&height=303"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673581631963217/image.png?ex=66353a33&is=6633e8b3&hm=f5ca7293cebcc6337f60b84f85fc550d3ccb466db9323aae5004214b278f0171&=&format=webp&quality=lossless&width=1380&height=541"/>
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673642525003957/image.png?ex=66353a42&is=6633e8c2&hm=259618b54ba1049f154d68cd811efbc34ff3cb4b3574cc1308ca784cfb63f671&=&format=webp&quality=lossless&width=1113&height=1002"/>
+
+#### Anexo: Colaboration Insights en el periodo de 1 mes
+
+
+
+
 
  
 # Conclusiones
