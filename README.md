@@ -6147,6 +6147,16 @@ Enlace del deploy de la web app mediante:
 
 https://venerable-pika-0539b1.netlify.app/home
 
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043611741618246/Imagen_de_WhatsApp_2024-05-03_a_las_14.34.00_ad450e0e.jpg?ex=663692d1&is=66354151&hm=4bdf0f763af8cc494b52d9d170cb2f1725129b35735985daebd2b2a5a28e76c0&=&format=webp&width=1190&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043611968241774/Imagen_de_WhatsApp_2024-05-03_a_las_14.33.38_a412ebd5.jpg?ex=663692d1&is=66354151&hm=2c48de1b559eccba011035979444186b02c22cf5ef47cd90c411a9ced4787e60&=&format=webp&width=1190&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612220035152/Imagen_de_WhatsApp_2024-05-03_a_las_14.33.23_1984e9b6.jpg?ex=663692d1&is=66354151&hm=7e6999da87b9d4ce72eca85202ab9949eb77f7e6c782bef3cdf598896b33204c&=&format=webp&width=908&height=676"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612517564616/Imagen_de_WhatsApp_2024-05-03_a_las_14.34.37_136265a6.jpg?ex=663692d1&is=66354151&hm=ef18af36d803d4cf416d0e23fde18c9a00995e732cf47f90486e91488f4a766f&=&format=webp&width=1279&height=675"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043612756770866/Imagen_de_WhatsApp_2024-05-03_a_las_14.34.14_6507db3b.jpg?ex=663692d1&is=66354151&hm=4af9235713fedc87314a802b8406f66e0513df80dec9fcb7cf61efaaaa956ff2&=&format=webp&width=674&height=676"/>
+
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
 En el alcance del sprint 1 se ha priorizado el desarrollado del frontent de la aplicación web, por lo que para este sprint no se evidencia el empleo de web services.
