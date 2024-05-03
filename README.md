@@ -5304,6 +5304,215 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1235639988943720499/image.png?ex=66351aea&is=6633c96a&hm=b26bea98967b46217720911213e1d4e0efe61254e7c3ecae4a9cc396800b5297&=&format=webp&quality=lossless&width=1404&height=780" width:200px/>
 
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 2 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP2-US06 </th>
+     <th colspan="3"> Registro de cuentas  </th>
+      <th> W10  </th>
+     <th> User Bounded Context </th>
+      <th> Implementar el registro de una cuenta.
+      </th>
+     <th> 2 </th>
+     <th> Gustavo Huilca </th>
+     <th> Done </th> 
+   </tr>
+    <tr>
+      <th> EP2-US07 </th>
+     <th colspan="3"> Inicio de sesión </th>
+      <th> W11  </th>
+     <th> User Bounded Context  </th>
+     <th> Implementar el inicio de sesión desde una cuenta externa o interna.</th>
+     <th> 2 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> E2-US08  </th>
+     <th colspan="3"> Recuperar contraseña</th>
+      <th> W12  </th>
+     <th> User Bounded Context </th>
+     <th> Recuperar la contraseña de un usuario.  </th>
+     <th> 1  </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E2-US09  </th>
+     <th colspan="3"> Toolbar de navegación </th>
+      <th> W13  </th>
+     <th> Navegation system </th>
+     <th> Implementar una barra de navegación para el ruteo entre las diferentes secciones.  </th>
+     <th> 1 </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E2-US10 </th>
+     <th colspan="3"> Asignación de Rol </th>
+      <th> W14  </th>
+     <th> User Bounded Context </th>
+     <th>  Implementar los roles de usuarios en la aplicación. </th>
+     <th>  3 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E2-US11 </th>
+     <th colspan="3"> Configuración de Perfil de Usuario </th>
+      <th> W15  </th>
+     <th> User Bounded Context </th>
+     <th> Implemntar la connfiguracion de perfil para un usuario.  </th>
+     <th> 3  </th>
+     <th> Samira Alvarez </th> 
+     <th> Done </th>
+   </tr>
+     </tr>
+     <tr>
+      <th> E3-US12 </th>
+     <th colspan="3"> Sube tus libros </th>
+      <th> W016</th>
+     <th> Content Bounded Context</th>
+     <th>  Implementar la opción la opción de subir libros  </th>
+     <th> 4 </th>
+     <th> Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+   
+   
+
+  <tr>
+      <th> E3-US13 </th>
+     <th colspan="3"> Colaboración con Ilustradores </th>
+      <th> W17  </th>
+     <th> Collaboration Bounded Context </th>
+     <th> Implementar un chat collaborativo entre artistas y escritores   </th>
+     <th> 2 </th>
+     <th> Mathias Jave/Juan Cuadros </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E5-US16 </th>
+     <th colspan="3">Diversos géneros literarios</th>
+      <th> W18  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la sección populares con libros según los generos de fantasia, comedia y romance. </th>
+     <th>  2 </th>
+     <th> Mathias Jave/Italo Luna/Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+
+   <tr>
+      <th> E7-US23 </th>
+     <th colspan="3">Uso de API para el inicio de sesión</th>
+      <th> W19  </th>
+     <th> User Bounded Context </th>
+     <th> Utilizar un servicio para el inicio de sesion. </th>
+     <th>  5 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> E4-US014 </th>
+     <th colspan="3">Destaca tus libros</th>
+      <th> W20  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la funcionalidad de destacar libros dentro de la plataforma. </th>
+     <th>  4 </th>
+     <th> Camila Amaro </th> 
+     <th> In Process </th>
+   </tr>
+   <tr>
+    <th> E4-US015 </th>
+     <th colspan="3">Reparto por Ingresos publicitarios</th>
+      <th> W21  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar la funcionalidad de recibir ingresos segun las obras publicadas. </th>
+     <th>  5 </th>
+     <th> Mathias Jave </th> 
+     <th> In Process </th>
+   </tr>
+
+   <tr>
+    <th> E5-US17 </th>
+     <th colspan="3"> Desbloqueo de Capítulos</th>
+      <th> W22  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la opción de desbloquear capitulos por suscripción.</th>
+     <th>  5 </th>
+     <th> Italo Luna </th> 
+     <th> In Process </th>
+   </tr>
+
+   <tr>
+    <th> E5-US18 </th>
+     <th colspan="3"> Dejar comentarios </th>
+      <th> W23  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la funcionalidad de comentarios en cada obra publicada.</th>
+     <th>  4 </th>
+     <th> Gustavo Huilca/Camila Amaro </th> 
+     <th> In Process </th>
+   </tr>
+    <tr>
+    <th> E6-US19</th>
+     <th colspan="3"> Ingreso por las ilustraciones </th>
+      <th> W25  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar la funcionalidad de recibir ingresos por ilustraciones.</th>
+     <th>  7 </th>
+     <th> Samira Alvarez </th> 
+     <th> ToDo </th>
+   </tr>
+    <tr>
+    <th> E6-US20</th>
+     <th colspan="3"> Flexibilidad al ilustrar <th>
+      <th> W26 </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la facilidad de ilustrar obras para el segmento de artistas.</th>
+     <th>  5 </th>
+     <th> Samira Alvarez </th> 
+     <th> ToDo </th>
+   </tr>
+    <tr>
+    <th> E7-US24</th>
+     <th colspan="3"> Uso de API para realizar el pago de suscripciones con PayPal <th>
+      <th> W28  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar el sistema de pagos via paypal a traves de un servicio externo.</th>
+     <th>  7 </th>
+     <th> Mathias Jave/Gustavo Huilca </th> 
+     <th> ToDo </th>
+   </tr>
+   <tr>
+    <th> E7-US25</th>
+     <th colspan="3"> Uso de API para compartir libros en redes sociales <th>
+      <th> W29  </th>
+     <th> User Bounded Context </th>
+     <th> Implementar un servicio externo para compartir las redes sociales de nuestros usuarios.</th>
+     <th>  4 </th>
+     <th> Juan Cuadros/Camila Amaro </th> 
+     <th> ToDo </th>
+   </tr>
+
+</table>
 
 ### 5.2.2.3. Development Evidence for Sprint Review.
 
