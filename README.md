@@ -6070,6 +6070,11 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
   </table>
 
 ### 5.2.2.5 Execution Evidence for Sprint Review.
+<p> Para esta entrega, el equipo ArtCollab logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información con respecto a los autores y artistas. </p>
+
+Enlace del deploy de la web app mediante: 
+
+https://venerable-pika-0539b1.netlify.app/home
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
