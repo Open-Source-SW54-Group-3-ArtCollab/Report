@@ -6218,25 +6218,21 @@ Tabla de integrantes:
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673463113650276/image.png?ex=66353a17&is=6633e897&hm=d68723996172c30705153d88df9ef59114c8bd2fe6e99ef7726f7cdc970d21b7&=&format=webp&quality=lossless&width=1402&height=675"/>
-
 #### Anexo: flujo de trabajo entre las ramas
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673319114670120/image.png?ex=663539f4&is=6633e874&hm=7a5fee543268afff4094cc749e015945bf96866830096a71a53a1f8f5122970a&=&format=webp&quality=lossless&width=1417&height=303"/>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673463113650276/image.png?ex=66353a17&is=6633e897&hm=d68723996172c30705153d88df9ef59114c8bd2fe6e99ef7726f7cdc970d21b7&=&format=webp&quality=lossless&width=1402&height=675"/>
 
 #### Anexo: tablas de commits en el periodo de 1 mes
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673581631963217/image.png?ex=66353a33&is=6633e8b3&hm=f5ca7293cebcc6337f60b84f85fc550d3ccb466db9323aae5004214b278f0171&=&format=webp&quality=lossless&width=1380&height=541"/>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673319114670120/image.png?ex=663539f4&is=6633e874&hm=7a5fee543268afff4094cc749e015945bf96866830096a71a53a1f8f5122970a&=&format=webp&quality=lossless&width=1417&height=303"/>
 
 #### Anexo: Flujo de trabajo en el periodo de 1 mes
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673642525003957/image.png?ex=66353a42&is=6633e8c2&hm=259618b54ba1049f154d68cd811efbc34ff3cb4b3574cc1308ca784cfb63f671&=&format=webp&quality=lossless&width=1113&height=1002"/>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673581631963217/image.png?ex=66353a33&is=6633e8b3&hm=f5ca7293cebcc6337f60b84f85fc550d3ccb466db9323aae5004214b278f0171&=&format=webp&quality=lossless&width=1380&height=541"/>
 
 #### Anexo: Colaboration Insights en el periodo de 1 mes
 
-
-
-
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235673642525003957/image.png?ex=66353a42&is=6633e8c2&hm=259618b54ba1049f154d68cd811efbc34ff3cb4b3574cc1308ca784cfb63f671&=&format=webp&quality=lossless&width=1113&height=1002"/>
 
  
 # Conclusiones
