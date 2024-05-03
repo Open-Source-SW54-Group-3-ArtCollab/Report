@@ -4126,7 +4126,7 @@ Monetization Bounded Context
 ### 4.8.1. Database Diagram
 <div style="display:flex; justify-content:center; flex-direction:column;">
    <p>A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.</p>
-   <img src="https://raw.githubusercontent.com/Open-Source-SW54-Group-3-ArtCollab/Report/develop/assets/images/Data-Base-Design/ArtCollab_DataBase.png"> 
+   <img src="https://media.discordapp.net/attachments/757044793519112236/1236042002458611723/ArtCollab_DataBase.png?ex=66369151&is=66353fd1&hm=aa47a5d2fecef8d6c3a567a7002eadc92c298e6895d05288c43c5fcad8eb046a&=&format=webp&quality=lossless&width=1558&height=1002"> 
 </div>
 
 <br>
