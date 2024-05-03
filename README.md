@@ -6147,7 +6147,7 @@ Enlace del deploy de la web app mediante:
 
 https://venerable-pika-0539b1.netlify.app/home
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1236043611741618246/Imagen_de_WhatsApp_2024-05-03_a_las_14.34.00_ad450e0e.jpg?ex=663692d1&is=66354151&hm=4bdf0f763af8cc494b52d9d170cb2f1725129b35735985daebd2b2a5a28e76c0&=&format=webp&width=1190&height=676"/>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1236088692376862800/Imagen_de_WhatsApp_2024-05-03_a_las_17.51.35_8e7468d0.jpg?ex=6636bccd&is=66356b4d&hm=19ecb23a47bde42126edd52a9b70036c1c295a7fb372f49955e5f9f1deb6bea3&=&format=webp&width=1176&height=676"/>
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1236043611968241774/Imagen_de_WhatsApp_2024-05-03_a_las_14.33.38_a412ebd5.jpg?ex=663692d1&is=66354151&hm=2c48de1b559eccba011035979444186b02c22cf5ef47cd90c411a9ced4787e60&=&format=webp&width=1190&height=676"/>
 
