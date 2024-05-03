@@ -6067,7 +6067,78 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
   </tr>
 
 
-  </table>
+</table>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
+
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> ca961f3 </strong> </th>
+    <th> <strong> feat: Added us-06 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 154fd2c </strong> </th>
+    <th> <strong> feat: Added us-07 acceptance test  </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 6e0f27c</strong> </th>
+    <th> <strong> feat: Added us-08 acceptance test  </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> d032288 </strong> </th>
+    <th> <strong> feat: Added us-09 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 04aaf36 </strong> </th>
+    <th> <strong> feat: Added us-10 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 5400243 </strong> </th>
+    <th> <strong> feat: Added us-11 acceptance test </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 03/05/2024 </strong> </th>
+ <tr>
+
+</table>
 
 ### 5.2.2.5 Execution Evidence for Sprint Review.
 <p> Para esta entrega, el equipo ArtCollab logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información con respecto a los autores y artistas. </p>
