@@ -5035,6 +5035,33 @@ En cuanto a las herramientas de gestión de contenido, menciona que la creación
 Sobre el sistema de colaboración con artistas, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una colaboración más profunda entre artistas y escritores.
 Finalmente, sobre la funcionalidad de recomendación de libros según el género, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
 
+**Entrevista 2:**
+
+Nombres: Josué 
+
+Apellidos: García Torres
+
+Edad: 23 años
+
+Lugar de residencia: Houston, Estados Unidos
+
+Entrevistador: Samira Alvarez Araguache
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1248175513923747924/Entrevista_-_Josue.PNG?ex=6662b588&is=66616408&hm=f4c89105cdf55fb36a53f46fc5837d74c57c497902d2a79ff254da2742377ac8&=&format=webp&quality=lossless&width=1920&height=571" alt="Entrevista 02 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EchPqu98d-ZAgNqPwhksKS4Bvs-IOz5_e-NcHnDG5PSQHw?e=lHBUIh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+Resumen de la entrevista:
+
+Se entrevistó a Josué García, un joven de 23 años que reside en Houston, Estados Unidos, donde se dedica a escribir y dibujar comics de manera independiente.
+
+Resalta de manera positiva la parte visual de la aplicación, destacando su diseño intuitivo y su interfaz amigable, donde menciona que es lo suficientemente fácil de usar, incluso para usuarios con poca experiencia interactuando con tecnología.
+Acerca de las herramientas de gestión de contenido, Josué destaca que la opción de agregar más de un género a su obra. Menciona que esto es útil, dado que la mayoría de libros no se pueden encasillar en un único género, lo que permite que los autores puedan ser más descriptivos a la hora de presentar su trabajo.
+En cuanto al sistema de colaboración con artistas, menciona que tiene un diseño acertado debido a la familiaridad con otras aplicaciones de comunicación, incluyendo opciones de llamadas y videollamadas para una mejor comunicación.
+Respecto a la funcionalidad de recomendación de libros, le parece útil que la aplicación sugiera libros según el género para que los usuarios puedan descubrir nuevas obras. Además, sugiere que también podría ser útil que también tenga la opción de sugerir libros de manera aleatorio, ya se por por género o por alguna otra característica que sea del gusto del usuario.
+
 **Segmento lector:**
 
 **Entrevista 1:**
