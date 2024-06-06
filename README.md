@@ -5062,6 +5062,38 @@ Acerca de las herramientas de gestión de contenido, Josué destaca que la opci�
 En cuanto al sistema de colaboración con artistas, menciona que tiene un diseño acertado debido a la familiaridad con otras aplicaciones de comunicación, incluyendo opciones de llamadas y videollamadas para una mejor comunicación.
 Respecto a la funcionalidad de recomendación de libros, le parece útil que la aplicación sugiera libros según el género para que los usuarios puedan descubrir nuevas obras. Además, sugiere que también podría ser útil que también tenga la opción de sugerir libros de manera aleatorio, ya se por por género o por alguna otra característica que sea del gusto del usuario.
 
+**Segmento ilustrador:**
+
+**Entrevista 1:**
+
+Nombres: Carolina
+
+Apellidos: Torres Torres
+
+Edad: 25 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 01 Segmento ilustrador">
+
+Enlace de entrevista: 
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Carolina Torres es una joven de 25 años que trabaja como ilustradora independiente. Luego de haber revisado el aplicativo considera que tienes varias funciones útiles tanto para creadores como lectores. 
+
+Ella nos recomienda la creación de un foro para preguntas frecuentes o en donde los usuarios puedan dejar sus dudas. Además, tambien menciona que en ese foro podría haber una opción donde brindar recomendaciones de mejoras para la app. Asimismo, siente que la aplicación como tal es bastante intuitiva. Con respecto al diseño considera que si podría haber mejoras en relación a que haya una paleta más limitada de colores y que la fuente sea cambiada en tamaño y grosor para facilitar la lectura.
+
+Considera muy buena la característica de colaboración entre artistas y escritores ya incluida en la app, ya que de ese modo es más sencillo de que los escritores los encuentren, a diferencia de las redes sociales ya existentes donde se tiene que buscar entre miles de cuentas.
+
 **Segmento lector:**
 
 **Entrevista 1:**
@@ -5092,6 +5124,38 @@ Sobre la calidad de las ilustraciones y la tipografía al momento de leer un cap
 Además, menciona que la plataforma ofrece una buena variedad de libros ilustrados, aunque le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
 
 Finalmente, menciona que no tuvo problemas al consumir el contenido de la obra y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+**Entrevista 2:**
+
+Nombres: Alvaro
+
+Apellidos: Rodriguez Amado
+
+Edad: 21 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248035155730366575/image.png?ex=666232d0&is=6660e150&hm=2684e32b925a8d8c2d48d39e90ef7f771b883f833ca743ed66a2297bf144ea78&=&format=webp&quality=lossless&width=1440&height=405" alt="Entrevista 02 Segmento Lector">
+
+Enlace de entrevista: 
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Alvaro es un estudiante de Ingeniería Electrónica y lector habitual de historias en formatos digitales.
+
+Nos menciona que si haría uso de nuestro aplicativo, ya que le atrae mucho las ilustraciones que posee,  la buena organización de la interfaz que te permite hallar fácilmente los géneros de libros y poder tener la facilidad de poder seguir tanto a los escritores como artistas
+
+La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, recomienda que se pueda ver sin necesidad de una suscripción los primeros 2 capítulos de los libros para que así los lectores se puedan enganchar a seguir leyendo la historia y luego pagar por los demás capítulos.
+
+Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
