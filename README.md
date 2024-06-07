@@ -5159,6 +5159,107 @@ Considera que para no ser la versión final del aplicativo esta bastante bien, n
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+**UX Heuristics & Principles Evaluation             Usability – Inclusive Design – Information Architecture**
+
+**CARRERA : Ingeniería de Software**
+
+**CURSO : Aplicaciones Open Source**
+
+**SECCIÓN :** WS54
+
+**PROFESORES : Todos**
+
+**AUDITOR : Group 3 -** ArtCollab
+
+**CLIENTE(S) : Group 3 -** ArtCollab
+
+***SITE o APP A EVALUAR:***
+
+*ArtCollab*
+
+***TAREAS A EVALUAR:***
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+1. Publicación de una obra
+1. Contacto y colaboración con artistas
+1. Revisión del catálogo de obras
+1. Revisión del catálogo de artistas
+1. Lectura del capítulo de una obra
+1. Edición de una obra
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Adquisición de una subscripción dentro de la plataforma
+1. Recuperación de la contraseña
+1. Compartir obras a través de Facebook o Twitter
+1. Iniciar sesión usando Google, Facebook o Twitter.
+
+***ESCALA DE SEVERIDAD:***
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+
+
+|**Nivel**|**Descripción**|
+| - | - |
+|1|Problema superficial: puede ser fácilmente superador por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente</p><p>reléase</p>|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de</p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p>|
+
+***TABLA RESUMEN:***
+
+
+
+|#|Problema|Escala de severida d|Heurística/Principio violada(o)|
+| - | - | :- | :- |
+|1|Las imágenes de los libros en la galería de la página principal tienen alturas distintas|1|Design Heuristics: Consistencia y estándares|
+|2|Pequeños problemas de adaptación en dispositivos móviles|1|Inclusive Design: Proporciona experiencias comparables|
+|3|El tamaño de texto de la barra de navegación es muy pequeño|1|Inclusive Design: Proporciona experiencias comparables|
+|||||
+|…|….|||
+Etc.
+
+***DESCRIPCIÓN DE PROBLEMAS:***
+
+PROBLEMA #1: Las imágenes de los libros en la galería de la página principal tienen alturas distintas
+
+Severidad: 1
+
+Heurística violada: Design Heuristics: Consistencia y estándares
+
+Problema:
+
+Al momento de ingresar a la página principal de la plataforma, cuando se navega por las imágenes de la galería de libros, el tamaño de las imágenes es inconsistente.
+
+![](https://cdn.discordapp.com/attachments/1235639705157107719/1248686634673639465/Aspose.Words.2c9d469e-7b28-4bb5-b9c0-3470f7ef48da.001.jpeg?ex=6664918d&is=6663400d&hm=0deed4f4758e2f2024c242454093655a62d19730f3c4df2e986399f1bc6ec2b1&)
+
+![](https://cdn.discordapp.com/attachments/1235639705157107719/1248686634971693217/Aspose.Words.2c9d469e-7b28-4bb5-b9c0-3470f7ef48da.002.jpeg?ex=6664918d&is=6663400d&hm=300c17d974fffb7c54337ae60f6d82eb57f2c6d4b78fac5d75b50ab212dffde9&)
+
+![](https://cdn.discordapp.com/attachments/1235639705157107719/1248686635193860096/Aspose.Words.2c9d469e-7b28-4bb5-b9c0-3470f7ef48da.003.jpeg?ex=6664918d&is=6663400d&hm=8d897d1210d46d3628fc17f405813e06bc7fe8479ad534f8b81610129eeac475&)
+
+Recomendación:
+
+Se tiene que configurar el tamaño de las imágenes para que puedan tener un tamaño consistente y que no dificulte la vista y navegación de la galería
+
+PROBLEMA 2:
+
+PROBLEMA 3:El tamaño de texto de la barra de navegación es muy pequeño. Severidad: 1
+
+Heurística violada: Inclusive Design: Proporciona experiencias comparables
+
+Problema:
+
+Al momento de ingresar a la plataforma, el texto de la barra de navegación se muestra en un tamaño que puede resultar inconveniente para su lectura.
+
+![](https://cdn.discordapp.com/attachments/1235639705157107719/1248686635474882662/Aspose.Words.2c9d469e-7b28-4bb5-b9c0-3470f7ef48da.004.png?ex=6664918d&is=6663400d&hm=3f62247f7aeb8feb0b1c090272c659640ef11a386d80bb7cc30233fc2d813d03&)
+
+Recomendación:
+
+Se tiene que configurar el tamaño de los textos para que puedan tener un tamaño que puedan facilitar su lectura.
+
 ## 5.4. Video About-the-Product
 
  
