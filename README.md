@@ -7255,10 +7255,10 @@ Se tiene que configurar el tamaño de los textos para que puedan tener un tamañ
 ## 5.4 Video About-the-Product
 En esta sección se encuentra el Video About the Product, donde promocionamos al aplicativo al mostrar las principales características de la app de ArtCollab, comprende introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1249032297085407263/image.png?ex=6665d379&is=666481f9&hm=4916068951891bfd6c97ca494b0f4b82aa8fda7ba2b69da0c15895f146b9b0b9&=&format=webp&quality=lossless&width=550&height=306" alt="Primera versión video about the product">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1249036361462190110/image.png?ex=6665d742&is=666485c2&hm=118421d606914678d8d6e85ec88f3184b061a6d55133ed28a4aee9862934fe98&=&format=webp&quality=lossless&width=550&height=305" alt="Primera versión video about the product">
 
 Enlace al video:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EdFnQulGnexGntSNUjwxta8BzenA_GB3pAGDaUP4qdrXDg?e=jh0kTK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 # Conclusiones
 En conclusión, nuestro proyecto se basa en un profundo análisis de las necesidades de nuestros usuarios, respaldado por entrevistas y análisis exhaustivos. Hemos identificado áreas clave de mejora y formulado hipótesis sólidas que guiarán nuestro enfoque hacia el éxito de la plataforma.
@@ -7267,7 +7267,18 @@ La simplificación del proceso de registro, la mejora de la colaboración creati
 
 Por otro lado, la implementación y validación del producto se realizaron mediante un enfoque ágil, dividido en sprints manejables, que permitieron una iteración rápida y la incorporación de retroalimentación continua. La gestión de la configuración del software aseguró que nuestro entorno de desarrollo estuviera optimizado y bien gestionado, mientras que la implementación de la página de inicio, servicios y aplicaciones se llevó a cabo de manera organizada y eficiente, con cada sprint planificado y ejecutado de manera transparente.
 
+## Video About-the-Team
+
+En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para tanto el Web Application y API, donde mostramos sesiones del trabajo del equipo. Además de otros detalles relacionados al planeamiento de la idea como historias de usuario y diseño de la aplicación.
+
+Asimismo, de manera general como equipo mediante la realización de este proyecto logramos incrementar nuestros conocimientos tanto de desarrollo frontend como backend y poder tener una primera expereiencia elaborando un aplicativo web completo.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1249032297085407263/image.png?ex=6665d379&is=666481f9&hm=4916068951891bfd6c97ca494b0f4b82aa8fda7ba2b69da0c15895f146b9b0b9&=&format=webp&quality=lossless&width=550&height=306" alt="Primera versión video about the team">
+
+Enlace al video:
+
 ---
+
 # Bibliografía
 Codega, L. (2022, junio 15). Webtoon Walks Back 'Side-Hustle' Ad Campaign After Online Fury. Gizmodo. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://gizmodo.com/webtoon-side-hustle-ad-controversy-apology-1849064106
 
