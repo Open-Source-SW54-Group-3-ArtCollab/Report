@@ -7086,6 +7086,30 @@ Se entrevistó a Daniel Alejandra, una estudiante de Negocios Internacional de 2
 
 Nos menciona que las caracteristicas estan buenas, pero al momento de registrarse como ilustradora menciona que seria mejor tener una pagina introductoria para que se pueda guiar mejor asi ser mas interactiva con el usuario. Menciona que le gusto la pagina debido a ser intuitiva y destaco la funcionalidad de conexion entre artistas y escritores. Finalmente nos comenta que deberiamos ser un poco mas precisos al momneto de mencionar la monetizacion en caso de libros o comics la monetizacion para artistas debe ser diferente.
 
+**Entrevista 3:**
+
+Nombres: Sergio
+
+Apellidos: Aguirre Castillo
+
+Edad: 18 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Italo Luna
+
+Evidencia de la entrevista: 
+
+<img src="">
+
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/Ea2PFtzFL-dIoD6AaKDf534BgOYzIESAswqNnLO-HSnztQ?e=FRx6mq
+
+Resumen de la entrevista: 
+
+Se entrevistó a Sergio Aguirre, un estudiante de Ingeniería de software de 18 años de la Universidad Peruana de Ciencias Aplicadas.
+Nos comentó que las características son buenas y le agradó la página debido a su intuitividad. Destacó especialmente la funcionalidad de conexión entre artistas y escritores. Finalmente, nos sugirió ser más precisos al mencionar la monetización; en el caso de libros o cómics, la monetización para los artistas debe ser distinta.
+
 **Segmento lector:**
 
 **Entrevista 1:**
