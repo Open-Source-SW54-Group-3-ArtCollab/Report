@@ -255,6 +255,15 @@ Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
 Durante el avance del presente trabajo cada integrante del grupo trabajo mediante diferentes ramas en el repositorio segun la division pactada previamente. Además, en el grupo pudimos coordinar nuestros avances y colaborar como equipo para mejorar las correcciones brindadas por nuestro profesor.
 
+TP1 <br>
+Durante el sprint 2 me encargue de realizar tareas relacionadas al consumo y funcionamiento de la api, asi como tambien me encargue de la estilizacion de componentes y organizacion de carpetas aplicando un enfoque DDD.
+
+
+TB2 <br>
+Durante el sprint 3 me encargue de gestionar al equipo con respecto a las tareas realizadas en el backend, me encargue de que la arquitectura sea consistente con los alcances brindados por el profesor y de que la funcionalidad sea la esperada.
+
+
+
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
@@ -263,6 +272,11 @@ El desarrollo del frontend de la aplicación web ha avanzado significativamente,
 
 </td>
             <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.</td>
+
+            <td> TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes dle grupo. </td>
+
+                 <td> TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
+
             
 
    <tr>
@@ -281,7 +295,7 @@ Para la entrega del segundo avance del trabajo, se completaron los requisitos es
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
-Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.}
+Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
 
 TP1 <br>
 En el avance del trabajo, se reaaizo los componentes que conforman el desarrollo del frontend de la aplicacion web. Se completo la creacion del API necesario para al app y se logro desplegarla.
@@ -315,6 +329,14 @@ Para la entrega del segundo hito del proyecto, se cumplieron los requisitos esta
 
 </td>
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
+
+
+  <td> TP: 
+En esta etapa del proyecto, se realizo la implementación del frontend de la web app siguiendo un enfoque de DDD y siguiendo las lineaciones establecidas por nuestras historias de usuario. Se aplicaron temas realcionados al desarollo de interfaces de usuario, tales como principios de UX design como también Inclusive design.</td>
+
+
+<td>TB2: 
+En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo una ddd y considerando nuestras technical user stories, como también las historias de usuario realacionadas a los requisitos no funcionales. Se aplicaron temas como cqrs architecture y ddd asi como buenas practicas en el desarollo de servicios web en Spring, asi como también se hizo uso de algunos de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov substitute.</td>
        <tr>
 </table>
 
@@ -6225,6 +6247,564 @@ Tabla de integrantes:
  </tr>
 
 </table>
+
+
+---
+## 5.2.3. Sprint backlog 3
+### 5.2.3.1 Sprint Planning 3
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 22/05/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 15:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a traves de la plataforma Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Amaro Villanueva, Camila Elena <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+         Alvarez Araguache, Samira Jetzabel
+          <br>
+         Huilca Chipana, Gustavo 
+         <br>
+          Luna Capuñay, Italo D'Alessandro
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada mediante Netlify. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el merge con mayor anticipación para evitar inconvenientes y tambien la comunicación continua con el lider del grupo para evitar inconvenientes en las partes desarrolladas en el trabajo. <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td> Para este sprint tenemos como objetivo de realizar la implementación parcial del backend, cumpliendo con los requisitos de la aplicación y siguiendo lo estimulado en las historias de usario correspondientes a cada funcionalidad. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td>  94  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 37 <td>
+      </tr>
+  </table>
+
+  ### 5.2.3.2 Sprint BackLog 3
+   
+   En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
+   Link de Trello: https://trello.com/invite/b/mL0NRMRA/ATTIfea4e114b8101bdaf69c1d40463e6d49B8926514/artcollab-sprint3
+
+   <img src="https://media.discordapp.net/attachments/1235639705157107719/1248847522152058993/image.png?ex=66652763&is=6663d5e3&hm=6812221303c745fba728fd9b77864566a0f0d3f1ac7fd442961545286dd9ed05&=&format=webp&quality=lossless&width=1100&height=636"/>
+
+   <table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP4-US15 </th>
+     <th colspan="3">  Reparto por Ingresos publicitarios  </th>
+      <th> W17  </th>
+     <th> Monetization Bounded Context </th>
+      <th> Implementar el sistema de subscripciones a traves del API. 
+      </th>
+     <th> 3 </th>
+     <th> Italo Luna </th>
+     <th> Done </th> 
+   </tr>
+    <tr>
+      <th> EP3-US12  </th>
+     <th colspan="3"> Sube tus libros </th>
+      <th> W18  </th>
+     <th> Content Bounded Context  </th>
+     <th> Implementar la funcion para subir libros a traves del API.</th>
+     <th> 3 </th>
+     <th> Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP3-US13  </th>
+     <th colspan="3"> Colaboración con Ilustradores </th>
+      <th> W19  </th>
+     <th> Collaboration Bounded Context </th>
+     <th> Implementar la funcion de guardar los comentarios a traves del API. </th>
+     <th> 3  </th>
+     <th> Juan Cuadros </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP6-US19  </th>
+     <th colspan="3"> Ingreso por las ilustraciones </th>
+      <th> W20  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar el sistema de comisiones a traves del API.  </th>
+     <th> 6 </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E7-US23 </th>
+     <th colspan="3"> Uso de API para el inicio de sesión </th>
+      <th> W21  </th>
+     <th> User Bounded Context </th>
+     <th>  Implementar el inicio de sesión a traves del API. </th>
+     <th>  7 </th>
+     <th> Gustavo Huilca </th> 
+     <th> To Review </th>
+   </tr>
+     <tr>
+      <th> E7-US24  </th>
+     <th colspan="3"> Uso de API para realizar el pago de suscripciones con PayPal </th>
+      <th> W22  </th>
+     <th> Monetization Bounded Context </th>
+     <th>  Utilizar una servicio externo para realizar el pago en una subscripción. </th>
+     <th>  7 </th>
+     <th> Samira Alvarez </th> 
+     <th> To review </th>
+   </tr>
+
+   <tr>
+      <th> E7-US25  </th>
+     <th colspan="3"> Uso de API para compartir libros en redes sociales </th>
+      <th> W23  </th>
+     <th> Content Bounded Context </th>
+     <th>  Utilizar una servicio externo para compartir libros a traves de las redes sociales. </th>
+     <th>  7 </th>
+     <th> Camila Amaro </th> 
+     <th> To Do</th>
+   </tr>
+   </tr>
+</table>
+
+### 5.2.3.3.Development Evidence for Sprint Review.
+
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+
+ <tr> 
+   <th>  API </th>
+   <th> develop  </th>
+   <th> e6b16d934cda1a5acf605d3fea2c97f74d69d4ce  </th>
+   <th>  Initial commit </th>
+   <th> </th>
+   <th> 26/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> develop  </th>
+   <th> 56972ab39ff47512701f4555bef4d45de9fadf05  </th>
+   <th>  feat: inicial commit </th>
+   <th> </th>
+   <th> 26/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> develop  </th>
+   <th> ff8939db21eb7502d3a46ef9ba3d945f97429446  </th>
+   <th>  chore: Create .gitignore </th>
+   <th> </th>
+   <th> 26/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> 2f795ef5deeef4a45dbfec66105d34086aceed9e  </th>
+   <th>  chore/refactor(US12): Added dependencies and refactor project </th>
+   <th> </th>
+   <th> 01/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> 2592016520263a70af29252dbe925b12f86b5218  </th>
+   <th>  feat(content): Added Snake Case class </th>
+   <th> </th>
+   <th> 01/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> bae9d5603a183e18b6041b96e297e68ddf5ed236  </th>
+   <th>  feat(shared): Added domain.model files </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> d4ef5f974a5b7b6762b30167efa50c338985c7b6  </th>
+   <th>  feat(shared): Update infrastructure  </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> b112927e9792f13a11fdbf21f68b18635ecfac05  </th>
+   <th>  feat(content): Update domain model files  </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> 76a3cb7b78087f7b88e8ed53e0d77ba4284ac3ca  </th>
+   <th>  feat(content): Added domain services  </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US12  </th>
+   <th> 60eddb940eb36f69321e66cc560273a410477fb4  </th>
+   <th>  feat(content): Added interfaces rest files  </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US13  </th>
+   <th> efa511eeca7cce5fbaf0cd7019fc5bd698858f90  </th>
+   <th>  feat: Add US13  </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US13  </th>
+   <th> a56626a82f46f2bd1aed42fdcdd70c0c00ff41f5  </th>
+   <th>  fix: fix pwd in app.properties  </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> a4f3cca04a5b49290b5365f98f927434e3b9946d  </th>
+   <th>  chore: Initial config  </th>
+   <th> </th>
+   <th> 28/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 6ac4130b055769f6105edd0b9f5f43a82661964c  </th>
+   <th>  docs(monetization): added java docs for aggregates roots  </th>
+   <th> </th>
+   <th> 28/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 1b4f4beb54d4bf292bbe2c8646ad7e742a2e8ffe  </th>
+   <th>  feat(monetization): added create commands records  </th>
+   <th> </th>
+   <th> 28/05/24  </th>
+ </tr>
+
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> b89a20c02b0b116ce8afff2748e6349dbc4cb16a  </th>
+   <th>  feat(monetization): added proyect solution and their configuring by snake case  </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+<tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> a1df68691058c5c0dfef0199bb64736729d5930b </th>
+   <th>  feat(monetization): added queries with params and search by id  </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 8f4d0fdf539acdd0644fb72fce246d94de3f6e90 </th>
+   <th>  feat(monetization/controller): added crud method into controller  </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 655e756b7d4c47d82bd657850748811b60932369 </th>
+   <th>  feat(monetization/controller): added subscription controller and crud methods  </th>
+   <th> </th>
+   <th> 30/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 1e6207a68550944d1426ab9f2b67d426c4937e09 </th>
+   <th>  feat(monetization/SubscriptionController): implemented put method and query for find all active subscriptions  </th>
+   <th> </th>
+   <th> 30/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 25cf599c8eeb9df9f949942dfbe6b9037ad9756e </th>
+   <th>  refactor(monetization/commision/domain): refactor data atributes as value objects for improve the maintence </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 805e1678735bbe41d77eff17f5cedf895dab371f </th>
+   <th>  refactor(monetization/interfaces/rest): implemented other command methods for crud operations </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> b47a333be964ee7d087a1c2431a2ebc675e0dd5a </th>
+   <th>  chore: configured open api </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US15  </th>
+   <th> 5654e16b1601ebf87b20b6d58c021389be7eec39 </th>
+   <th> fix(monetization): fixed aggregates id for openapi documentation </th>
+   <th> </th>
+   <th> 04/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US19  </th>
+   <th> 54824af1dd989d48257964cdf276d12014dccde6 </th>
+   <th> feat: added file shared </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US19  </th>
+   <th> a018bc9037e52e21f5dc20591300868580c41f81 </th>
+   <th> feat: added bounded context monetization </th>
+   <th> </th>
+   <th> 03/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US19  </th>
+   <th> c1f0679f363fa44a17b88b0bfede32cda92801c9 </th>
+   <th> feat: added dependecies </th>
+   <th> </th>
+   <th> 04/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US23  </th>
+   <th> 93c293cce0779b7af7667d37bbee87d4ce7cfce2 </th>
+   <th> feat: Add Reader API controller </th>
+   <th> </th>
+   <th> 27/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US23  </th>
+   <th> 954ba3bc635d54427e9dff4f9ef9b1ac6d0a915c </th>
+   <th> chore: Add dependency and corrected package location </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> 13cdf77b78adb76fa7240b577d637c1760c1c566 </th>
+   <th> feat: add PayPal's dependencies </th>
+   <th> </th>
+   <th> 05/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> 80b56e66d662ba82a0205a630ccadaed3a82c139 </th>
+   <th> feat: add PayPal API configuration </th>
+   <th> </th>
+   <th> 06/06/24  </th>
+ </tr>
+
+ <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> ce486d5eca033579205a7d6c22c03b5fa57d1d17 </th>
+   <th> feat: add POST method to create a payment </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+  <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> 68cce9e6446ffb445b5365f95e37643ba3f0cf96 </th>
+   <th> feat: add GET methods to cancel a payment and to approve one </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+   <tr> 
+   <th>  API </th>
+   <th> feature/US24  </th>
+   <th> b9d24224cf13b3776300b41be973200391662b01 </th>
+   <th> docs: add documentation </th>
+   <th> </th>
+   <th> 07/06/24  </th>
+ </tr>
+
+
+
+ </table>
+
+
+
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación.
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+    <th> Acceptance-Tests </th>
+    <th> main </th>
+    <th> e3584e09a19377d8fce617c506153f376d0b1edf </th>
+    <th> feat: added US about API features </th>
+     <th>  </th>
+     <th> 07/06/24 </strong> </th>
+ </tr>
+
+ </table>
+
+
+ ### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En el presente no realizamos cambios en el frontend, dado a que cumplimos con todos los requerimientos funcionales en el sprint pasado. De igual forma, se puede acceder a la aplicación web a mediante el siguiente enlace. https://inspiring-scone-9e6028.netlify.app/home
+
+
+En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
+
+https://66636d9e7be51c0008bdd8ee--ephemeral-rabanadas-a3e8b8.netlify.app/
+
+
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
+En el alcance del sprint, se han desarollado los bounded context de monetization, collaboration, user y content.
+
+Se adjunta el link del repositorio de la API en Github.: https://github.com/Open-Source-SW54-Group-3-ArtCollab/API
+
+
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Para el presente sprint, se ha desarollado el API  de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del API.
+
+<ul>
+<li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. </li>
+<li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+<li> GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta para probar y documentar nuestra API. </li>
+
+</ul>
+
+
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
