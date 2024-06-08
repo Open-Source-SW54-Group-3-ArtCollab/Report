@@ -5299,9 +5299,9 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 #### Anexo: Colaboration Insights en el periodo de 1 mes
 
 
-## 5.2.2. Sprint 2
+## 5.2.2 Sprint 2
 
-### 5.2.1.2. Sprint Planning 2 
+### 5.2.2.1 Sprint Planning 2 
 
 <table>
      <tr> 
@@ -5370,7 +5370,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
   </table>
 
 
-### 5.2.2.2. Sprint backlog 2
+### 5.2.2.2 Sprint backlog 2
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
 
@@ -5588,7 +5588,7 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
 
 </table>
 
-### 5.2.2.3. Development Evidence for Sprint Review.
+### 5.2.2.3 Development Evidence for Sprint Review.
 
 <table>
 
@@ -6130,7 +6130,7 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
 
 </table>
 
-### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+### 5.2.2.4 Testing Suite Evidence for Sprint Review. 
 
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación. https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Acceptance-Tests
 
@@ -6287,9 +6287,9 @@ Tabla de integrantes:
 
 </table>
 
-
 ---
-## 5.2.3. Sprint backlog 3
+
+## 5.2.3 Sprint backlog 3
 ### 5.2.3.1 Sprint Planning 3
 
 <table>
@@ -6457,7 +6457,7 @@ Tabla de integrantes:
    </tr>
 </table>
 
-### 5.2.3.3.Development Evidence for Sprint Review.
+### 5.2.3.3 Development Evidence for Sprint Review.
 
 En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
 
@@ -6787,7 +6787,7 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 
 
 
-### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación.
 
@@ -6813,7 +6813,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
  </table>
 
 
- ### 5.2.3.5.Execution Evidence for Sprint Review.
+ ### 5.2.3.5 Execution Evidence for Sprint Review.
 
 En el presente no realizamos cambios en el frontend, dado a que cumplimos con todos los requerimientos funcionales en el sprint pasado. De igual forma, se puede acceder a la aplicación web a mediante el siguiente enlace. https://inspiring-scone-9e6028.netlify.app/home
 
@@ -6823,7 +6823,7 @@ En el landing page se agregaron los videos about the product y about the team, p
 https://66636d9e7be51c0008bdd8ee--ephemeral-rabanadas-a3e8b8.netlify.app/
 
 
-### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 
 En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
 En el alcance del sprint, se han desarollado los bounded context de monetization, collaboration, user y content.
@@ -6877,7 +6877,7 @@ Se adjunta el link del repositorio de la API en Github.: https://github.com/Open
 </table>
 
 
-### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+### 5.2.3.7 Software Deployment Evidence for Sprint Review.
 
 Para el presente sprint, se ha desarollado el API  de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del API.
 
@@ -7092,7 +7092,7 @@ La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, re
 
 Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
 
-### 5.3.3. Evaluaciones según heurísticas
+### 5.3.3 Evaluaciones según heurísticas
 
 **UX Heuristics & Principles Evaluation             Usability – Inclusive Design – Information Architecture**
 
