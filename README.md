@@ -6914,6 +6914,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 #### Anexo: Colaboration Insights en el periodo de 1 mes
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1235673642525003957/image.png?ex=66353a42&is=6633e8c2&hm=259618b54ba1049f154d68cd811efbc34ff3cb4b3574cc1308ca784cfb63f671&=&format=webp&quality=lossless&width=1113&height=1002"/>
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
@@ -6944,7 +6945,7 @@ Preguntas segmento lector:
 - ¿Qué te pareció la calidad de las ilustraciones y la tipografía al momento de leer un capítulo? ¿Pudiste consumir el contenido de la obra con facilidad o consideras que deberíamos hacer ajustes a cómo se muestran los capítulos?
 - ¿Consideras que la plataforma ofrece una buena variedad de libros ilustrados?
 
-### 5.3.2. Registro de Entrevistas
+### 5.3.2 Registro de Entrevistas
 
 **Segmento escritor:**
 
@@ -7251,7 +7252,7 @@ Recomendación:
 
 Se tiene que configurar el tamaño de los textos para que puedan tener un tamaño que puedan facilitar su lectura.
 
-## 5.4. Video About-the-Product
+## 5.4 Video About-the-Product
 En esta sección se encuentra el Video About the Product, donde promocionamos al aplicativo al mostrar las principales características de la app de ArtCollab, comprende introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1249032297085407263/image.png?ex=6665d379&is=666481f9&hm=4916068951891bfd6c97ca494b0f4b82aa8fda7ba2b69da0c15895f146b9b0b9&=&format=webp&quality=lossless&width=550&height=306" alt="Primera versión video about the product">
