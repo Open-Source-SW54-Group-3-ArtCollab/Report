@@ -7343,7 +7343,7 @@ En esta sección se encuentra el Video About the Product, donde promocionamos al
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1249036361462190110/image.png?ex=6665d742&is=666485c2&hm=118421d606914678d8d6e85ec88f3184b061a6d55133ed28a4aee9862934fe98&=&format=webp&quality=lossless&width=550&height=305" alt="Primera versión video about the product">
 
 Enlace al video:
-
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ESoCY_DVbWxLiBwKyfbnRgABPZnvcLGgSxAqdqmjGyB-SQ?e=I1soWz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 En conclusión, nuestro proyecto se basa en un profundo análisis de las necesidades de nuestros usuarios, respaldado por entrevistas y análisis exhaustivos. Hemos identificado áreas clave de mejora y formulado hipótesis sólidas que guiarán nuestro enfoque hacia el éxito de la plataforma.
@@ -7361,6 +7361,7 @@ Asimismo, de manera general como equipo mediante la realización de este proyect
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1249032297085407263/image.png?ex=6665d379&is=666481f9&hm=4916068951891bfd6c97ca494b0f4b82aa8fda7ba2b69da0c15895f146b9b0b9&=&format=webp&quality=lossless&width=550&height=306" alt="Primera versión video about the team">
 
 Enlace al video:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EWSN7cFZ3HVLgYJ9H09_E6UBj9L_Ched1tNB2A1-O41VdQ?e=wrKdo9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ---
 
