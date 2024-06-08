@@ -214,7 +214,7 @@ TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales h
         <tr>
             <td align = "center">Participa en equipos
 multidisciplinarios con eficacia,
-eficiencia y objetividad, en el
+eficiencia y objetividad, en elF
 marco de un proyecto en
 soluciones de ingeniería de
 software.</td>
@@ -267,19 +267,21 @@ Durante el sprint 3 me encargue de gestionar al equipo con respecto a las tareas
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
+
 TP1 <br>
 El desarrollo del frontend de la aplicación web ha avanzado significativamente, asegurando su despliegue junto con la API para proporcionar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha proporcionado un enfoque claro y estructurado en el diseño del sistema, lo que facilita la comprensión y el mantenimiento del código. Además, la implementación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, garantizando que cumpla con los estándares y requisitos esperados.
 
+TB2 <br>
+Durante el sprint 3, asumí la responsabilidad de coordinar al equipo con respecto a las tareas realizadas en el backend. Me aseguré de que la arquitectura del sistema fuera consistente con los requisitos y alcances establecidos por el profesor, y de que las funcionalidades implementadas cumplieran con las expectativas. Además, supervisé el progreso de las tareas, resolví problemas técnicos y me aseguré de que el equipo trabajara de manera eficiente y colaborativa para alcanzar nuestros objetivos.
+
 </td>
             <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.</td>
-
             <td> TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes dle grupo. </td>
-
-                 <td> TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
+            <td> TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
 
             
 
-   <tr>
+  <tr>
             <td align = "center">Conoce al menos un sector
 empresarial o dominio de
 aplicación de soluciones de
