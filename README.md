@@ -260,6 +260,9 @@ En el avance del trabajo se hizo mediante branches para la colaboracion en la cr
 TP1 <br>
 En esta entrega, el trabajo  donde se desarrollo el front de nuestra aplicacion web donde se utilizo las diversas ramas para la organizacion del trabajo. Ademas, del uso de GitFlow y el DDD permitiendo un enfoque claro y estructurado para el diseño del sistemas y mantenimiento del codigo.
 
+TB2 <br>
+En este avance se trabajo mendiante el uso de github mediante diferentes branches cada una correspondiente a las User Stories destinadas a la API.
+
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
 Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de 
@@ -333,6 +336,9 @@ Para la entrega del trabajo, se realizaron diversos analices para identificar y 
 
 TP1 <br>
 En el avance del trabajo, se reaaizo los componentes que conforman el desarrollo del frontend de la aplicacion web. Se completo la creacion del API necesario para al app y se logro desplegarla.
+
+TB2 <br>
+Se esta aplicando una arquitectura por capas adoptando codificación asíncrona en cada una de ellas. Permitiendo buenas practicas para un codigo sostenible a largo plazo.
 
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
@@ -6997,6 +7003,31 @@ Acerca de las herramientas de gestión de contenido, Josué destaca que la opci�
 En cuanto al sistema de colaboración con artistas, menciona que tiene un diseño acertado debido a la familiaridad con otras aplicaciones de comunicación, incluyendo opciones de llamadas y videollamadas para una mejor comunicación.
 Respecto a la funcionalidad de recomendación de libros, le parece útil que la aplicación sugiera libros según el género para que los usuarios puedan descubrir nuevas obras. Además, sugiere que también podría ser útil que también tenga la opción de sugerir libros de manera aleatorio, ya se por por género o por alguna otra característica que sea del gusto del usuario.
 
+**Entrevista 3:**
+
+Nombres: Luis Santiago
+
+Apellidos: Azcarate Vasquez
+
+Edad: 25
+
+Lugar de Residencia: Lima, Perú
+
+Entrevistador: Juan Cuadros Rodriguez
+
+Evidencia de entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247967356773208175/Santiago_Azcarate.png?ex=6661f3ab&is=6660a22b&hm=bc84adf03d34a35151ff0fa91b22ab45e79cb4d1421d31b6c269cc2330b719a2&=&format=webp&quality=lossless&width=687&height=273">
+
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de entrevista:
+
+Se entrevistó a Luis Santiago, un estudiante de marketing de 25 años de la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que la caracteristica mas destaca es la funcionalidad es la colaboracion entre artistas debido a que le permite enriquecer la calidad del contenido de la misma, tambien las herrramientas de creacion le parece una buena opcion debido a que es intuitiva y esta bien organizada. Ademas esta de acuerdo a las funcionalidades de recomendacion de libros segun genero le parece una herramienta muy util. Finalmente destaco la interfaz de usuario con un diseño limpio y con navegacion intuitiva lo que mejora la experiencia del usuario. 
+
 **Segmento ilustrador:**
 
 **Entrevista 1:**
@@ -7028,6 +7059,31 @@ Carolina Torres es una joven de 25 años que trabaja como ilustradora independie
 Ella nos recomienda la creación de un foro para preguntas frecuentes o en donde los usuarios puedan dejar sus dudas. Además, tambien menciona que en ese foro podría haber una opción donde brindar recomendaciones de mejoras para la app. Asimismo, siente que la aplicación como tal es bastante intuitiva. Con respecto al diseño considera que si podría haber mejoras en relación a que haya una paleta más limitada de colores y que la fuente sea cambiada en tamaño y grosor para facilitar la lectura.
 
 Considera muy buena la característica de colaboración entre artistas y escritores ya incluida en la app, ya que de ese modo es más sencillo de que los escritores los encuentren, a diferencia de las redes sociales ya existentes donde se tiene que buscar entre miles de cuentas.
+
+**Entrevista 2:**
+
+Nombres: Daniela Alejandra
+
+Apellidos: Cuadros Rodriguez
+
+Edad: 21 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Juan Cuadros Rodriguez
+
+Evidencia de la entrevista: 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247970414077153350/Daniela_Cuadros.png?ex=6661f684&is=6660a504&hm=12148cfd72dc25563a1cd8d8083fea0aba774e8c49831b1896fd15fc05bdf6d4&=&format=webp&quality=lossless&width=687&height=277">
+
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista: 
+
+Se entrevistó a Daniel Alejandra, una estudiante de Negocios Internacional de 21 años de la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que las caracteristicas estan buenas, pero al momento de registrarse como ilustradora menciona que seria mejor tener una pagina introductoria para que se pueda guiar mejor asi ser mas interactiva con el usuario. Menciona que le gusto la pagina debido a ser intuitiva y destaco la funcionalidad de conexion entre artistas y escritores. Finalmente nos comenta que deberiamos ser un poco mas precisos al momneto de mencionar la monetizacion en caso de libros o comics la monetizacion para artistas debe ser diferente.
 
 **Segmento lector:**
 
