@@ -6794,6 +6794,52 @@ En el alcance del sprint, se han desarollado los bounded context de monetization
 Se adjunta el link del repositorio de la API en Github.: https://github.com/Open-Source-SW54-Group-3-ArtCollab/API
 
 
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> User Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/Reader </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1249000958273257574/image.png?ex=6665b649&is=666464c9&hm=53aad189368b6aa74b6917a6e2932c78807186b0e9016802135f84113415288f&=&format=webp&quality=lossless&width=1072&height=176"> </th>
+  </tr>
+
+
+  <tr>
+   <th style="text-align:center;"> <strong> Content Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/content/Template </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1249000077545177169/image.png?ex=6665b577&is=666463f7&hm=f3693a0b443f3087b779585a9695d4799309e802aa8be294800b77bc1ab891bc&=&format=webp&quality=lossless&width=1060&height=176"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248992165112316047/image.png?ex=6665ae19&is=66645c99&hm=a1abcab2c05ac27818f260ea119db146b491febdbefb3b8893521226b4dd49c2&=&format=webp&quality=lossless&width=1084&height=280"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248997930451468320/image.png?ex=6665b377&is=666461f7&hm=42d07ad838a12c7d07b7d184a109c545048b38df6617e78f5bbb29191b4fe57a&=&format=webp&quality=lossless&width=1072&height=176"> </th>
+  </tr>
+
+<tr>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248991780884447262/image.png?ex=6665adbd&is=66645c3d&hm=ab510cdf3d7980331fb513f1a1bfd934f39ca164577315444232afbe8612d210&=&format=webp&quality=lossless&width=2152&height=608"> </th>
+  </tr>
+
+</table>
+
+
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 Para el presente sprint, se ha desarollado el API  de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del API.
