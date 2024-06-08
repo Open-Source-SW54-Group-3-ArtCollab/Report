@@ -7101,7 +7101,7 @@ Entrevistador: Gustavo Huilca Chipana
 
 Evidencia de la entrevista:
 
-<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=665f6218&is=665e1098&hm=c7f979b101e42264a0a60da8ca7f54994ba6cb65f888bdd38bfd7d910b16216f&" alt="Entrevista 01 Segmento escritor">
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=666550d8&is=6663ff58&hm=611952eceb6f6a6f6938c689d5eecf1e9ea318059c96b82d0353d81fffd7d6da&" alt="Entrevista 01 Segmento escritor">
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EfyH4Oc61c5JgdHr4HxJG-EBlGpSfMzCYpnoH5-d6nWPBA?e=mdXsK6
 
