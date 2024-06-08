@@ -6969,7 +6969,12 @@ Evidencia de la entrevista:
 
 <img src="https://cdn.discordapp.com/attachments/1235639705157107720/1246990747652325467/image.png?ex=665e6622&is=665d14a2&hm=6f1a4922e36ecd1fa14fe9e6a5c0208f0cc045d1910fcb2a3915e66ef98306f4&" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Ebo9IBeihGZCkgQz7mPsqiwB8sPk3_jDEoh1HluXq6UiVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CqT85P
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 00:10
+
+Fin: 06:47
 
 Resumen de la entrevista:
 
@@ -6997,7 +7002,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1248175513923747924/Entrevista_-_Josue.PNG?ex=6662b588&is=66616408&hm=f4c89105cdf55fb36a53f46fc5837d74c57c497902d2a79ff254da2742377ac8&=&format=webp&quality=lossless&width=1920&height=571" alt="Entrevista 02 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EchPqu98d-ZAgNqPwhksKS4Bvs-IOz5_e-NcHnDG5PSQHw?e=lHBUIh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 06:53
+
+Fin: 10:49
 
 Resumen de la entrevista:
 
@@ -7025,7 +7035,11 @@ Evidencia de entrevista:
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247967356773208175/Santiago_Azcarate.png?ex=6661f3ab&is=6660a22b&hm=bc84adf03d34a35151ff0fa91b22ab45e79cb4d1421d31b6c269cc2330b719a2&=&format=webp&quality=lossless&width=687&height=273">
 
 Enlace de entrevista: <br>
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 10:50
+
+Fin: 12:57
 
 Resumen de entrevista:
 
@@ -7051,11 +7065,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 01 Segmento ilustrador">
 
-Enlace de entrevista: 
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicio: 
+Inicio: 13:02
 
-Fin: 
+Fin: 20:59
 
 Resumen de la entrevista:
 
@@ -7082,7 +7097,11 @@ Evidencia de la entrevista:
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247970414077153350/Daniela_Cuadros.png?ex=6661f684&is=6660a504&hm=12148cfd72dc25563a1cd8d8083fea0aba774e8c49831b1896fd15fc05bdf6d4&=&format=webp&quality=lossless&width=687&height=277">
 
 Enlace de entrevista: <br>
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 21:00
+
+Fin: 23:57
 
 Resumen de la entrevista: 
 
@@ -7106,12 +7125,43 @@ Evidencia de la entrevista:
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/sergioaguirre-VR.png?raw=true">
 
 Enlace de entrevista: <br>
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/Ea2PFtzFL-dIoD6AaKDf534BgOYzIESAswqNnLO-HSnztQ?e=FRx6mq
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 23:57
+
+Fin: 25:05
 
 Resumen de la entrevista: 
 
 Se entrevistó a Sergio Aguirre, un estudiante de Ingeniería de software de 18 años de la Universidad Peruana de Ciencias Aplicadas.
 Nos comentó que las características son buenas y le agradó la página debido a su intuitividad. Destacó especialmente la funcionalidad de conexión entre artistas y escritores. Finalmente, nos sugirió ser más precisos al mencionar la monetización; en el caso de libros o cómics, la monetización para los artistas debe ser distinta.
+
+**Entrevista 4:**
+
+Nombres: Andrea Milagros
+
+Apellidos: Cabanillas Gora
+ 
+Edad: 18 años 
+
+Lugar de residencia: Santiago de Surco, Lima Perú
+
+Entrevistador: Mathias Alejandro Jave Diaz 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248010463673847839/image.png?ex=66621bd1&is=6660ca51&hm=c1323881f464a66c766513301863bac0b32d544bdda2913d220396270f9d0a81&=&format=webp&quality=lossless&width=1100&height=460">
+
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 25:05
+
+Fin: 31:21
+
+Resumen de la entrevista:
+
+Se entrevisto a Andrea Cabanillas, una estudiante de Ingeniería de Software de 18 años que actualmente estudia en la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que en sus tiempos libres se dedica a realizar ilustraciones, además ella menciona que la colaboración entre otros ilustradores es un apartado novedoso, puesto a que ella considera que no existen muchas aplicaciones que ofrezcan ese servicio, por otro lado tambien destaca el diseño visual y las funcionalidades de la aplicación, las cuales considera que son llamativas.
 
 **Segmento lector:**
 
@@ -7131,7 +7181,12 @@ Evidencia de la entrevista:
 
 <img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=666550d8&is=6663ff58&hm=611952eceb6f6a6f6938c689d5eecf1e9ea318059c96b82d0353d81fffd7d6da&" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EfyH4Oc61c5JgdHr4HxJG-EBlGpSfMzCYpnoH5-d6nWPBA?e=mdXsK6
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 31:26
+
+Fin: 37:17
 
 Resumen de la entrevista:
 
@@ -7160,11 +7215,12 @@ Evidencia de la entrevista:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1248035155730366575/image.png?ex=666232d0&is=6660e150&hm=2684e32b925a8d8c2d48d39e90ef7f771b883f833ca743ed66a2297bf144ea78&=&format=webp&quality=lossless&width=1440&height=405" alt="Entrevista 02 Segmento Lector">
 
-Enlace de entrevista: 
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicio: 
+Inicio: 37:18
 
-Fin: 
+Fin: 43:49
 
 Resumen de la entrevista:
 
@@ -7192,8 +7248,12 @@ Evidencia de la entrevista:
 
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/GUTO-VR.png?raw=true" alt="Entrevista 01 Segmento escritor">
 
-Enlace de entrevista:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EQXykc_tZ8xCmE29LwH06GkBFbpLmEpaocmFcwiesgZxAw?e=RpJAQu
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 43:49
+
+Fin: 45:47
 
 Resumen de la entrevista:
 
@@ -7220,11 +7280,11 @@ Evidencia de la entrevista:
 <img src="https://media.discordapp.net/attachments/1235639705157107720/1247999961275043860/bd3426d9-8f24-4183-afce-46ef5dca84c5.png?ex=66621209&is=6660c089&hm=e25892b8872e3b8cf4099be705c5831b237708cc484f26abd40298897c8c90a0&=&format=webp&quality=lossless&width=1100&height=302"/>
 
 Enlace de entrevista: <br>
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicio: 
+Inicio: 45:47
 
-Fin: 
+Fin: 48:45
 
 Resumen de la entrevista:
 
@@ -7381,3 +7441,5 @@ R. Incertis, R. (2023, marzo 20). De internet a las estanterías: cómo Wattpad 
 | Video grupal del TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVE7QCZGO-xPv40eEb8CMFcBSwIEhpJhjzO3iuuIl71CQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=r3MCby |
 | Needfinding interviews | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EZijLJvHaCtEmOLxKu-LUKYBDQp5Y0cBOYuP09TPuihcZQ |
 | Prototypes Navigation/ Product Navigation | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERxd8dcIJ_RNuuE2NKI5LokBzgR-IeQRRlekPx7_ksMBXg?e=mrKqUY |
+| Video grupal del TP1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVE7QCZGO-xPv40eEb8CMFcBSwIEhpJhjzO3iuuIl71CQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=r3MCby |
+| Validation interviews | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
