@@ -7083,7 +7083,6 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z
 Resumen de la entrevista: 
 
 Se entrevistó a Daniel Alejandra, una estudiante de Negocios Internacional de 21 años de la Universidad Peruana de Ciencias Aplicadas.
-
 Nos menciona que las caracteristicas estan buenas, pero al momento de registrarse como ilustradora menciona que seria mejor tener una pagina introductoria para que se pueda guiar mejor asi ser mas interactiva con el usuario. Menciona que le gusto la pagina debido a ser intuitiva y destaco la funcionalidad de conexion entre artistas y escritores. Finalmente nos comenta que deberiamos ser un poco mas precisos al momneto de mencionar la monetizacion en caso de libros o comics la monetizacion para artistas debe ser diferente.
 
 **Entrevista 3:**
