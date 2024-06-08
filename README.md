@@ -101,9 +101,8 @@ TB1 <br>
 En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
 
 Alvarez Araguache, Samira Jetzabel <br>
-TB1 <br>
-Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de 
-nuestra solución. Asímismo, el uso de Gitflow facilitó un flujo de trabajo eficiente, permitiendo a cada miembro contribuir al desarrollo de la landing page de manera coordinada y fluida.
+TB2 <br>
+Para esta entrega, los endpoints de la API fueron distribuidos de acuerdo con el bounded context, siguiendo los requerimientos definidos en los avances anteriores. Además, hemos gestionado el progreso de este sprint mediante una comunicación continua durante el desarrollo de cada tarea, lo cual facilitó el seguimiento y el monitoreo del estado de cada tarea a lo largo de esta fase del sprint.
 
 Huilca Chipana, Gustavo <br>
 TB1 <br>
@@ -138,8 +137,9 @@ TB1 <br>
 Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
 
 Alvarez Araguache, Samira Jetzabel <br>
-TB1 <br>
-En este primer avance del trabajo, se realizó el diccionario de clases de cada bounded context, detallando sus atributos, métodos y relaciones para un mejor entendimiento de la arquitectura del modelo. Asímismo, se establecieron y documentaron las herramientas y tecnologías utilizadas en el desarrollo del proyecto, incluyendo la configuración para el despliegue de la landing page. De igual manera, se definió el flujo de trabajo del equipo, junto los estilos y convenciones para la codificación de la aplicación web.
+TB2 <br>
+En este avance del proyecto, se ha completado la integración inicial de nuestra aplicación con la API de PayPal para gestionar transacciones internas, como suscripciones o compras de monedas. Además, se ha planificado el desarrollo de nuevas vistas en el frontend para una integración más completa con la API, con el objetivo de hacer la experiencia de compra más intuitiva y confiable para el usuario.
+
 
 Huilca Chipana, Gustavo <br>
 TB1<br>
