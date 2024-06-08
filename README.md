@@ -7202,6 +7202,38 @@ Sobre la calidad de las ilustraciones y la tipografía al leer un capítulo, men
 Además, menciona que la plataforma ofrece una buena variedad de libros ilustrados, pero le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
 Finalmente, menciona que no tuvo problemas al consumir el contenido de la obra y que le gustaría ver más herramientas que faciliten recomendaciones personalizadas.
 
+
+**Entrevista 4**
+
+Nombres: Aaron Elias
+
+Apellidos: Acuña Alarcon
+
+Edad: 19 años
+
+Lugar de residencia: La victoria, Lima Perú
+
+Entrevistador: Mathias Alejandro Jave Diaz 
+
+Evidencia de la entrevista: 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247999961275043860/bd3426d9-8f24-4183-afce-46ef5dca84c5.png?ex=66621209&is=6660c089&hm=e25892b8872e3b8cf4099be705c5831b237708cc484f26abd40298897c8c90a0&=&format=webp&quality=lossless&width=1100&height=302"/>
+
+Enlace de entrevista: <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ETVKM3-z-hBNh4pA129wmMkBV326963syi_W3mpmC0VUFw?e=oD7JoY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Se entrevisto a Aaron, un joven de 20 años que actualmente es un estudiante de la Upc de la carrera de Ingenieria de Software.
+
+Nos comenta que suele dedicar gran parte de su tiempo a la lectura y que en su opinión nuestra aplicación le parece una propuesta innovadora, puesto a que pudo observar la variedad de obras que ofrece nuestra aplicación.
+
+Sobre el diseño de la aplicación el opina que le parece muy llamativa el diseño visual asi como el apartado de nuestra aplicación.
+
 ### 5.3.3 Evaluaciones según heurísticas
 
 **UX Heuristics & Principles Evaluation             Usability – Inclusive Design – Information Architecture**
