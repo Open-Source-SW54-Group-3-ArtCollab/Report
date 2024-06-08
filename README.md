@@ -7086,6 +7086,34 @@ Se entrevistó a Daniel Alejandra, una estudiante de Negocios Internacional de 2
 
 Nos menciona que las caracteristicas estan buenas, pero al momento de registrarse como ilustradora menciona que seria mejor tener una pagina introductoria para que se pueda guiar mejor asi ser mas interactiva con el usuario. Menciona que le gusto la pagina debido a ser intuitiva y destaco la funcionalidad de conexion entre artistas y escritores. Finalmente nos comenta que deberiamos ser un poco mas precisos al momneto de mencionar la monetizacion en caso de libros o comics la monetizacion para artistas debe ser diferente.
 
+**Entrevista 3:**
+
+Nombres: Andrea Milagros
+
+Apellidos: Cabanillas Gora
+ 
+Edad: 18 años 
+
+Lugar de residencia: Santiago de Surco, Lima Perú
+
+Entrevistador: Mathias Alejandro Jave Diaz 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248010463673847839/image.png?ex=66621bd1&is=6660ca51&hm=c1323881f464a66c766513301863bac0b32d544bdda2913d220396270f9d0a81&=&format=webp&quality=lossless&width=1100&height=460">
+
+Enlace de entrevista: <br>
+
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Se entrevisto a Andrea Cabanillas, una estudiante de Ingeniería de Software de 18 años que actualmente estudia en la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que en sus tiempos libres se dedica a realizar ilustraciones, además ella menciona que la colaboración entre otros ilustradores es un apartado novedoso, puesto a que ella considera que no existen muchas aplicaciones que ofrezcan ese servicio, por otro lado tambien destaca el diseño visual y las funcionalidades de la aplicación, las cuales considera que son llamativas.
+
+
 **Segmento lector:**
 
 **Entrevista 1:**
@@ -7148,6 +7176,37 @@ Nos menciona que si haría uso de nuestro aplicativo, ya que le atrae mucho las 
 La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, recomienda que se pueda ver sin necesidad de una suscripción los primeros 2 capítulos de los libros para que así los lectores se puedan enganchar a seguir leyendo la historia y luego pagar por los demás capítulos.
 
 Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
+
+**Entrevista 3:**
+
+Nombres: Aaron Elias
+
+Apellidos: Acuña Alarcon
+
+Edad: 19 años
+
+Lugar de residencia: La victoria, Lima Perú
+
+Entrevistador: Mathias Alejandro Jave Diaz 
+
+Evidencia de la entrevista: 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1247999961275043860/bd3426d9-8f24-4183-afce-46ef5dca84c5.png?ex=66621209&is=6660c089&hm=e25892b8872e3b8cf4099be705c5831b237708cc484f26abd40298897c8c90a0&=&format=webp&quality=lossless&width=1100&height=302"/>
+
+Enlace de entrevista: <br>
+
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Se entrevisto a Aaron, un joven de 20 años que actualmente es un estudiante de la Upc de la carrera de Ingenieria de Software.
+
+Nos comenta que suele dedicar gran parte de su tiempo a la lectura y que en su opinión nuestra aplicación le parece una propuesta innovadora, puesto a que pudo observar la variedad de obras que ofrece nuestra aplicación.
+
+Sobre el diseño de la aplicación el opina que le parece muy llamativa el diseño visual asi como el apartado de nuestra aplicación.
 
 ### 5.3.3 Evaluaciones según heurísticas
 
