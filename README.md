@@ -95,6 +95,13 @@ TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales h
             <td> Alvarez Araguache, Samira Jetzabel<br><br>Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Luna Capuñay, Italo D'Alessandro</td>
             <td>Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8 </td>
         </tr>
+  <tr>
+            <td align = "center">TB2</td>
+            <td>08/06/2024</td>
+            <td> Alvarez Araguache, Samira Jetzabel<br><br>Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Luna Capuñay, Italo D'Alessandro</td>
+            <td>Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y al capítulo de Conclusiones. </td>
+        </tr>
+<table>
 <table>
 <br>
 
@@ -196,9 +203,9 @@ TP1: Se han cumplido las tareas designadas para la entrega del TP1, las cuales h
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ## [Conclusiones](#conclusiones)
+- [Video about the team](#video-about-the-team)
 
 ## [Bibliografía](#bibliografía)
-
 ## [Anexos](#anexos)
 
 ---
@@ -225,7 +232,10 @@ TB1 <br>
 Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
 
 TP1 <br>
-Se ha avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
+Se avanzo con el desarrollo del frontend de la aplicación web, asegurando su despliegue junto con la API para garantizar una experiencia fluida y consistente en todos los dispositivos. La adopción de Domain-Driven Design (DDD) ha permitido un enfoque claro y estructurado en el diseño del sistema, facilitando la comprensión y mantenimiento del código. Además, la aplicación de buenas prácticas de desarrollo ha contribuido a la eficiencia y calidad del software, asegurando que cumpla con los estándares y requisitos esperados.
+
+TB2 <br>
+Se mejoró el frontend de nuestro aplicativo, añadiendo la opción de poder subir y editar libros. También se desarrolló la primera versión del backend, aplicando buenas prácticas de desarrollo para asegurar un código limpio y bien estructurado. Además, se agregó documentación completa para cada endpoint de los métodos CRUD, facilitando su uso y comprensión para los desarrolladores.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
@@ -242,6 +252,9 @@ nuestra solución. Asímismo, el uso de Gitflow facilitó un flujo de trabajo ef
 TP1 <br>
 Para este avance del trabajo donde se desarrollo de la parte frontend de nuestra aplicación web, hemos seguido un flujo de trabajo definido utilizando Gitflow para gestionar nuestras ramas de código. Esto nos permitió trabajar de manera coordinada en las diferentes partes del proyecto. Además, hemos utilizado un tablero en Trello para mantener un seguimiento del progreso de nuestras tareas, lo que facilitó la colaboración y la comunicación entre el equipo.
 
+TB2 <br>
+Para esta entrega, los endpoints de la API fueron distribuidos de acuerdo con el bounded context, siguiendo los requerimientos definidos en los avances anteriores. Además, hemos gestionado el progreso de este sprint mediante una comunicación continua durante el desarrollo de cada tarea, lo cual facilitó el seguimiento y el monitoreo del estado de cada tarea a lo largo de esta fase del sprint.
+
 Huilca Chipana, Gustavo <br>
 TB1 <br>
 En este avance del trabajo, se ha trabajado en equipo para realizar las entrevistas a los usuarios y obtener información relevante para el desarrollo de la aplicación. Además, se ha colaborado en la creación de los mockups y prototipos de la aplicación web, así como en el desarrollo en código de la Landing page.
@@ -250,6 +263,8 @@ Por último, se ha documentado el trabajo realizado durante el sprint utilizando
 TP1 <br>
 En este avance del trabajo, se realizó la programación de la parte de frontend de la aplicación web a través del trabajo colaborativo en Gitflow en distintas ramas en el repositorio. Esto nos permitió trabajar de manera eficiente y coordinada en la implementación de las funcionalidades de la aplicación.
 
+TB2 <br>
+En este avance del trabajo, se ha trabajado en equipo para realizar la implementación de los servicios de la aplicación web distribuyendo las tareas  por las historias de usuario asignadas.
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
@@ -261,8 +276,6 @@ Durante el sprint 2 me encargue de realizar tareas relacionadas al consumo y fun
 
 TB2 <br>
 Durante el sprint 3 me encargue de gestionar al equipo con respecto a las tareas realizadas en el backend, me encargue de que la arquitectura sea consistente con los alcances brindados por el profesor y de que la funcionalidad sea la esperada.
-
-
 
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
@@ -295,6 +308,9 @@ Para esta entrega se analizaron las preferencias de los segmentos escritor, ilus
 TP1 <br>
 Para la entrega del segundo avance del trabajo, se completaron los requisitos establecidos, lo que incluyó avanzar significativamente con el desarrollo del frontend de la aplicación web. Además, se logró desplegar la aplicación de manera efectiva, lo que garantiza su disponibilidad para los usuarios finales. De igual modo, se llevó a cabo la creación de una API, permitiendo mediante esta una comunicación eficiente y segura.
 
+TB2 <br>
+Para esta tercera entrega del proyecto, se aplicaron mejoras al frontend y se avanzó con la primera versión del backend, al igual que se realizaron entrevistas de validación a los segmentos objetivo para recoger mejoras para nuestro aplicativo. Además, se realizaron los videos about the product y about the team donde pudimos hacer una retrospectiva del trabajo realizado.
+
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
@@ -309,6 +325,9 @@ En este primer avance del trabajo, se realizó el diccionario de clases de cada 
 TP1 <br>
 Durante este avance del trabajo, hemos desarrollado los componentes que conforman el frontend de nuestra aplicación web, los cuales permiten a los usuarios visualizar historias por género, así como acceder a perfiles y detalles de cada historia publicada.
 
+TB2 <br>
+En este avance del proyecto, se ha completado la integración inicial de nuestra aplicación con la API de PayPal para gestionar transacciones internas, como suscripciones o compras de monedas. Además, se ha planificado el desarrollo de nuevas vistas en el frontend para una integración más completa con la API, con el objetivo de hacer la experiencia de compra más intuitiva y confiable para el usuario.
+
 Huilca Chipana, Gustavo <br>
 TB1<br>
 En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
@@ -317,11 +336,13 @@ Además, se realizaron los diagramas de clase para representar visualmente la ar
 TP01 <br>
 En este avance del trabajo, se hizo uso de los servicios de búsqueda http para el consumo de datos de una API fake a través de los métodos CRUD. Se consumieron los datos de los endpoints de libros, ilustraciones, usuarios, información de chats, entre otros.
 
+TB2 <br>
+En este avance del trabajo, se codificaron los servicios del api para la aplicación web usando el framework de Spring Boot, haciendo uso de buenas prácticas de programación y diseño de software.
+
+
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
 En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diagrams) para ilustrar el flujo lógico de las acciones del usuario dentro de la aplicación web. Adicionalmente, se han creado diagramas de flujo de trabajo (wireflow diagrams) para representar el proceso lógico de la aplicación. Ambas tareas han contribuido a mejorar la experiencia del usuario (UX) al priorizar sus objetivos. Además, se ha implementado el modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará posteriormente en el backend. Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
-TP1 <br>
-Durante el sprint 2 me encargue de realizar tareas relacionadas al consumo y funcionamiento de la api, asi como tambien me encargue de la estilizacion de componentes y organizacion de carpetas aplicando un enfoque DDD.
 
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
@@ -3256,7 +3277,7 @@ Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/404
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarLibro.png"/>
 
 <h4> User goal, usuario busca artistas, contacta con ellos e inicia una sala de chats  </h4>
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/Userflow-diagrams/IniciarSala.png?raw=true"/>
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/752bd15b340d8dc70b073add015551c279dd50c3/assets/images/Userflow-Diagrams/IniciarSala.png?raw=true"/>
 
 <h4> User goal, usuario del tipo ilustrador edita su perfil </h4>
 <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/Userflow-diagrams/EditarPerfilArtista.png"/>
@@ -3302,61 +3323,61 @@ Timing: 0:00
 
 Timing: 1:32
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal2.png?raw=true" alt="Web App Prototype User goal 2">
 <br>
 <strong> User goal: usuario edita el contenido de una historia, como el contenido y las series. </strong>
 
 Timing: 2:40
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/ce9ec3bf9b9b20dbd95b91eb62fabd2545965ac8/assets/prototyping/Goal11.png?raw=true" alt="Web App Prototype User goal 3">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal11.png?raw=true" alt="Web App Prototype User goal 3">
 <br>
 <strong> User goal: usuario busca artistas, contacta con ellos e inicia una sala de chats  </strong>
 
 Timing: 3:40
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal3.png?raw=true" alt="Web App Prototype User goal 4">
 <br>
 <strong> User goal: usuario del tipo ilustrador edita su perfil </strong>
 
 Timing: 4:50
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal4.png?raw=true" alt="Web App Prototype User goal 5">
 <br>
 <strong> User goal: usuario del tipo escritor edita su perfil </strong>
 
 Timing: 5:27
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/2efb6489399e58b35eb6a89b5bed689c7dad298a/assets/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal5.png?raw=true" alt="Web App Prototype User goal 6">
 <br>
 <strong> User goal: usuario busca un libro segun su popularidad y género  </strong>
 
 Timing: 6:05
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal 6.png?raw=true" alt="Web App Prototype User goal 7">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal 6.png?raw=true" alt="Web App Prototype User goal 7">
 <br>
 <strong> User goal: usuario edita el perfil de cuenta </strong>
 
 Timing: 7:15
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal7.png?raw=true" alt="Web App Prototype User goal 8">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal7.png?raw=true" alt="Web App Prototype User goal 8">
 <br>
 <strong>  User goal: usuario visualiza las comisiones obtenidas por cada historia </strong>
 
 Timing: 7:50
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal8.png?raw=true" alt="Web App Prototype User goal 9">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal8.png?raw=true" alt="Web App Prototype User goal 9">
 <br>
 <strong> User goal: usuario visualiza los planes de suscripción </strong>
 
 Timing: 8:23
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal9.png?raw=true" alt="Web App Prototype User goal 10">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal9.png?raw=true" alt="Web App Prototype User goal 10">
 <br>
 <strong> User goal: usuario visualiza el sistema de monetización </strong>
 
 Timing: 8:54
 
-<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/461867300eebdf5ed6c15e81784db2f2167fb69b/assets/prototyping/Goal10.png?raw=true" alt="Web App Prototype User goal 11">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/a96a5b27dc6bcf1fa86fbd953046c4885687fff8/assets/images/prototyping/Goal10.png?raw=true" alt="Web App Prototype User goal 11">
 
 
 ## 4.6. Domain-Driven Software Architecture.
@@ -6825,6 +6846,294 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 #### Anexo: Colaboration Insights en el periodo de 1 mes
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1235673642525003957/image.png?ex=66353a42&is=6633e8c2&hm=259618b54ba1049f154d68cd811efbc34ff3cb4b3574cc1308ca784cfb63f671&=&format=webp&quality=lossless&width=1113&height=1002"/>
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+Preguntas segmento escritor:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de las herramientas de gestión de contenido, tales como la creación de una historia y la escritura de los capítulos?
+- ¿Qué opinas sobre el sistema de colaboración con artistas?
+- ¿Qué opinas sobre la funcionalidad de recomendación de libros según el género?
+
+Preguntas segmento ilustrador:
+
+- ¿Hay alguna característica que sientes que falta aún optimizar? ¿Qué consideras que le haría falta?
+- ¿Qué opinas sobre el diseño y la funcionalidad de las herramientas de gestión de contenido, tales como la creación de una historia, la subida de ilustraciones a un capítulo y su previsualización?
+- ¿Qué opinas sobre la funcionalidad de colaboración con escritores?
+
+Preguntas segmento lector:
+
+- ¿Estarías dispuesto/a a hacer uso de nuestra aplicación? ¿Por qué?
+- ¿Qué te pareció la calidad de las ilustraciones y la tipografía al momento de leer un capítulo? ¿Pudiste consumir el contenido de la obra con facilidad o consideras que deberíamos hacer ajustes a cómo se muestran los capítulos?
+- ¿Consideras que la plataforma ofrece una buena variedad de libros ilustrados?
+
+### 5.3.2. Registro de Entrevistas
+
+**Segmento escritor:**
+
+**Entrevista 1:**
+
+Nombres: Luz Gabriela
+
+Apellidos: Huilca Chipana
+
+Edad: 24 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Gustavo Huilca Chipana
+
+Evidencia de la entrevista:
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1246990747652325467/image.png?ex=665e6622&is=665d14a2&hm=6f1a4922e36ecd1fa14fe9e6a5c0208f0cc045d1910fcb2a3915e66ef98306f4&" alt="Entrevista 01 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/Ebo9IBeihGZCkgQz7mPsqiwB8sPk3_jDEoh1HluXq6UiVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CqT85P
+
+Resumen de la entrevista:
+
+Se entrevistó a Luz Gabriela, una jóven de 24 años practicante de la carrera de Derecho en la Universidad Peruana de Ciencias Aplicadas.
+
+Nos menciona que en general el diseño de la aplicación es excelente y resalta su facilidad de uso y el diseño de la interfaz.
+Acerca de la funcionalidad que más le llamó la atención, menciona que la herramienta de creación de sala de artistas es una excelente idea, ya que le permite colaborar de forma muy fácil con otros artistas y escritores para crear contenido de calidad.
+En cuanto a las herramientas de gestión de contenido, menciona que la creación de una historia y la escritura de los capítulos es muy intuitiva y fácil de usar.
+Sobre el sistema de colaboración con artistas, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una colaboración más profunda entre artistas y escritores.
+Finalmente, sobre la funcionalidad de recomendación de libros según el género, menciona que es una excelente idea y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+**Entrevista 2:**
+
+Nombres: Josué 
+
+Apellidos: García Torres
+
+Edad: 23 años
+
+Lugar de residencia: Houston, Estados Unidos
+
+Entrevistador: Samira Alvarez Araguache
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1248175513923747924/Entrevista_-_Josue.PNG?ex=6662b588&is=66616408&hm=f4c89105cdf55fb36a53f46fc5837d74c57c497902d2a79ff254da2742377ac8&=&format=webp&quality=lossless&width=1920&height=571" alt="Entrevista 02 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EchPqu98d-ZAgNqPwhksKS4Bvs-IOz5_e-NcHnDG5PSQHw?e=lHBUIh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+Resumen de la entrevista:
+
+Se entrevistó a Josué García, un joven de 23 años que reside en Houston, Estados Unidos, donde se dedica a escribir y dibujar comics de manera independiente.
+
+Resalta de manera positiva la parte visual de la aplicación, destacando su diseño intuitivo y su interfaz amigable, donde menciona que es lo suficientemente fácil de usar, incluso para usuarios con poca experiencia interactuando con tecnología.
+Acerca de las herramientas de gestión de contenido, Josué destaca que la opción de agregar más de un género a su obra. Menciona que esto es útil, dado que la mayoría de libros no se pueden encasillar en un único género, lo que permite que los autores puedan ser más descriptivos a la hora de presentar su trabajo.
+En cuanto al sistema de colaboración con artistas, menciona que tiene un diseño acertado debido a la familiaridad con otras aplicaciones de comunicación, incluyendo opciones de llamadas y videollamadas para una mejor comunicación.
+Respecto a la funcionalidad de recomendación de libros, le parece útil que la aplicación sugiera libros según el género para que los usuarios puedan descubrir nuevas obras. Además, sugiere que también podría ser útil que también tenga la opción de sugerir libros de manera aleatorio, ya se por por género o por alguna otra característica que sea del gusto del usuario.
+
+**Segmento ilustrador:**
+
+**Entrevista 1:**
+
+Nombres: Carolina
+
+Apellidos: Torres Torres
+
+Edad: 25 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248034602556067840/image.png?ex=6662324c&is=6660e0cc&hm=671edb3a368ee445924fd22e49db81344ce23331e72b88b357a8cf9f8bcaec44&=&format=webp&quality=lossless&width=1440&height=428" alt="Entrevista 01 Segmento ilustrador">
+
+Enlace de entrevista: 
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Carolina Torres es una joven de 25 años que trabaja como ilustradora independiente. Luego de haber revisado el aplicativo considera que tienes varias funciones útiles tanto para creadores como lectores. 
+
+Ella nos recomienda la creación de un foro para preguntas frecuentes o en donde los usuarios puedan dejar sus dudas. Además, tambien menciona que en ese foro podría haber una opción donde brindar recomendaciones de mejoras para la app. Asimismo, siente que la aplicación como tal es bastante intuitiva. Con respecto al diseño considera que si podría haber mejoras en relación a que haya una paleta más limitada de colores y que la fuente sea cambiada en tamaño y grosor para facilitar la lectura.
+
+Considera muy buena la característica de colaboración entre artistas y escritores ya incluida en la app, ya que de ese modo es más sencillo de que los escritores los encuentren, a diferencia de las redes sociales ya existentes donde se tiene que buscar entre miles de cuentas.
+
+**Segmento lector:**
+
+**Entrevista 1:**
+
+Nombres: Marcelo
+
+Apellidos: Masaveu Infante
+
+Edad: 24 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Gustavo Huilca Chipana
+
+Evidencia de la entrevista:
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107720/1247261288724299787/Screenshot_3.png?ex=665f6218&is=665e1098&hm=c7f979b101e42264a0a60da8ca7f54994ba6cb65f888bdd38bfd7d910b16216f&" alt="Entrevista 01 Segmento escritor">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/EfyH4Oc61c5JgdHr4HxJG-EBlGpSfMzCYpnoH5-d6nWPBA?e=mdXsK6
+
+Resumen de la entrevista:
+
+Se entrevistó a Marcelo, un joven de 24 años que actualmente se encuentra trabajando como gestor de Marketing Freelance en la ciudad de Lima.
+
+Nos comenta que está dispuesto a hacer uso de la aplicación y que le parece una excelente idea para encontrar contenido de calidad y apoya a los artistas emergentes, aunque sigue prefiriendo los libros físicos.
+
+Sobre la calidad de las ilustraciones y la tipografía al momento de leer un capítulo, menciona que la lectura es fluida y la calidad de las ilustraciones es adecuada, aunque le gustaría tener la opción de ajustar el tamaño de la tipografía y la ilustración.
+Además, menciona que la plataforma ofrece una buena variedad de libros ilustrados, aunque le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+Finalmente, menciona que no tuvo problemas al consumir el contenido de la obra y que le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+
+**Entrevista 2:**
+
+Nombres: Alvaro
+
+Apellidos: Rodriguez Amado
+
+Edad: 21 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Camila Amaro
+
+Evidencia de la entrevista:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107720/1248035155730366575/image.png?ex=666232d0&is=6660e150&hm=2684e32b925a8d8c2d48d39e90ef7f771b883f833ca743ed66a2297bf144ea78&=&format=webp&quality=lossless&width=1440&height=405" alt="Entrevista 02 Segmento Lector">
+
+Enlace de entrevista: 
+
+Inicio: 
+
+Fin: 
+
+Resumen de la entrevista:
+
+Alvaro es un estudiante de Ingeniería Electrónica y lector habitual de historias en formatos digitales.
+
+Nos menciona que si haría uso de nuestro aplicativo, ya que le atrae mucho las ilustraciones que posee,  la buena organización de la interfaz que te permite hallar fácilmente los géneros de libros y poder tener la facilidad de poder seguir tanto a los escritores como artistas
+
+La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, recomienda que se pueda ver sin necesidad de una suscripción los primeros 2 capítulos de los libros para que así los lectores se puedan enganchar a seguir leyendo la historia y luego pagar por los demás capítulos.
+
+Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
+
+### 5.3.3. Evaluaciones según heurísticas
+
+**UX Heuristics & Principles Evaluation             Usability – Inclusive Design – Information Architecture**
+
+**CARRERA : Ingeniería de Software**
+
+**CURSO : Aplicaciones Open Source**
+
+**SECCIÓN :** WS54
+
+**PROFESORES : Todos**
+
+**AUDITOR : Group 3 -** ArtCollab
+
+**CLIENTE(S) : Group 3 -** ArtCollab
+
+***SITE o APP A EVALUAR:***
+
+*ArtCollab*
+
+***TAREAS A EVALUAR:***
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+1. Publicación de una obra
+1. Contacto y colaboración con artistas
+1. Revisión del catálogo de obras
+1. Revisión del catálogo de artistas
+1. Lectura del capítulo de una obra
+1. Edición de una obra
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Adquisición de una subscripción dentro de la plataforma
+1. Recuperación de la contraseña
+1. Compartir obras a través de Facebook o Twitter
+1. Iniciar sesión usando Google, Facebook o Twitter.
+
+***ESCALA DE SEVERIDAD:***
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+
+
+|**Nivel**|**Descripción**|
+| - | - |
+|1|Problema superficial: puede ser fácilmente superador por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente</p><p>reléase</p>|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de</p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p>|
+
+***TABLA RESUMEN:***
+
+
+
+|#|Problema|Escala de severida d|Heurística/Principio violada(o)|
+| - | - | :- | :- |
+|1|Las imágenes de los libros en la galería de la página principal tienen alturas distintas|1|Design Heuristics: Consistencia y estándares|
+|2|Pequeños problemas de adaptación en dispositivos móviles|1|Inclusive Design: Proporciona experiencias comparables|
+|3|El tamaño de texto de la barra de navegación es muy pequeño|1|Inclusive Design: Proporciona experiencias comparables|
+|||||
+|…|….|||
+Etc.
+
+***DESCRIPCIÓN DE PROBLEMAS:***
+
+PROBLEMA #1: Las imágenes de los libros en la galería de la página principal tienen alturas distintas
+
+Severidad: 1
+
+Heurística violada: Design Heuristics: Consistencia y estándares
+
+Problema:
+
+Al momento de ingresar a la página principal de la plataforma, cuando se navega por las imágenes de la galería de libros, el tamaño de las imágenes es inconsistente.
+
+![](https://cdn.discordapp.com/attachments/1235639705157107719/1248686634673639465/Aspose.Words.2c9d469e-7b28-4bb5-b9c0-3470f7ef48da.001.jpeg?ex=6664918d&is=6663400d&hm=0deed4f4758e2f2024c242454093655a62d19730f3c4df2e986399f1bc6ec2b1&)
+
+![](https://cdn.discordapp.com/attachments/1235639705157107719/1248686634971693217/Aspose.Words.2c9d469e-7b28-4bb5-b9c0-3470f7ef48da.002.jpeg?ex=6664918d&is=6663400d&hm=300c17d974fffb7c54337ae60f6d82eb57f2c6d4b78fac5d75b50ab212dffde9&)
+
+![](https://cdn.discordapp.com/attachments/1235639705157107719/1248686635193860096/Aspose.Words.2c9d469e-7b28-4bb5-b9c0-3470f7ef48da.003.jpeg?ex=6664918d&is=6663400d&hm=8d897d1210d46d3628fc17f405813e06bc7fe8479ad534f8b81610129eeac475&)
+
+Recomendación:
+
+Se tiene que configurar el tamaño de las imágenes para que puedan tener un tamaño consistente y que no dificulte la vista y navegación de la galería
+
+PROBLEMA 2:
+
+PROBLEMA 3:El tamaño de texto de la barra de navegación es muy pequeño. Severidad: 1
+
+Heurística violada: Inclusive Design: Proporciona experiencias comparables
+
+Problema:
+
+Al momento de ingresar a la plataforma, el texto de la barra de navegación se muestra en un tamaño que puede resultar inconveniente para su lectura.
+
+![](https://cdn.discordapp.com/attachments/1235639705157107719/1248686635474882662/Aspose.Words.2c9d469e-7b28-4bb5-b9c0-3470f7ef48da.004.png?ex=6664918d&is=6663400d&hm=3f62247f7aeb8feb0b1c090272c659640ef11a386d80bb7cc30233fc2d813d03&)
+
+Recomendación:
+
+Se tiene que configurar el tamaño de los textos para que puedan tener un tamaño que puedan facilitar su lectura.
+
+## 5.4. Video About-the-Product
 
  
 # Conclusiones
