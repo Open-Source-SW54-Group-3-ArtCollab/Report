@@ -7099,7 +7099,7 @@ Entrevistador: Italo Luna
 
 Evidencia de la entrevista: 
 
-<img src="">
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/sergioaguirre-VR.png?raw=true">
 
 Enlace de entrevista: <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/Ea2PFtzFL-dIoD6AaKDf534BgOYzIESAswqNnLO-HSnztQ?e=FRx6mq
@@ -7171,6 +7171,32 @@ Nos menciona que si haría uso de nuestro aplicativo, ya que le atrae mucho las 
 La interfaz del aplicativo los siente bastante sencillo de usar. Sin embargo, recomienda que se pueda ver sin necesidad de una suscripción los primeros 2 capítulos de los libros para que así los lectores se puedan enganchar a seguir leyendo la historia y luego pagar por los demás capítulos.
 
 Considera que para no ser la versión final del aplicativo esta bastante bien, nómas le gustaría que próximamente se pueda agregar más géneros y libros a esta para tener una mayor variedad sobre que leer.
+
+**Entrevista 3:**
+
+Nombres: Augusto
+
+Apellidos: Pin Matallana
+
+Edad: 18 años
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Italo Luna Capuñay
+
+Evidencia de la entrevista:
+
+<img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/GUTO-VR.png?raw=true" alt="Entrevista 01 Segmento escritor">
+
+Enlace de entrevista:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EQXykc_tZ8xCmE29LwH06GkBFbpLmEpaocmFcwiesgZxAw?e=RpJAQu
+
+Resumen de la entrevista:
+
+Se entrevistó a Augusto Pin Matallana, un joven de 18 años. Nos comenta que está dispuesto a utilizar la aplicación y que le parece una excelente idea para descubrir contenido de calidad y apoyar a los artistas emergentes, aunque sigue prefiriendo los libros físicos.
+Sobre la calidad de las ilustraciones y la tipografía al leer un capítulo, menciona que la lectura es fluida y la calidad de las ilustraciones es adecuada, aunque le gustaría tener la opción de ajustar el tamaño de la tipografía y las ilustraciones.
+Además, menciona que la plataforma ofrece una buena variedad de libros ilustrados, pero le gustaría ver más funcionalidades que permitan una recomendación más personalizada.
+Finalmente, menciona que no tuvo problemas al consumir el contenido de la obra y que le gustaría ver más herramientas que faciliten recomendaciones personalizadas.
 
 ### 5.3.3 Evaluaciones según heurísticas
 
