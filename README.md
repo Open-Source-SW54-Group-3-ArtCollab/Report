@@ -6991,7 +6991,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
    En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
    Link de Trello: https://trello.com/invite/b/mL0NRMRA/ATTIfea4e114b8101bdaf69c1d40463e6d49B8926514/artcollab-sprint3
 
-   <img src="https://media.discordapp.net/attachments/1235639705157107719/1248847522152058993/image.png?ex=66652763&is=6663d5e3&hm=6812221303c745fba728fd9b77864566a0f0d3f1ac7fd442961545286dd9ed05&=&format=webp&quality=lossless&width=1100&height=636"/>
+   <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254249611636244571/image.png?ex=6678ce7a&is=66777cfa&hm=027d0d21b5814a1cfaed619f578b7d2fe3044b0b6a5ee7ca88e571d710c1c83d&"/>
 
    <table style="width:400px; height:100px;"> 
    <tr>
