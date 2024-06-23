@@ -7504,6 +7504,16 @@ La simplificación del proceso de registro, la mejora de la colaboración creati
 
 Por otro lado, la implementación y validación del producto se realizaron mediante un enfoque ágil, dividido en sprints manejables, que permitieron una iteración rápida y la incorporación de retroalimentación continua. La gestión de la configuración del software aseguró que nuestro entorno de desarrollo estuviera optimizado y bien gestionado, mientras que la implementación de la página de inicio, servicios y aplicaciones se llevó a cabo de manera organizada y eficiente, con cada sprint planificado y ejecutado de manera transparente.
 
+Asimismo, mediante la realización de la web app pudimos ver en la práctica cómo se aplica la arquitectura de DDD dentro de este tipo de aplicativo. A lo largo del desarrollo, fuimos capaces de identificar y modelar los distintos dominios de negocio, estableciendo límites claros entre ellos para asegurar una separación de preocupaciones adecuada. Esta metodología nos permitió crear un sistema más robusto y flexible, facilitando tanto el mantenimiento como la evolución del software.
+
+De igual manera, se aplicó la arquitectura DDD, además del patrón de Segregación de Responsabilidades de Comandos y Consultas (CQRS) dentro de la API REST desarrollada. La combinación de estas dos metodologías permitió una separación clara entre las operaciones de lectura y escritura, mejorando así la eficiencia y escalabilidad del sistema.
+
+El uso de DDD nos ayudó a definir y modelar los diferentes contextos del dominio, permitiendo que la API REST reflejara con precisión la lógica de negocio. Esto incluyó la identificación de Entidades, Value Objects, Agregados y Repositorios, lo cual nos proporcionó una estructura sólida y coherente para el desarrollo de la API.
+
+Por otro lado, la implementación del patrón CQRS nos permitió manejar de manera eficiente las operaciones de consulta y comando. Al separar las responsabilidades de lectura y escritura, pudimos optimizar cada operación según sus necesidades específicas. Las consultas se diseñaron para ser rápidas y eficientes, mientras que los comandos se centraron en mantener la consistencia y las reglas de negocio del sistema.
+
+Además, para asegurar una documentación clara y accesible del código, utilizamos Javadocs extensivamente. La documentación generada con Javadocs proporcionó descripciones detalladas de las clases, métodos y parámetros, facilitando la comprensión y el uso del código por parte de otros desarrolladores. Esta práctica no solo mejoró la comunicación dentro del equipo, sino que también contribuyó a la creación de un código más mantenible y fácil de escalar. 
+
 ## Video About-the-Team
 
 En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para tanto el Web Application y API, donde mostramos sesiones del trabajo del equipo. Además de otros detalles relacionados al planeamiento de la idea como historias de usuario y diseño de la aplicación.
