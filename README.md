@@ -6898,6 +6898,7 @@ Para el presente sprint, se ha desarollado el API  de la web application. Para l
 </ul>
 
 
+### 5.2.3.8 Team Collaboration Insights during Sprint.
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
@@ -6991,6 +6992,7 @@ Para el presente sprint, se ha desarollado el API  de la web application. Para l
 </ul>
 
 
+### 5.2.4.8 Team Collaboration Insights during Sprint.
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
