@@ -1970,6 +1970,7 @@ Enlace de Miro: https://miro.com/app/board/uXjVKXvjT-4=/?share_link_id=428179149
 </tbody>
 </table>
 
+<table>
 </tr>
 <tr class="even">
 <td>E1-US01</td>
@@ -2566,6 +2567,57 @@ y elije la red la red social Twitter.
 <td>7</td>
 </tr>
 
+<tr class="odd">
+<td>E7-US26</td>
+<td>Autenticación y autorización seguras para administradores con JWT y esquema Bearer</td>
+<td><p><strong>Como</strong> administrador</p>
+<p><strong>quiero</strong> poder autenticarme de manera segura en la API utilizando jwt</p>
+<p><strong>para</strong> acceder y administrar los recursos protegidos por la API de manera segura.</p></td>
+
+<td><p>Escenario 1: Registro exitoso de administrador</p>
+<p>Dado que un nuevo administrador desea registrarse en la API.</p>
+<p>Cuando envía una solicitud de registro con un nombre de usuario único y una contraseña segura.</p>
+<p>y elije la red social Facebook.</p>
+<p>Entonces la API encripta la contraseña utilizando BCrypt y almacena el administrador en la base de datos.
+y devuelve un código de estado 201 (Created) junto con un JWT válido utilizando el esquema Bearer.
+y el administrador puede utilizar este JWT para acceder a recursos protegidos de la API.</p>
+
+<p>Escenario 2: Intento de inicio de sesión con credenciales incorrectas </p>
+<p>Dado que un administrador intenta iniciar sesión en la API con credenciales incorrectas (nombre de usuario o contraseña incorrectos).</p>
+<p>Cuando la API verifica las credenciales y determina que no son válidas.</p>
+<p>Entonces la API devuelve un código de estado 401 (Unauthorized) junto con un mensaje indicando que las credenciales son incorrectas.
+Y no se genera un JWT, lo que impide al administrador acceder a recursos protegidos de la API.</p>
+
+<p>Escenario 3: Token JWT expirado durante una solicitud </p>
+<p>Dado que un administrador tiene un JWT válido pero ha expirado debido a la política de tiempo de vida.</p>
+<p>Cuando el administrador intenta realizar una solicitud a la API utilizando este JWT.</p>
+<p>Entonces la API devuelve un código de estado 401 (Unauthorized) junto con un mensaje indicando que el token ha expirado.
+y el administrador debe iniciar sesión nuevamente para obtener un nuevo JWT y acceder a recursos protegidos. </p>
+
+<td>7</td>
+</tr>
+
+  <tr class="odd">
+<td>E7-US27</td>
+<td>Consultas seguras de administradores a la API utilizando JWT y esquema Bearer</td>
+<td><p><strong>Como</strong> administrador del sistema,</p>
+<p><strong>quiero</strong> poder realizar consultas seguras a la API utilizando mi JWT con esquema Bearer,</p>
+<p><strong>para</strong> acceder y modificar datos según mis permisos y roles asignados.</p></td>
+
+<td><p>Escenario 1: Compartir en Facebook</p>
+<p>Dado que un administrador autenticado posee un JWT válido con esquema Bearer.</p>
+<p>Cuando realiza una solicitud GET a un endpoint protegido de la API para obtener datos sensibles.</p>
+<p>Entonces a API valida el JWT y verifica que el administrador tiene los permisos adecuados para acceder a los datos.
+La API responde con un código de estado 200 (OK) junto con los datos solicitados.</p>
+
+<p>Escenario 2: Intento de acceso no autorizado a recursos protegidos </p>
+<p>Dado que un administrador intenta acceder a un recurso protegido de la API para el cual no tiene los permisos adecuados.</p>
+<p>Cuando realiza una solicitud que requiere un JWT válido con roles específicos que no posee.</p>
+<p>Entonces la API devuelve un código de estado 403 (Forbidden) junto con un mensaje indicando que el administrador no tiene permisos suficientes para realizar la operación solicitada.
+Y se niega el acceso al recurso protegido, asegurando la integridad de los datos.</p>
+
+<td>7</td>
+</tr>
 
 </table>
 <hr>
