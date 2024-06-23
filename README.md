@@ -6919,6 +6919,193 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1235673642525003957/image.png?ex=66353a42&is=6633e8c2&hm=259618b54ba1049f154d68cd811efbc34ff3cb4b3574cc1308ca784cfb63f671&=&format=webp&quality=lossless&width=1113&height=1002"/>
 
 # Sprint 4
+## 5.2.4 Sprint backlog 4
+### 5.2.4.1 Sprint Planning 4
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 4 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 21/06/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 23:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a traves de la plataforma Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Cuadros Rodriguez, Juan Alejandro <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Amaro Villanueva, Camila Elena
+        <br>
+          Jave Diaz, Mathias Alejandro 
+           <br>
+         Cuadros Rodriguez, Juan Alejandro 
+          <br>
+         Alvarez Araguache, Samira Jetzabel
+          <br>
+         Huilca Chipana, Gustavo 
+         <br>
+          Luna Capuñay, Italo D'Alessandro
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 3, se logró implementar con éxito de forma parcial el backend, la cual fue probada utilizando Swagger. Se llego a cumplir con todos los requisitos funcionales indicados en el sprint <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar la documentacion del trabajo de manera de anticipar incovenientes futuros y tambien optimizar la planificacion de nuestros tiempos. <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td> Para este sprint tenemos como objetivo de realizar la implementación total del backend y frontend, cumpliendo con los requisitos de la aplicación y siguiendo lo estimulado en las historias de usario correspondientes a cada funcionalidad. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td>  94  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 47 <td>
+      </tr>
+  </table>
+
+  ### 5.2.4.2 Sprint BackLog 4
+   
+   En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
+   Link de Trello: https://trello.com/invite/b/mL0NRMRA/ATTIfea4e114b8101bdaf69c1d40463e6d49B8926514/artcollab-sprint3
+
+   <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254249611636244571/image.png?ex=6678ce7a&is=66777cfa&hm=027d0d21b5814a1cfaed619f578b7d2fe3044b0b6a5ee7ca88e571d710c1c83d&"/>
+
+   <table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 4 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP4-US15 </th>
+     <th colspan="3">  Reparto por Ingresos publicitarios  </th>
+      <th> W17  </th>
+     <th> Monetization Bounded Context </th>
+      <th> Implementar el sistema de subscripciones a traves del API. 
+      </th>
+     <th> 3 </th>
+     <th> Italo Luna </th>
+     <th> Done </th> 
+   </tr>
+    <tr>
+      <th> EP3-US12  </th>
+     <th colspan="3"> Sube tus libros </th>
+      <th> W18  </th>
+     <th> Content Bounded Context  </th>
+     <th> Implementar la funcion para subir libros a traves del API.</th>
+     <th> 3 </th>
+     <th> Camila Amaro </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP3-US13  </th>
+     <th colspan="3"> Colaboración con Ilustradores </th>
+      <th> W19  </th>
+     <th> Collaboration Bounded Context </th>
+     <th> Implementar la funcion de guardar los comentarios a traves del API. </th>
+     <th> 3  </th>
+     <th> Juan Cuadros </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP6-US19  </th>
+     <th colspan="3"> Ingreso por las ilustraciones </th>
+      <th> W20  </th>
+     <th> Monetization Bounded Context </th>
+     <th> Implementar el sistema de comisiones a traves del API.  </th>
+     <th> 6 </th>
+     <th> Mathias Jave </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E7-US23 </th>
+     <th colspan="3"> Uso de API para el inicio de sesión </th>
+      <th> W21  </th>
+     <th> User Bounded Context </th>
+     <th>  Implementar el inicio de sesión a traves del API. </th>
+     <th>  7 </th>
+     <th> Gustavo Huilca </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> E7-US24  </th>
+     <th colspan="3"> Uso de API para realizar el pago de suscripciones con PayPal </th>
+      <th> W22  </th>
+     <th> Monetization Bounded Context </th>
+     <th>  Utilizar una servicio externo para realizar el pago en una subscripción. </th>
+     <th>  7 </th>
+     <th> Samira Alvarez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> E7-US25  </th>
+     <th colspan="3"> Uso de API para compartir libros en redes sociales </th>
+      <th> W23  </th>
+     <th> Content Bounded Context </th>
+     <th>  Utilizar una servicio externo para compartir libros a traves de las redes sociales. </th>
+     <th>  7 </th>
+     <th> Camila Amaro </th> 
+     <th> Done</th>
+   </tr>
+    <tr>
+      <th> E7-US26  </th>
+     <th colspan="3"> Autenticación y autorización seguras para administradores con JWT y esquema Bearer </th>
+      <th> W24  </th>
+     <th> Security </th>
+     <th>  Implementar un sistema robusto de autenticación y autorización para administradores en la API. </th>
+     <th>  5 </th>
+     <th> Mathias Jave </th> 
+     <th> To Review</th>
+   </tr>
+    <tr>
+      <th> E7-US27  </th>
+     <th colspan="3"> Consultas seguras de administradores a la API utilizando JWT y esquema Bearer </th>
+      <th> W25  </th>
+     <th> Security </th>
+     <th>  Implementar endpoints seguros en la API que requieran autenticación mediante JWT y utilicen el esquema Bearer </th>
+     <th>  5 </th>
+     <th> Mathias Jave </th> 
+     <th> To Review</th>
+   </tr>
+   
+   </tr>
+   </table>
 
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.
 
