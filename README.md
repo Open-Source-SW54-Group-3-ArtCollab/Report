@@ -86,7 +86,7 @@ TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales h
 
 ---
 # Registro de Versiones del Informe
-<table >
+<table>
         <tr>
             <th style="text-align:center;">Versión</th>
             <th style="text-align:center;">Fecha</th>
@@ -111,8 +111,7 @@ TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales h
             <td> Alvarez Araguache, Samira Jetzabel<br><br>Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Luna Capuñay, Italo D'Alessandro</td>
             <td>Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y al capítulo de Conclusiones. </td>
         </tr>
-<table>
-<table>
+</table>
 <br>
 
 ---
@@ -743,7 +742,7 @@ Nuestro producto aborda varios problemas:
 **Sabremos que** hemos tenido éxito **cuando** observemos un aumento en las suscripciones premium y una mayor participación activa de los creadores.*
 
 #### 1.2.2.4. Lean UX Canvas
-<TABLE BORDER>
+<table>
 	<TR>
 		<TD ROWSPAN=2>
 
@@ -856,10 +855,10 @@ Crear prototipos o pruebas de concepto para validar nuestra idea antes de invert
 Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede incluir estrategias de redes sociales y relaciones públicas.
 </TD> 
 	</TR>
-</TABLE>
+</table>
 
 ## 1.3. Segmentos Objetivo
-<TABLE BORDER>
+<table>
 	<TR>
 		<TD>
 
@@ -910,7 +909,7 @@ Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede
 - Educación: Varía, desde personas con educación básica hasta titulados universitarios.
 </TD>
 	</TR>
-</TABLE>
+</table>
 
 ---
 
@@ -1968,6 +1967,8 @@ Enlace de Miro: https://miro.com/app/board/uXjVKXvjT-4=/?share_link_id=428179149
 <td>Criterios de Aceptación</td>
 <td>Relación Epic ID</td>
 </tr>
+</tbody>
+</table>
 
 </tr>
 <tr class="even">
@@ -2565,7 +2566,7 @@ y elije la red la red social Twitter.
 <td>7</td>
 </tr>
 
-</tbody>
+
 </table>
 <hr>
 
@@ -3482,7 +3483,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase User es una clase abstracta que representa a los usuarios de la aplicación. Tiene una relación de asociación con UserFactory y Account.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3491,7 +3492,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Writer representa a los escritores de la aplicación. Tiene una relación de asociación con WriterFactory.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3500,7 +3501,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Illustrator representa a los ilustradores de la aplicación. Tiene una relación de asociación con IllustratorFactory.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3509,7 +3510,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Reader representa a los lectores de la aplicación. Tiene una relación de asociación con ReaderFactory.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3526,7 +3527,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createUser()</td>
     <td colspan="2" valign="top">Método que define la creación de nuevos tipos de objetos.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3543,7 +3544,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createUser()</td>
     <td colspan="2" valign="top">Método que crea nuevos objetos de tipo Writer.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3560,7 +3561,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createUser()</td>
     <td colspan="2" valign="top">Método que crea nuevos objetos de tipo Illustrator.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3577,7 +3578,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createUser()</td>
     <td colspan="2" valign="top">Método que crea nuevos objetos de tipo Reader.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3606,7 +3607,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">deleteUser()</td>
     <td colspan="2" valign="top">Método que elimina a un usuario del sistema.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3615,7 +3616,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Account representa la cuenta de los usuarios de la aplicación. Tiene una relación de asociación con Subscription y User.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3624,7 +3625,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Subscription representa la suscripción a un plan de la aplicación.Tiene una relación de asociación con Account y Plan.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3633,7 +3634,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Plan representa a los planes de suscripción de la aplicación. Tiene una relación de asociación con Subscription.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3650,7 +3651,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">update()</td>
     <td colspan="2" valign="top">Método que define el comportamiento cuando ocurren cambios de estado en los sujetos observados.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3667,7 +3668,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">update()</td>
     <td colspan="2" valign="top">Método que recibe la notificación y responde al cambio en el estado de Subscription.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3684,7 +3685,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">update()</td>
     <td colspan="2" valign="top">Método que recibe la notificación y responde al cambio en el estado de UserManager.</td>
   </tr>
-<table>
+</table>
 
 <br>
 
@@ -3697,7 +3698,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Book representa las obras que se encuentran en la aplicación. Tiene una relación de asociación con BookFactory, de composición con Review y Chapter y de agregación con Illustration y Portfolio.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3706,7 +3707,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Review representa los comentarios acerca de un libro o una ilustración. Tiene una relación de composición con Book e Illustration.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3715,7 +3716,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Chapter representa los capítulos que conforman un libro. Tiene una relación de composición con Book.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3724,7 +3725,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Illustration representa las ilustraciones que se encuentran en la aplicación. Tiene una relación de agregación con Portfolio y Book, así como de asociación con IllustrationFactory y de composición con Review.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3733,7 +3734,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Review representa los comentarios acerca de un libro o una ilustración. Tiene una relación de composición con Book e Illustration.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3750,7 +3751,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createContent()</td>
     <td colspan="2" valign="top">Método que define la creación de objetos de un tipo de contenido.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3767,7 +3768,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createBook()</td>
     <td colspan="2" valign="top">Método que crea objetos del tipo Book</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3784,7 +3785,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createIllustration()</td>
     <td colspan="2" valign="top">Método que crea objetos del tipo Illustration</td>
   </tr>
-<table>
+</table>
 
 
 <table border="1" width="40%">
@@ -3794,7 +3795,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Portfolio representa el portafolio de un usuario y los trabajos que ha realizado. Tiene una relación de agregación con Illustration y Book, así como una asociación con PortfolioViewStrategy.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3811,7 +3812,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">viewContent()</td>
     <td colspan="2" valign="top">Método que define la estrategia en la que se visualiza el contenido del portafolio.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3828,7 +3829,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">viewContent()</td>
     <td colspan="2" valign="top">Método que define la estrategia en la que se visualiza el contenido del portafolio, más no su lógica.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3845,7 +3846,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">viewContent()</td>
     <td colspan="2" valign="top">Método que permite ver el contenido del portafolio como una lista.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3862,7 +3863,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">viewContent()</td>
     <td colspan="2" valign="top">Método que permite visualizar de manera más detallada el contenido presente en el portafolio.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3879,7 +3880,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">viewContent()</td>
     <td colspan="2" valign="top">Método que permite visualizar en forma de miniaturas el contenido del portafolio.</td>
   </tr>
-<table>
+</table>
 
 <br>
 
@@ -3892,7 +3893,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase chat representa el medio de comunicación entre los escritores y dibujantes. Tiene una relación de agregación con Notification y ChatMessage.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3901,7 +3902,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Writer representa a los escritores de la aplicación. Tiene una relación de asociación con Chat.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3910,7 +3911,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Illustrator representa a los ilustradores de la aplicación. Tiene una relación de asociación con Chat.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3919,7 +3920,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase ChatHistory representa el historial de mensajes del chat. Tiene una relación de agregación con Chat y Activity.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3928,7 +3929,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Activity representa las interacciones, el estado y eventos en el chat. Tiene una relación de agregación con Activity.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3937,7 +3938,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase ChatMessage representa los mensajes que se encuentran en el chat. Tiene una relación de asociación con ChatObserver y ChatMessageFactory.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3946,7 +3947,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Notification representa las notificaciones acerca del chat. Tiene una relación de asociación con ChatObserver, NotificationFactory y una relción de agregación con Chat.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3963,7 +3964,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">update()</td>
     <td colspan="2" valign="top">Método que define el comportamiento cuando ocurren cambios de estado en el sujeto observado.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -3980,7 +3981,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">update()</td>
     <td colspan="2" valign="top">Método que recibe la notificación y responde al cambio en el estado del chat.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -3989,7 +3990,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase ColaborationFactory es una clase abstracta que define la creación de objetos de colaboración. Tiene una relación de agregación con NotificationFactory, ChatMessageFactory y ChatFactory.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -4006,7 +4007,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createChat()</td>
     <td colspan="2" valign="top">Método que crea objetos de tipo Chat.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -4023,7 +4024,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createChat()</td>
     <td colspan="2" valign="top">Método que crea objetos de tipo Message.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="50%">
   <tr>
@@ -4040,7 +4041,7 @@ Monetization Bounded Context
     <td colspan="1" valign="top">createChat()</td>
     <td colspan="2" valign="top">Método que crea objetos de tipo Notification.</td>
   </tr>
-<table>
+</table>
 
 <br>
 
@@ -4053,7 +4054,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Subscription representa la suscripción a un plan de la aplicación. Tiene una relación de asociación con SubscriptionObserver, SubscriptionHistory, Plan y SubscriptionManager</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4062,7 +4063,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase SubscriptionHistory representa el historial de Subscription. Tiene una relación de asociación con Payment.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4071,7 +4072,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Plan representa los planes de suscripción de la aplicación. Tiene una relación de asociación con Subscription.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4080,7 +4081,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Payment representa la información de los pagos de la aplicación. Tiene una relación de asociación con PaymentObserver, Subscription y PaymentFacade.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4089,7 +4090,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase PaymentFacade facilita la interacción con los componentes y servicios que conforman los pagos en la plataforma.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4098,7 +4099,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Observer es una clase abstracta que define el comportamiento de SubscriptionObserver y PaymentObserver.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4107,7 +4108,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Observer es una clase hija de Observer. Se encarga de observar los cambios de estado de Subscription. Tiene una relación de asociación con Subscription.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4116,7 +4117,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Observer es una clase hija de Observer. Se encarga de observar los cambios de estado de Payment. Tiene una relación de asociación con PaymentObserver.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4125,7 +4126,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Commission representa las comisiones que se pueden realizar en la aplicación. Tiene una relación de asociación con Writer, Reader, Illustrator y Payment.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4134,7 +4135,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Writer representa a los escritores de la aplicación. Tiene una relación de asociación con Comission y SubscriptionManager.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4143,7 +4144,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Illustrator representa a los ilustradores de la aplicación. Tiene una relación de asociación con Commission y SubscriptionManager.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4152,7 +4153,7 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase Reader representa a los lectores de la aplicación</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4161,16 +4162,16 @@ Monetization Bounded Context
     <tr>
     <td colspan="2" valign="top">La clase SubscriptionManager realiza la gestión de los objetos tipo Subscription.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
     <td colspan="2" valign="top">SuscriptionStrategy</td>
   </tr>
     <tr>
-    <td colspan="2" valign="top">La clase SuscriptionStrategy es una interfaz la cual permite visualizar las suscripciones por usuario mediante distintas estrategias. Tiene una relación de tipo asociación con SubscriptionManager y tres de generalización con IllustratorSuscriptionStrategy,WriterSuscriptionStrategy y ReaderSuscriptionStrategy.</<td>
+    <td colspan="2" valign="top">La clase SuscriptionStrategy es una interfaz la cual permite visualizar las suscripciones por usuario mediante distintas estrategias. Tiene una relación de tipo asociación con SubscriptionManager y tres de generalización con IllustratorSuscriptionStrategy,WriterSuscriptionStrategy y ReaderSuscriptionStrategy.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4178,9 +4179,9 @@ Monetization Bounded Context
   </tr>
     <tr>
     <td colspan="2" valign="top">La clase ReaderSuscriptionStrategy es una clase hija de SuscriptionStrategy. Es una de las estrategias de visualización de suscripción
-    para los ilustradores.</<td>
+    para los ilustradores.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4188,9 +4189,9 @@ Monetization Bounded Context
   </tr>
     <tr>
     <td colspan="2" valign="top">La clase ReaderSuscriptionStrategy es una clase hija de SuscriptionStrategy. Es una de las estrategias de visualización de suscripción
-    para los escritores.</<td>
+    para los escritores.</td>
   </tr>
-<table>
+</table>
 
 <table border="1" width="40%">
   <tr>
@@ -4200,7 +4201,7 @@ Monetization Bounded Context
     <td colspan="2" valign="top">La clase ReaderSuscriptionStrategy es una clase hija de SuscriptionStrategy. Es una de las estrategias de visualización de suscripción
     para los lectores.</td>
   </tr>
-<table>
+</table>
 
 ## 4.8. Database Design
 
@@ -4559,7 +4560,6 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
      <th> Samira Alvarez </th> 
      <th> Done </th>
    </tr>
-     </tr>
      <tr>
       <th> EP1-US05</th>
      <th colspan="3"> E1-US05 Sección Hero</th>
@@ -5396,7 +5396,7 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint y
 
 Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235639988943720499/image.png?ex=66351aea&is=6633c96a&hm=b26bea98967b46217720911213e1d4e0efe61254e7c3ecae4a9cc396800b5297&=&format=webp&quality=lossless&width=1404&height=780" width:200px/>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235639988943720499/image.png?ex=66351aea&is=6633c96a&hm=b26bea98967b46217720911213e1d4e0efe61254e7c3ecae4a9cc396800b5297&=&format=webp&quality=lossless&width=1404&height=780"/>
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -5478,7 +5478,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
      <th> Samira Alvarez </th> 
      <th> Done </th>
    </tr>
-     </tr>
      <tr>
       <th> E3-US12 </th>
      <th colspan="3"> Sube tus libros </th>
@@ -5629,7 +5628,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> chore(src): added ddd organization for the proyect folders </th>
    <th> </th>
    <th> 23/04/2024 </th>
-  </tr>
   
 <th> Frontend </th> 
    <th> main </th>
@@ -5637,7 +5635,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> chore(package.json): added angular material config </th>
    <th> </th>
    <th> 23/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5645,7 +5642,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(navbar): added navbar content </th>
    <th> </th>
    <th> 23/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5661,7 +5657,7 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> fix: Applied custom fonts and corrected navbar </th>
    <th> </th>
    <th> 24/04/2024 </th>
-  </tr>
+ 
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5669,7 +5665,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> fix: Corrected gapping in navbar </th>
    <th> </th>
    <th> 24/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5677,7 +5672,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: Added sidenav to responsive navbar </th>
    <th> </th>
    <th> 24/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5685,7 +5679,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(footer): added footer content </th>
    <th> </th>
    <th> 24/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5693,7 +5686,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: Added font awesome icons </th>
    <th> </th>
    <th> 24/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5701,7 +5693,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: add youtube and tiktok icons </th>
    <th> </th>
    <th> 24/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5709,7 +5700,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> chore(package.json): added tailwind configs </th>
    <th> </th>
    <th> 24/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> main </th>
@@ -5717,7 +5707,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> chore(package.json): added tailwind configs </th>
    <th> </th>
    <th> 24/04/2024 </th>
-  </tr>
 
   
 <th> Frontend </th> 
@@ -5726,7 +5715,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> chore(src): added ddd organization for monetization bounded context </th>
    <th> </th>
    <th> 25/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/monetization </th>
@@ -5734,7 +5722,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(monetization): added monetization hero and monetization steps content </th>
    <th> </th>
    <th> 25/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/monetization </th>
@@ -5742,7 +5729,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> style(monetization)/feat(monetization): change general styles and added steps section content </th>
    <th> </th>
    <th> 25/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/monetization </th>
@@ -5750,7 +5736,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> style(monetization)/feat(monetization): change general styles and added steps section content </th>
    <th> </th>
    <th> 25/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/monetization </th>
@@ -5758,7 +5743,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> chore(fake-api): cofigured api fake dependencies</th>
    <th> </th>
    <th> 25/04/2024 </th>
-  </tr>
 
 
 <th> Frontend </th> 
@@ -5767,7 +5751,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> fix(navbar)/feat(monetization): fixed navbar bug with xs screens and monetization hero added </th>
    <th> </th>
    <th> 25/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/monetization </th>
@@ -5775,7 +5758,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(db.json): added content in the api fake </th>
    <th> </th>
    <th> 26/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5783,7 +5765,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> chore: Add main-page components </th>
    <th> </th>
    <th> 26/04/2024 </th>
-  </tr>
 
  <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5791,7 +5772,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: add main-page </th>
    <th> </th>
    <th> 26/04/2024 </th>
-  </tr>
 
 
 <th> Frontend </th> 
@@ -5800,7 +5780,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(db.json): added user service </th>
    <th> </th>
    <th> 26/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5808,7 +5787,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: Add login components and linked to navbar </th>
    <th> </th>
    <th> 27/04/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/monetization </th>
@@ -5816,7 +5794,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(db.json): chore(shared): added share service </th>
    <th> </th>
    <th> 27/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5824,7 +5801,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: Add user register page </th>
    <th> </th>
    <th> 27/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5832,7 +5808,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: added artist user components</th>
    <th> </th>
    <th> 27/04/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5840,7 +5815,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> fix: updated in app.component index</th>
    <th> </th>
    <th> 27/04/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5848,7 +5822,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> chore(angular.json)/feat(my-theme.scss): Added new styles and its config </th>
    <th> </th>
    <th> 28/04/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5856,7 +5829,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: added writer profile components</th>
    <th> </th>
    <th> 28/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5864,7 +5836,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: add fake-api and api service </th>
    <th> </th>
    <th> 28/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5872,7 +5843,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(book-publish-stepper): Added component </th>
    <th> </th>
    <th> 28/04/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5880,7 +5850,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: add fake-api and api service </th>
    <th> </th>
    <th> 28/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5888,7 +5857,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: added components to writer profile edit</th>
    <th> </th>
    <th> 28/04/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5896,7 +5864,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: Add fake-api and api services</th>
    <th> </th>
    <th> 28/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5904,7 +5871,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(book-publish-stepper): Added components and styles </th>
    <th> </th>
    <th> 28/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5912,7 +5878,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: add book profile component </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5920,7 +5885,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> fix: update index.html to app component</th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5928,7 +5892,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat (shared): add components folder and book details component </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5936,7 +5899,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat (pages): add book-detail component </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5944,7 +5906,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(content): added popular page </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5952,7 +5913,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(book-publish-page)/chore(app.ts): Added component to page and import it to app </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5960,7 +5920,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(the-book-details-edit-tabview): Created component </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5968,7 +5927,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(book-details-edit-page): Created page and added component </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -5976,7 +5934,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat(details-edit-page): Added toolbar </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 
 <th> Frontend </th> 
@@ -5985,7 +5942,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: Add data to db.json </th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -5993,7 +5949,7 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> refactor(db.json): adapted service with database</th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
+
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -6001,7 +5957,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: Linked user register with service</th>
    <th> </th>
    <th> 29/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -6009,7 +5964,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th> feat: added connected fake api</th>
    <th> </th>
    <th> 30/04/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -6017,7 +5971,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat: Add the-user-edit-account in components file</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/collaboration </th>
@@ -6025,7 +5978,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat: Add the-artist-room in components</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -6033,7 +5985,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat(the-book-profile): connect with API</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/user </th>
@@ -6041,7 +5992,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>fix: user-edit.account in page</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -6049,7 +5999,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat(content)/feat(book.service): added the-book-details section and added services for edit 		chapter</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -6057,7 +6006,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat: Add Chapter in components</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
   
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -6065,15 +6013,13 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat: completed main-page</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
-  
+
 <th> Frontend </th> 
    <th> bounded-context/content </th>
    <th> 3eb2f7c6b05ed31bf297696c8bf0ccea4561c4b2</th>
    <th>feat (pages): add book genre page</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/content </th>
@@ -6081,7 +6027,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat(the-about): Added page and its component</th>
    <th> </th>
    <th> 01/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/collaboration </th>
@@ -6089,7 +6034,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat(collaboration): added chat section feature</th>
    <th> </th>
    <th> 02/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> bounded-context/collaboration </th>
@@ -6097,7 +6041,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat(collaboration)/feat(chat-service): added services for create chat and delete chatRoom and their implementions</th>
    <th> </th>
    <th> 02/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> develop </th>
@@ -6105,7 +6048,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>Merge remote-tracking branch 'origin/bounded-context/user' into develop</th>
    <th> </th>
    <th> 02/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> develop </th>
@@ -6113,7 +6055,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>Merge remote-tracking branch 'origin/bounded-context/content' into develop</th>
    <th> </th>
    <th> 02/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> develop </th>
@@ -6121,7 +6062,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>Merge remote-tracking branch 'origin/bounded-context/collaboration' into develop</th>
    <th> </th>
    <th> 02/05/2024 </th>
-  </tr>
 
   <th> Frontend </th> 
    <th> develop </th>
@@ -6129,7 +6069,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>Merge remote-tracking branch 'origin/bounded-context/monetization' into develop</th>
    <th> </th>
    <th> 02/05/2024 </th>
-  </tr>
 
 <th> Frontend </th> 
    <th> develop </th>
@@ -6137,7 +6076,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>fix: Corrected routes</th>
    <th> </th>
    <th> 02/05/2024 </th>
-  </tr>
   
 <th> Frontend </th> 
    <th> develop </th>
@@ -6145,7 +6083,6 @@ Link de Trello: https://trello.com/b/l9h5ClNc/artcollab-sprint2
    <th>feat: Add deployed api</th>
    <th> </th>
    <th> 02/05/2024 </th>
-  </tr>
 
 
 </table>
@@ -6473,7 +6410,6 @@ Tabla de integrantes:
      <th>  7 </th>
      <th> Camila Amaro </th> 
      <th> To Do</th>
-   </tr>
    </tr>
 </table>
 
@@ -6928,6 +6864,100 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 #### Anexo: Colaboration Insights en el periodo de 1 mes
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1235673642525003957/image.png?ex=66353a42&is=6633e8c2&hm=259618b54ba1049f154d68cd811efbc34ff3cb4b3574cc1308ca784cfb63f671&=&format=webp&quality=lossless&width=1113&height=1002"/>
+
+# Sprint 4
+
+### 5.2.4.6 Services Documentation Evidence for Sprint Review.
+
+En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
+En el alcance del sprint, se han desarollado los bounded context de monetization, collaboration, user y content.
+
+Se adjunta el link del repositorio de la API en Github.: https://github.com/Open-Source-SW54-Group-3-ArtCollab/API
+
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> User Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/Reader </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1249000958273257574/image.png?ex=6665b649&is=666464c9&hm=53aad189368b6aa74b6917a6e2932c78807186b0e9016802135f84113415288f&=&format=webp&quality=lossless&width=1072&height=176"> </th>
+</tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Content Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/content/Template </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1249000077545177169/image.png?ex=6665b577&is=666463f7&hm=f3693a0b443f3087b779585a9695d4799309e802aa8be294800b77bc1ab891bc&=&format=webp&quality=lossless&width=1060&height=176"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248992165112316047/image.png?ex=6665ae19&is=66645c99&hm=a1abcab2c05ac27818f260ea119db146b491febdbefb3b8893521226b4dd49c2&=&format=webp&quality=lossless&width=1084&height=280"> </th>
+  </tr>
+
+<tr>
+    <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+     <th style="text-align:center;"> <strong> api/v1/payments </strong> </th>
+     <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1254202096731951115/image.png?ex=6678a239&is=667750b9&hm=e701fb66ffc420d1cdaaaf5ec9b7bd6a15ac0120ae6b99e7678661fc4534ab74&=&format=webp&quality=lossless&width=1080&height=151"> </th>
+</tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248997930451468320/image.png?ex=6665b377&is=666461f7&hm=42d07ad838a12c7d07b7d184a109c545048b38df6617e78f5bbb29191b4fe57a&=&format=webp&quality=lossless&width=1072&height=176"> </th>
+  </tr>
+
+<tr>
+   <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248991780884447262/image.png?ex=6665adbd&is=66645c3d&hm=ab510cdf3d7980331fb513f1a1bfd934f39ca164577315444232afbe8612d210&=&format=webp&quality=lossless&width=2152&height=608"> </th>
+  </tr>
+
+</table>
+
+
+### 5.2.4.7 Software Deployment Evidence for Sprint Review.
+
+Para el presente sprint, se ha desarollado el API  de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del API.
+
+<ul>
+<li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. </li>
+<li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+<li> GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta para probar y documentar nuestra API. </li>
+
+</ul>
+
+
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+#### Anexo: flujo de trabajo entre las ramas
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254220218138624031/image.png?ex=6678b31a&is=6677619a&hm=16c4195efb99a3da50f5599bef3910be4af29268111cb8bec22351ecf1689fa5&"/>
+
+#### Anexo: tablas de commits en el periodo de 1 mes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254221811168710656/image.png?ex=6678b496&is=66776316&hm=2600a22f254a93d21d58ce3da3dd7bad34badf881a6a9479d38a18d6855fc063&"/>
+
+#### Anexo: Flujo de trabajo en el periodo de 1 mes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254226409421934693/image.png?ex=6678b8de&is=6677675e&hm=3ae9b80cb5e948d440ab3d034f245347f46990afb75924b1f8103b689f4723e4&"/>
+
+#### Anexo: Colaboration Insights en el periodo de 1 mes
+
+<img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254221728201314314/image.png?ex=6678b482&is=66776302&hm=5d901d8c2b7492caa4515e4f96ab16c7287cd0ff9dfd10635b738d28bda7ebfc&"/>
+
 
 ## 5.3 Validation Interviews
 
