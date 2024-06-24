@@ -2035,7 +2035,6 @@ Enlace de Miro: https://miro.com/app/board/uXjVKXvjT-4=/?share_link_id=428179149
 </tbody>
 </table>
 
-<table>
 </tr>
 <tr class="even">
 <td>E1-US01</td>
@@ -7617,7 +7616,7 @@ Se puede acceder a nuestra API desde el siguiente link: https://api-production-5
   <tr>
    <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/users/monetization/Commission </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248992165112316047/image.png?ex=6665ae19&is=66645c99&hm=a1abcab2c05ac27818f260ea119db146b491febdbefb3b8893521226b4dd49c2&=&format=webp&quality=lossless&width=1084&height=280"> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1254937613559922758/image.png?ex=667b4f3a&is=6679fdba&hm=02277a0fcd90ed770902b49365b18b5e7037c8b09805a85aab9600b896d83440&"> </th>
   </tr>
 
 <tr>
@@ -7629,13 +7628,13 @@ Se puede acceder a nuestra API desde el siguiente link: https://api-production-5
   <tr>
    <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
-    <th> <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254853228953342043/image.png?ex=667b00a3&is=6679af23&hm=8a7301194ab13a3063c7a3bc61612842f9382b69e609f1f46f2c4e3bf78eda16&"> </th>
+    <th> <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254937645164007496/image.png?ex=667b4f42&is=6679fdc2&hm=8f0869adc9aa59a139c653cdbeb7dda2badd5789aaf0f3b3b0f037171e5b38ec&"> </th>
   </tr>
 
 <tr>
    <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248991780884447262/image.png?ex=6665adbd&is=66645c3d&hm=ab510cdf3d7980331fb513f1a1bfd934f39ca164577315444232afbe8612d210&=&format=webp&quality=lossless&width=2152&height=608"> </th>
+    <th> <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254937864089894954/image.png?ex=667b4f76&is=6679fdf6&hm=33a1b434ec0a2f562eaa3c6bc9af2cb6421178f6fc3993ee870154fd3bc51fe3&"> </th>
   </tr>
 
 <tr>
