@@ -262,6 +262,9 @@ Se avanzo con el desarrollo del frontend de la aplicación web, asegurando su de
 TB2 <br>
 Se mejoró el frontend de nuestro aplicativo, añadiendo la opción de poder subir y editar libros. También se desarrolló la primera versión del backend, aplicando buenas prácticas de desarrollo para asegurar un código limpio y bien estructurado. Además, se agregó documentación completa para cada endpoint de los métodos CRUD, facilitando su uso y comprensión para los desarrolladores.
 
+TF1 <br>
+El desarrollo del backend se ha completado con éxito, incluyendo la adición de JavaDocs y la implementación de IAM para la gestión segura de accesos. El backend ha sido desplegado, permitiendo su conexión con el frontend y asegurando un funcionamiento coordinado y optimizado del sistema.
+
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
@@ -316,9 +319,11 @@ TB2 <br>
 Durante el sprint 3, asumí la responsabilidad de coordinar al equipo con respecto a las tareas realizadas en el backend. Me aseguré de que la arquitectura del sistema fuera consistente con los requisitos y alcances establecidos por el profesor, y de que las funcionalidades implementadas cumplieran con las expectativas. Además, supervisé el progreso de las tareas, resolví problemas técnicos y me aseguré de que el equipo trabajara de manera eficiente y colaborativa para alcanzar nuestros objetivos.
 
 </td>
-            <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.</td>
-            <td> TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes dle grupo. </td>
-            <td> TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
+            </td> TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.
+            
+TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes del grupo. 
+            
+TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
 
             
 
@@ -338,6 +343,9 @@ Para la entrega del segundo avance del trabajo, se completaron los requisitos es
 
 TB2 <br>
 Para esta tercera entrega del proyecto, se aplicaron mejoras al frontend y se avanzó con la primera versión del backend, al igual que se realizaron entrevistas de validación a los segmentos objetivo para recoger mejoras para nuestro aplicativo. Además, se realizaron los videos about the product y about the team donde pudimos hacer una retrospectiva del trabajo realizado.
+
+TF1 <br>
+Para este último avance del trabajo, se termino de completar el backend y se procedió con el despliegue de este y de la base de datos. Asimismo, se realizó una refactorización del código para poder aplicarle la arquitectura DDD y el patrón CQRS, los cuales fueron de gran ayuda para una mejora y mantenibilidad del código. Además, se agrego la documentación conrrespondiente por medio de JavaDocs y se realizó la última versión del video about the product con las mejoras aplicadas.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
@@ -387,13 +395,13 @@ En esta tercera entrega del proyecto, se realizaron mejoras en el frontend y se 
 
 </td>
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
+            
+            
+TP: 
+En esta etapa del proyecto, se realizo la implementación del frontend de la web app siguiendo un enfoque de DDD y siguiendo las lineaciones establecidas por nuestras historias de usuario. Se aplicaron temas realcionados al desarollo de interfaces de usuario, tales como principios de UX design como también Inclusive design.
 
 
-  <td> TP: 
-En esta etapa del proyecto, se realizo la implementación del frontend de la web app siguiendo un enfoque de DDD y siguiendo las lineaciones establecidas por nuestras historias de usuario. Se aplicaron temas realcionados al desarollo de interfaces de usuario, tales como principios de UX design como también Inclusive design.</td>
-
-
-<td>TB2: 
+TB2: 
 En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo una ddd y considerando nuestras technical user stories, como también las historias de usuario realacionadas a los requisitos no funcionales. Se aplicaron temas como cqrs architecture y ddd asi como buenas practicas en el desarollo de servicios web en Spring, asi como también se hizo uso de algunos de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov substitute.</td>
        <tr>
 </table>
