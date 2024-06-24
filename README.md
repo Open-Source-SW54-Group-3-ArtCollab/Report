@@ -7679,10 +7679,19 @@ Se tiene que configurar el tamaño de los textos para que puedan tener un tamañ
 ## 5.4 Video About-the-Product
 En esta sección se encuentra el Video About the Product, donde promocionamos al aplicativo al mostrar las principales características de la app de ArtCollab, comprende introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
 
+Primera versión del video:
+
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1249036361462190110/image.png?ex=6665d742&is=666485c2&hm=118421d606914678d8d6e85ec88f3184b061a6d55133ed28a4aee9862934fe98&=&format=webp&quality=lossless&width=550&height=305" alt="Primera versión video about the product">
 
 Enlace al video:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/ESoCY_DVbWxLiBwKyfbnRgABPZnvcLGgSxAqdqmjGyB-SQ?e=I1soWz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Versión final del video:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1254594556494610473/image.png?ex=667a0fbb&is=6678be3b&hm=25e6c1531816cb8b770dd5c645823a6e12f89f2c7c9e8949b5cf28cf34f08c81&=&format=webp&quality=lossless" alt="Última versión video about the product">
+
+Enlace al video:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EW8KUxI4GvZFjPeV9DbsnYEBxXIQtVDlYC_lpBeqymA47A?e=EFD1la&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 En conclusión, nuestro proyecto se basa en un profundo análisis de las necesidades de nuestros usuarios, respaldado por entrevistas y análisis exhaustivos. Hemos identificado áreas clave de mejora y formulado hipótesis sólidas que guiarán nuestro enfoque hacia el éxito de la plataforma.
