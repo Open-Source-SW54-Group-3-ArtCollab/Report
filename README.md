@@ -262,6 +262,9 @@ Se avanzo con el desarrollo del frontend de la aplicación web, asegurando su de
 TB2 <br>
 Se mejoró el frontend de nuestro aplicativo, añadiendo la opción de poder subir y editar libros. También se desarrolló la primera versión del backend, aplicando buenas prácticas de desarrollo para asegurar un código limpio y bien estructurado. Además, se agregó documentación completa para cada endpoint de los métodos CRUD, facilitando su uso y comprensión para los desarrolladores.
 
+TF1 <br>
+El desarrollo del backend se ha completado con éxito, incluyendo la adición de JavaDocs y la implementación de IAM para la gestión segura de accesos. El backend ha sido desplegado, permitiendo su conexión con el frontend y asegurando un funcionamiento coordinado y optimizado del sistema.
+
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 En el avance del trabajo se hizo mediante branches para la colaboracion en la creacion del informe. Además de la colaboracion de todos para las entrevistas ayudaron a recolectar informacion ayudando asi al informe, se aplico el mismo sistema de branches para la creacion de la landing page se pudo colaborar con un mejor rendimiento.
@@ -294,6 +297,9 @@ En este avance del trabajo, se realizó la programación de la parte de frontend
 TB2 <br>
 En este avance del trabajo, se ha trabajado en equipo para realizar la implementación de los servicios de la aplicación web distribuyendo las tareas  por las historias de usuario asignadas.
 
+TF1 <br>
+En esta última entrega, se ha completado con éxito el desarrollo del backend de la aplicación, se distribuyó el trabajo restante entre los miembros del equipo y se ha documentado el proceso de desarrollo siguiendo las buenas prácticas de programación y el uso de herramientas de gestión de proyectos.
+
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
 Durante el avance del presente trabajo cada integrante del grupo trabajo mediante diferentes ramas en el repositorio segun la division pactada previamente. Además, en el grupo pudimos coordinar nuestros avances y colaborar como equipo para mejorar las correcciones brindadas por nuestro profesor.
@@ -316,11 +322,13 @@ TB2 <br>
 Durante el sprint 3, asumí la responsabilidad de coordinar al equipo con respecto a las tareas realizadas en el backend. Me aseguré de que la arquitectura del sistema fuera consistente con los requisitos y alcances establecidos por el profesor, y de que las funcionalidades implementadas cumplieran con las expectativas. Además, supervisé el progreso de las tareas, resolví problemas técnicos y me aseguré de que el equipo trabajara de manera eficiente y colaborativa para alcanzar nuestros objetivos.
 
 </td>
-            <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.</td>
-            <td> TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes dle grupo. </td>
-            <td> TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
 
+<td> TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio. <br>
             
+TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes del grupo. <br>
+            
+TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. 
+</td>         
 
   <tr>
             <td align = "center">Conoce al menos un sector
@@ -338,6 +346,9 @@ Para la entrega del segundo avance del trabajo, se completaron los requisitos es
 
 TB2 <br>
 Para esta tercera entrega del proyecto, se aplicaron mejoras al frontend y se avanzó con la primera versión del backend, al igual que se realizaron entrevistas de validación a los segmentos objetivo para recoger mejoras para nuestro aplicativo. Además, se realizaron los videos about the product y about the team donde pudimos hacer una retrospectiva del trabajo realizado.
+
+TF1 <br>
+Para este último avance del trabajo, se termino de completar el backend y se procedió con el despliegue de este y de la base de datos. Asimismo, se realizó una refactorización del código para poder aplicarle la arquitectura DDD y el patrón CQRS, los cuales fueron de gran ayuda para una mejora y mantenibilidad del código. Además, se agrego la documentación conrrespondiente por medio de JavaDocs y se realizó la última versión del video about the product con las mejoras aplicadas.
 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
@@ -370,6 +381,8 @@ En este avance del trabajo, se hizo uso de los servicios de búsqueda http para 
 TB2 <br>
 En este avance del trabajo, se codificaron los servicios del api para la aplicación web usando el framework de Spring Boot, haciendo uso de buenas prácticas de programación y diseño de software.
 
+TF1 <br>
+En esta última entrega del proyecto, se implementaron los servicios de IAM para la gestión segura de accesos a la aplicación, así como la documentación de los endpoints de la API. Además, se completó la implementación del backend y se desplegó la aplicación, asegurando su disponibilidad para los usuarios finales.
 
 Jave Diaz,  Mathias Alejandro <br>
 TB1 <br>
@@ -386,14 +399,14 @@ TB2 <br>
 En esta tercera entrega del proyecto, se realizaron mejoras en el frontend y se avanzó con la primera versión del backend. También se llevaron a cabo entrevistas de validación con los segmentos objetivo para obtener sugerencias y mejoras para nuestra aplicación. Además, se produjeron los videos "About the Product" y "About the Team", en los cuales hicimos una retrospectiva del trabajo realizado.
 
 </td>
-            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
+            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.<br>
+            
+
+TP: 
+En esta etapa del proyecto, se realizo la implementación del frontend de la web app siguiendo un enfoque de DDD y siguiendo las lineaciones establecidas por nuestras historias de usuario. Se aplicaron temas realcionados al desarollo de interfaces de usuario, tales como principios de UX design como también Inclusive design.<br>
 
 
-  <td> TP: 
-En esta etapa del proyecto, se realizo la implementación del frontend de la web app siguiendo un enfoque de DDD y siguiendo las lineaciones establecidas por nuestras historias de usuario. Se aplicaron temas realcionados al desarollo de interfaces de usuario, tales como principios de UX design como también Inclusive design.</td>
-
-
-<td>TB2: 
+TB2: 
 En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo una ddd y considerando nuestras technical user stories, como también las historias de usuario realacionadas a los requisitos no funcionales. Se aplicaron temas como cqrs architecture y ddd asi como buenas practicas en el desarollo de servicios web en Spring, asi como también se hizo uso de algunos de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov substitute.</td>
        <tr>
 </table>
@@ -8107,7 +8120,7 @@ Además, para asegurar una documentación clara y accesible del código, utiliza
 
 En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para tanto el Web Application y API, donde mostramos sesiones del trabajo del equipo. Además de otros detalles relacionados al planeamiento de la idea como historias de usuario y diseño de la aplicación.
 
-Asimismo, de manera general como equipo mediante la realización de este proyecto logramos incrementar nuestros conocimientos tanto de desarrollo frontend como backend y poder tener una primera expereiencia elaborando un aplicativo web completo.
+Asimismo, de manera general como equipo mediante la realización de este proyecto logramos incrementar nuestros conocimientos tanto de desarrollo frontend como backend y poder tener una primera experiencia elaborando un aplicativo web completo.
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1249032297085407263/image.png?ex=6665d379&is=666481f9&hm=4916068951891bfd6c97ca494b0f4b82aa8fda7ba2b69da0c15895f146b9b0b9&=&format=webp&quality=lossless&width=550&height=306" alt="Primera versión video about the team">
 
@@ -8134,3 +8147,5 @@ R. Incertis, R. (2023, marzo 20). De internet a las estanterías: cómo Wattpad 
 | Prototypes Navigation/ Product Navigation | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERxd8dcIJ_RNuuE2NKI5LokBzgR-IeQRRlekPx7_ksMBXg?e=mrKqUY |
 | Video grupal del TP1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVE7QCZGO-xPv40eEb8CMFcBSwIEhpJhjzO3iuuIl71CQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=r3MCby |
 | Validation interviews | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| About the product | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EW8KUxI4GvZFjPeV9DbsnYEBxXIQtVDlYC_lpBeqymA47A?e=EFD1la&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| About the team| https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EWSN7cFZ3HVLgYJ9H09_E6UBj9L_Ched1tNB2A1-O41VdQ?e=wrKdo9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
