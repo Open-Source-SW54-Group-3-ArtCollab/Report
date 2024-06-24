@@ -311,6 +311,9 @@ Durante el sprint 2 me encargue de realizar tareas relacionadas al consumo y fun
 TB2 <br>
 Durante el sprint 3 me encargue de gestionar al equipo con respecto a las tareas realizadas en el backend, me encargue de que la arquitectura sea consistente con los alcances brindados por el profesor y de que la funcionalidad sea la esperada.
 
+TF1 <br>
+En esta ùltima entrega, hemos cumplido con exito los requerimientos establecidos en nuestros technical user stories, el equipo aporto significativamente en el proceso de desarollo del presente trabajo. Asimismo, en el grupo pudimos aprender sobre nuestros errores en las entregas pasadas y pudimos hacer hincapie en solucionar dichos percances.
+
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
@@ -413,7 +416,13 @@ En esta etapa del proyecto, se realizo la implementación del frontend de la web
 
 
 TB2: 
-En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo una ddd y considerando nuestras technical user stories, como también las historias de usuario realacionadas a los requisitos no funcionales. Se aplicaron temas como cqrs architecture y ddd asi como buenas practicas en el desarollo de servicios web en Spring, asi como también se hizo uso de algunos de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov substitute.</td>
+En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo un enfoque ddd y considerando nuestras technical user stories como parte de nuestros requisitos no funcionales. Se aplicaron temas como cqrs architecture y ddd asi como buenas practicas en el desarollo de servicios web en Spring, asi como también se hizo uso de algunos de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov .
+substitute.
+
+TF1: 
+En esta etapa del proyecto, se realizo la implementación completa del backend de la web app siguiendo un enfoque ddd y considerando nuestras technical user stories como parte de nuestros requisitos no funcionales, se agregaron temas con la seguridad de nuestra API usando JWT y el esquema de bearer authentication.
+
+</td>
        <tr>
 </table>
 
@@ -7518,6 +7527,29 @@ En esta sección se mostrará la tabla de commits desarrollados en el presente s
     <td> 22/06/24 </td>
   </tr>
 </table>
+
+### 5.2.4.4 Testing Suite Evidence for Sprint Review.
+
+En este sprint no se han realizado pruebas de aceptación, ya que fueron completadas en el sprint pasado según las épicas que se establecieron al inicio del proyecto.
+Se pueden acceder a las pruebas de aceptación mediante el siguiente link: https://github.com/Open-Source-SW54-Group-3-ArtCollab/Acceptance-Tests 
+
+### 5.2.4.5 Execution Evidence for Sprint Review.
+
+Para el presente sprint se hicieron cambios en el Frontend de la aplicación, según las nuevas necesidades ante la implementación de la API. Estos cambios involucran nuevas vistas para las transacciones que pueden realizar los usuarios en nuestra aplicación. Dichos pagos serán procesados a través de la plataforma de Paypal, donde tienen la opción de realizar un pago con una tarjeta de débito o crédito.
+ 
+Se puede acceder a nuestra aplicación web desde el siguiente link https://inspiring-scone-9e6028.netlify.app/home 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1254831779320434788/suscripcion-paypal.PNG?ex=667aeca9&is=66799b29&hm=c66fe1383c6875e0a8141ab0ae29ea542907f5ebd6caa7b6fee47470bb76c697&=&format=webp&quality=lossless&width=1740&height=1002"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1254831777760149595/pago-exito-paypal.PNG?ex=667aeca9&is=66799b29&hm=cfe20e69ecf79dc3c3e1e2f71b173e14aa69995640d948eaa59d380d6dedb5bf&=&format=webp&quality=lossless&width=1756&height=1002">
+
+<br>
+
+Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma Railway para su despliegue.
+
+Se puede acceder a nuestra API desde el siguiente link: https://api-production-5c23.up.railway.app/ 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1254831779739598979/despliegue-api.jpg?ex=667aeca9&is=66799b29&hm=00d641d4f8c9ff0fda0a074f64824e80e42825f8e3c4fc8cb3456d83862a54f1&=&format=webp&width=1920&height=961">
 
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.
 
