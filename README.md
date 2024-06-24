@@ -82,6 +82,14 @@ TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales h
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1249063455151882351/image.png?ex=6665f07e&is=66649efe&hm=0c05e750cbcc69ffd864ccb55cfe0766b393cc10bf87121a403c381d4ec290e8&=&format=webp&quality=lossless&width=642&height=592" alt="Report Commits TB2"/>
 
+TF1: Se han cumplido las tareas designadas para la entrega del TF1, las cuales han sido debidamente documentadas en el repositorio de GitHub de la organización del equipo: [Repositorio Github](https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report).
+
+- Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio. 
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas.
+- Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 3, centrado en concluir desarrollo de la API y proceder a su despliegue.
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1254927356854796348/image.png?ex=667b45ad&is=6679f42d&hm=ff92109ebb1d5bc7af674c6c45e15aec0f505ac6bfe872085cb2f9829e91a84f&=&format=webp&quality=lossless&width=725&height=671" alt="Report Commits TF1"/>
+
 <br>
 
 ---
@@ -218,14 +226,23 @@ TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales h
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.2.3. Sprint 3](#523-sprint-3)
-    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-2)
-    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-2)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
     - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
     - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
     - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 3](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 3](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
