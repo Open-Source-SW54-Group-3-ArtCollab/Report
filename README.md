@@ -7525,6 +7525,29 @@ En esta sección se mostrará la tabla de commits desarrollados en el presente s
   </tr>
 </table>
 
+### 5.2.4.4 Testing Suite Evidence for Sprint Review.
+
+En este sprint no se han realizado pruebas de aceptación, ya que fueron completadas en el sprint pasado según las épicas que se establecieron al inicio del proyecto.
+Se pueden acceder a las pruebas de aceptación mediante el siguiente link: https://github.com/Open-Source-SW54-Group-3-ArtCollab/Acceptance-Tests 
+
+### 5.2.4.5 Execution Evidence for Sprint Review.
+
+Para el presente sprint se hicieron cambios en el Frontend de la aplicación, según las nuevas necesidades ante la implementación de la API. Estos cambios involucran nuevas vistas para las transacciones que pueden realizar los usuarios en nuestra aplicación. Dichos pagos serán procesados a través de la plataforma de Paypal, donde tienen la opción de realizar un pago con una tarjeta de débito o crédito.
+ 
+Se puede acceder a nuestra aplicación web desde el siguiente link https://inspiring-scone-9e6028.netlify.app/home 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1254831779320434788/suscripcion-paypal.PNG?ex=667aeca9&is=66799b29&hm=c66fe1383c6875e0a8141ab0ae29ea542907f5ebd6caa7b6fee47470bb76c697&=&format=webp&quality=lossless&width=1740&height=1002"/>
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1254831777760149595/pago-exito-paypal.PNG?ex=667aeca9&is=66799b29&hm=cfe20e69ecf79dc3c3e1e2f71b173e14aa69995640d948eaa59d380d6dedb5bf&=&format=webp&quality=lossless&width=1756&height=1002">
+
+<br>
+
+Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma Railway para su despliegue.
+
+Se puede acceder a nuestra API desde el siguiente link: https://api-production-5c23.up.railway.app/ 
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1254831779739598979/despliegue-api.jpg?ex=667aeca9&is=66799b29&hm=00d641d4f8c9ff0fda0a074f64824e80e42825f8e3c4fc8cb3456d83862a54f1&=&format=webp&width=1920&height=961">
+
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.
 
 En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
