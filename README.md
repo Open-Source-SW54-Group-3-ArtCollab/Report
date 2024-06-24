@@ -7722,7 +7722,7 @@ Además, para asegurar una documentación clara y accesible del código, utiliza
 
 En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para tanto el Web Application y API, donde mostramos sesiones del trabajo del equipo. Además de otros detalles relacionados al planeamiento de la idea como historias de usuario y diseño de la aplicación.
 
-Asimismo, de manera general como equipo mediante la realización de este proyecto logramos incrementar nuestros conocimientos tanto de desarrollo frontend como backend y poder tener una primera expereiencia elaborando un aplicativo web completo.
+Asimismo, de manera general como equipo mediante la realización de este proyecto logramos incrementar nuestros conocimientos tanto de desarrollo frontend como backend y poder tener una primera experiencia elaborando un aplicativo web completo.
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1249032297085407263/image.png?ex=6665d379&is=666481f9&hm=4916068951891bfd6c97ca494b0f4b82aa8fda7ba2b69da0c15895f146b9b0b9&=&format=webp&quality=lossless&width=550&height=306" alt="Primera versión video about the team">
 
@@ -7749,3 +7749,5 @@ R. Incertis, R. (2023, marzo 20). De internet a las estanterías: cómo Wattpad 
 | Prototypes Navigation/ Product Navigation | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERxd8dcIJ_RNuuE2NKI5LokBzgR-IeQRRlekPx7_ksMBXg?e=mrKqUY |
 | Video grupal del TP1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVE7QCZGO-xPv40eEb8CMFcBSwIEhpJhjzO3iuuIl71CQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=r3MCby |
 | Validation interviews | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EVF92_879ntGnkkNUZv8xJABbHFC_ugBz8OLhYnvSnY0OA?e=CmAdnz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| About the product | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EW8KUxI4GvZFjPeV9DbsnYEBxXIQtVDlYC_lpBeqymA47A?e=EFD1la&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| About the team| https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114248_upc_edu_pe/EWSN7cFZ3HVLgYJ9H09_E6UBj9L_Ched1tNB2A1-O41VdQ?e=wrKdo9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
