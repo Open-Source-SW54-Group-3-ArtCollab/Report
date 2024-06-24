@@ -321,6 +321,9 @@ El desarrollo del frontend de la aplicación web ha avanzado significativamente,
 TB2 <br>
 Durante el sprint 3, asumí la responsabilidad de coordinar al equipo con respecto a las tareas realizadas en el backend. Me aseguré de que la arquitectura del sistema fuera consistente con los requisitos y alcances establecidos por el profesor, y de que las funcionalidades implementadas cumplieran con las expectativas. Además, supervisé el progreso de las tareas, resolví problemas técnicos y me aseguré de que el equipo trabajara de manera eficiente y colaborativa para alcanzar nuestros objetivos.
 
+TF1 <br>
+El desarrollo del backend se ha finalizado exitosamente, incorporando JavaDocs y la implementación de IAM para la gestión segura de accesos. El backend ha sido desplegado, permitiendo su integración con el frontend y garantizando un funcionamiento conjunto y eficiente del sistema.
+
 </td>
 
 <td> TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio. <br>
@@ -397,6 +400,9 @@ Para la entrega del segundo hito del proyecto, se cumplieron los requisitos esta
 
 TB2 <br>
 En esta tercera entrega del proyecto, se realizaron mejoras en el frontend y se avanzó con la primera versión del backend. También se llevaron a cabo entrevistas de validación con los segmentos objetivo para obtener sugerencias y mejoras para nuestra aplicación. Además, se produjeron los videos "About the Product" y "About the Team", en los cuales hicimos una retrospectiva del trabajo realizado.
+
+TF1 <br>
+En este último avance del proyecto, se completó el backend y se realizó su despliegue junto con el de la base de datos. También se llevó a cabo una refactorización del código para implementar la arquitectura DDD y el patrón CQRS, lo cual mejoró significativamente la calidad y mantenibilidad del código. Además, se añadió la documentación correspondiente mediante JavaDocs y se creó la versión final del video sobre el producto, destacando las mejoras realizadas.
 
 </td>
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.<br>
