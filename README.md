@@ -286,6 +286,9 @@ Para este avance del trabajo donde se desarrollo de la parte frontend de nuestra
 TB2 <br>
 Para esta entrega, los endpoints de la API fueron distribuidos de acuerdo con el bounded context, siguiendo los requerimientos definidos en los avances anteriores. Además, hemos gestionado el progreso de este sprint mediante una comunicación continua durante el desarrollo de cada tarea, lo cual facilitó el seguimiento y el monitoreo del estado de cada tarea a lo largo de esta fase del sprint.
 
+TF <br>
+Para esta entrega final, cada integrante ha terminado satisfactoriamente las tareas restantes de la API, así como se ha colaborado para la correcta documentación del Backend de la aplicación. De igual forma, fueron repartidos los puntos finales respecto al reporte. 
+
 Huilca Chipana, Gustavo <br>
 TB1 <br>
 En este avance del trabajo, se ha trabajado en equipo para realizar las entrevistas a los usuarios y obtener información relevante para el desarrollo de la aplicación. Además, se ha colaborado en la creación de los mockups y prototipos de la aplicación web, así como en el desarrollo en código de la Landing page.
@@ -375,6 +378,9 @@ Durante este avance del trabajo, hemos desarrollado los componentes que conforma
 
 TB2 <br>
 En este avance del proyecto, se ha completado la integración inicial de nuestra aplicación con la API de PayPal para gestionar transacciones internas, como suscripciones o compras de monedas. Además, se ha planificado el desarrollo de nuevas vistas en el frontend para una integración más completa con la API, con el objetivo de hacer la experiencia de compra más intuitiva y confiable para el usuario.
+
+TF <br>
+En este último avance del proyecto, se ha terminado la documentación de cada endpoint de la API. De igual forma, se desarrollaron las nuevas vistas en el frontend de la aplicación para la integración de la API con Paypal que se habían proyectado anteriormente. Esto incluye pantallas según el pago que realiza el usuario, así como los estados de la transacción.
 
 Huilca Chipana, Gustavo <br>
 TB1<br>
