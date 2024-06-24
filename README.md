@@ -340,6 +340,8 @@ El desarrollo del backend se ha finalizado exitosamente, incorporando JavaDocs y
 TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes del grupo. <br>
             
 TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. 
+
+TF1: Como equipo, coordinamos los tiempos de entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para cada funcionalidad con el fin de evitar contratiempos al momento de realizar el merge, también logramos exitosamente el deployment de nuestro backend gracias a la coordinación en equipo para cumplir a tiempo las tareas asignadas, por lo tanto destacamos la coordinación y comunicación constante como parte de nuestros factores de éxito.
 </td>         
 
   <tr>
