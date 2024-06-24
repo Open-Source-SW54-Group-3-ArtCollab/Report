@@ -7107,6 +7107,399 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
    </tr>
    </table>
 
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+En esta sección se mostrará la tabla de commits desarrollados en el presente sprint.
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+    <th> <strong> Commit Message (Body) </strong> </th>
+    <th> <strong> Commited on (Date) </strong> </th>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US23 </td>
+    <td> c34a752 </td>
+    <td> feat(user): added crud methods </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US23 </td>
+    <td> 1fecf87 </td>
+    <td> refactor(reader): refactored reader bounded context code </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US23 </td>
+    <td> d070aac </td>
+    <td> feat: added auditable abstract aggregate root </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US23 </td>
+    <td> 20fb7ae </td>
+    <td> feat: Add Documentation </td>
+    <td></td>
+    <td> 08/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US15 </td>
+    <td> 24b1a3c </td>
+    <td> docs(monetization/iam): documented controllers methods </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US15 </td>
+    <td> 68c1b26 </td>
+    <td> feat(monetization): added exceptions </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US15 </td>
+    <td> 1eb944e </td>
+    <td> feat(monetization): added invalid commition exception </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US15 </td>
+    <td> a2b37d4 </td>
+    <td> feat: added iam and jwt configuration </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US15 </td>
+    <td> b974a65 </td>
+    <td> docs(monetization): documented controllers </td>
+    <td></td>
+    <td> 20/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US13 </td>
+    <td> 8b22466 </td>
+    <td> docs(content): Added comments </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US13 </td>
+    <td> 8624fc6 </td>
+    <td> docs(collaboration): documented controller methods </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US13 </td>
+    <td> 5d678e3 </td>
+    <td> feat(collaboration): added comment controller </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US13 </td>
+    <td> b3e85f4 </td>
+    <td> feat(collaboration): added delete method </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US12 </td>
+    <td> c97bbf3 </td>
+    <td> docs: Added javadocs </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US12 </td>
+    <td> 401ddae </td>
+    <td> docs/feat(content): added controller methods and documentend api responses </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US12 </td>
+    <td> 32db24f </td>
+    <td> feat(content): Made some changes in the portfolio </td>
+    <td></td>
+    <td> 21/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US12 </td>
+    <td> 2fcc162 </td>
+    <td> feat/chore(content): Added default values to Portfolio </td>
+    <td></td>
+    <td> 20/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US12 </td>
+    <td> b65e029 </td>
+    <td> feat(content): Added repositories and made some changes </td>
+    <td></td>
+    <td> 20/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> feature/US12 </td>
+    <td> 6a6106c </td>
+    <td> feat/refactor(content): Added entities </td>
+    <td></td>
+    <td> 20/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> c54fc65 </td>
+    <td> fix: fixed cors configured </td>
+    <td></td>
+    <td> 24/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> 69644ae </td>
+    <td> chore: changed java version for deployment </td>
+    <td></td>
+    <td> 24/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> 76983dc </td>
+    <td> chore: configured release plugins for deployment </td>
+    <td></td>
+    <td> 24/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> f6d23df </td>
+    <td> chore: configured cors </td>
+    <td></td>
+    <td> 23/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> 86e5181 </td>
+    <td> docs(monetization): documented payment endpoints </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> b8223bb </td>
+    <td> docs(monetization): documented domain and application with java docs </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> 1b8687 </td>
+    <td> fix: Corrected paypal configuration </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> 1c29277 </td>
+    <td> fix: Corrected api configurations </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> a36e3d9 </td>
+    <td> fix: corrected id type and paypal dependencies </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> 9e6860e </td>
+    <td> Merge remote-tracking branch 'origin/feature/US24' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> 6efe202 </td>
+    <td> Merge remote-tracking branch 'origin/feature/US23' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> a3e3a1a </td>
+    <td> Merge remote-tracking branch 'origin/feature/US19' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> b4e9301 </td>
+    <td> Merge remote-tracking branch 'origin/feature/US15' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> develop </td>
+    <td> 8728e50 </td>
+    <td> Merge remote-tracking branch 'origin/feature/US13' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> 88465b2 </td>
+    <td> feat: add deployed mysql database </td>
+    <td></td>
+    <td> 23/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> 1b8687 </td>
+    <td> fix: Corrected paypal configuration </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> 1c29277 </td>
+    <td> fix: Corrected api configurations </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> a36e3d9 </td>
+    <td> fix: corrected id type and paypal dependencies </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> 9e6860e </td>
+    <td> Merge remote-tracking branch 'origin/feature/US24' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> 6efe202 </td>
+    <td> Merge remote-tracking branch 'origin/feature/US23' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> a3e3a1a </td>
+    <td> Merge remote-tracking branch 'origin/feature/US19' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> b4e9301 </td>
+    <td> Merge remote-tracking branch 'origin/feature/US15' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+
+  <tr> 
+    <td> API </td>
+    <td> main </td>
+    <td> 8728e50 </td>
+    <td> Merge remote-tracking branch 'origin/feature/US13' into develop </td>
+    <td></td>
+    <td> 22/06/24 </td>
+  </tr>
+</table>
+
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.
 
 En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
