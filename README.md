@@ -319,13 +319,13 @@ TB2 <br>
 Durante el sprint 3, asumí la responsabilidad de coordinar al equipo con respecto a las tareas realizadas en el backend. Me aseguré de que la arquitectura del sistema fuera consistente con los requisitos y alcances establecidos por el profesor, y de que las funcionalidades implementadas cumplieran con las expectativas. Además, supervisé el progreso de las tareas, resolví problemas técnicos y me aseguré de que el equipo trabajara de manera eficiente y colaborativa para alcanzar nuestros objetivos.
 
 </td>
-            </td> TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.
-            
-TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes del grupo. 
-            
-TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. </td>
 
+<td> TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio. <br>
             
+TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes del grupo. <br>
+            
+TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. 
+</td>         
 
   <tr>
             <td align = "center">Conoce al menos un sector
@@ -394,11 +394,11 @@ TB2 <br>
 En esta tercera entrega del proyecto, se realizaron mejoras en el frontend y se avanzó con la primera versión del backend. También se llevaron a cabo entrevistas de validación con los segmentos objetivo para obtener sugerencias y mejoras para nuestra aplicación. Además, se produjeron los videos "About the Product" y "About the Team", en los cuales hicimos una retrospectiva del trabajo realizado.
 
 </td>
-            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
+            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.<br>
             
-            
+
 TP: 
-En esta etapa del proyecto, se realizo la implementación del frontend de la web app siguiendo un enfoque de DDD y siguiendo las lineaciones establecidas por nuestras historias de usuario. Se aplicaron temas realcionados al desarollo de interfaces de usuario, tales como principios de UX design como también Inclusive design.
+En esta etapa del proyecto, se realizo la implementación del frontend de la web app siguiendo un enfoque de DDD y siguiendo las lineaciones establecidas por nuestras historias de usuario. Se aplicaron temas realcionados al desarollo de interfaces de usuario, tales como principios de UX design como también Inclusive design.<br>
 
 
 TB2: 
