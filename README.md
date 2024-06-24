@@ -311,6 +311,9 @@ Durante el sprint 2 me encargue de realizar tareas relacionadas al consumo y fun
 TB2 <br>
 Durante el sprint 3 me encargue de gestionar al equipo con respecto a las tareas realizadas en el backend, me encargue de que la arquitectura sea consistente con los alcances brindados por el profesor y de que la funcionalidad sea la esperada.
 
+TF1 <br>
+En esta ùltima entrega, hemos cumplido con exito los requerimientos establecidos en nuestros technical user stories, el equipo aporto significativamente en el proceso de desarollo del presente trabajo. Asimismo, en el grupo pudimos aprender sobre nuestros errores en las entregas pasadas y pudimos hacer hincapie en solucionar dichos percances.
+
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
@@ -398,6 +401,9 @@ Para la entrega del segundo hito del proyecto, se cumplieron los requisitos esta
 TB2 <br>
 En esta tercera entrega del proyecto, se realizaron mejoras en el frontend y se avanzó con la primera versión del backend. También se llevaron a cabo entrevistas de validación con los segmentos objetivo para obtener sugerencias y mejoras para nuestra aplicación. Además, se produjeron los videos "About the Product" y "About the Team", en los cuales hicimos una retrospectiva del trabajo realizado.
 
+TF1 <br>
+Pata esta ultina entrega, se realizo la implementación completa de nuestro backend, apoyados por el enfoque de DDD y la arquitectura cqrs. Asimismo la comprensión de buenas practicas en el desarollo como los principios SOLID contribuyeron en mejorar sustancialmente la disttibución de nuestro software, asi como comprender los beneficios de trabajar con buenas practicas en el desarollo.
+
 </td>
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.<br>
             
@@ -407,7 +413,13 @@ En esta etapa del proyecto, se realizo la implementación del frontend de la web
 
 
 TB2: 
-En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo una ddd y considerando nuestras technical user stories, como también las historias de usuario realacionadas a los requisitos no funcionales. Se aplicaron temas como cqrs architecture y ddd asi como buenas practicas en el desarollo de servicios web en Spring, asi como también se hizo uso de algunos de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov substitute.</td>
+En esta etapa del proyecto, se realizo la implementación parcial del backend de la web app siguiendo un enfoque ddd y considerando nuestras technical user stories como parte de nuestros requisitos no funcionales. Se aplicaron temas como cqrs architecture y ddd asi como buenas practicas en el desarollo de servicios web en Spring, asi como también se hizo uso de algunos de algunos principios SOLID, dentro de los cuales se destacan el Single responsibility, dependency inversion y como tambien liskov .
+substitute.
+
+TF1: 
+En esta etapa del proyecto, se realizo la implementación completa del backend de la web app siguiendo un enfoque ddd y considerando nuestras technical user stories como parte de nuestros requisitos no funcionales, se agregaron temas con la seguridad de nuestra API usando JWT y el esquema de bearer authentication.
+
+</td>
        <tr>
 </table>
 
