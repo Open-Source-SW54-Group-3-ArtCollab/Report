@@ -275,6 +275,9 @@ En esta entrega, el trabajo  donde se desarrollo el front de nuestra aplicacion 
 TB2 <br>
 En este avance se trabajo mendiante el uso de github mediante diferentes branches cada una correspondiente a las User Stories destinadas a la API.
 
+TF1 <br>
+En esta entrega se completo todos los endpoints de la API cada uno con su respectiva documentacion. Ademas, se logro desplegar la api y posteriormente su conexion con el frontend, asegurando una aplicacion web completa.
+
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
 Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de 
@@ -367,7 +370,10 @@ TP1 <br>
 En el avance del trabajo, se reaaizo los componentes que conforman el desarrollo del frontend de la aplicacion web. Se completo la creacion del API necesario para al app y se logro desplegarla.
 
 TB2 <br>
-Se esta aplicando una arquitectura por capas adoptando codificación asíncrona en cada una de ellas. Permitiendo buenas practicas para un codigo sostenible a largo plazo.
+Se esta aplicando una arquitectura por capas adoptando codificación asíncrona en cada una de ellas. Permitiendo buenas practicas para un codigo sostenible a largo plazo.}
+
+TF1 <br>
+En esta ultima entrega se logro completar satisfactoriamente cada uno de los endpoints del backend implementando la seguridad por medio de JWT con un esquema de Bearer para la seguridad de la API asi garantizando que solo el Administrador pueda visualizar y realizar cambios a la API.
 
 Alvarez Araguache, Samira Jetzabel <br>
 TB1 <br>
