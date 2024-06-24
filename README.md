@@ -111,6 +111,12 @@ TB2: Se han cumplido las tareas designadas para la entrega del TB2, las cuales h
             <td> Alvarez Araguache, Samira Jetzabel<br><br>Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Luna Capuñay, Italo D'Alessandro</td>
             <td>Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y al capítulo de Conclusiones. </td>
         </tr>
+<tr>
+<td align = "center">TF</td>
+<td>24/06/2024</td>
+<td> Alvarez Araguache, Samira Jetzabel<br><br>Amaro Villanueva, Camila Elena<br><br>Cuadros Rodriguez, Juan Alejandro<br><br>Huilca Chipana, Gustavo<br><br>Jave Diaz,  Mathias Alejandro<br><br>Luna Capuñay, Italo D'Alessandro</td>
+<td>Se agregó el contenido del capítulo 5, apartados 5.2.4, 5.2.4.1, 5.2.4.2, 5.2.4.3, 5.2.4.4, 5.2.4.5, 5.2.4.6, 5.2.4.7, 5.2.4.8 y al capítulo de Conclusiones.</td>
+</tr>
 </table>
 <br>
 
@@ -340,6 +346,8 @@ El desarrollo del backend se ha finalizado exitosamente, incorporando JavaDocs y
 TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos de entrega y validar que los resultados sean los esperados, asi como cumplir con nuestros requisitos funcionales. Esto implicó establecer una fecha limite para la entrega de cada funcionalidad  asi como también la revisión constante de cada avance presentado por los integrantes del grupo. <br>
             
 TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. 
+
+TF1: Como equipo, hemos logrado completar con éxito el desarrollo del backend de la aplicación, asegurando que cumpla con los requisitos y estándares establecidos. Además, hemos trabajado de manera colaborativa y eficiente para documentar el proceso de desarrollo y garantizar que el sistema funcione de manera óptima. Esta colaboración y coordinación efectiva nos ha permitido superar obstáculos y entregar un trabajo de calidad en el tiempo establecido. </td>
 </td>         
 
   <tr>
