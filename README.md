@@ -7559,12 +7559,6 @@ Se puede acceder a nuestra API desde el siguiente link: https://api-production-5
 
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.
 
-En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi.
-En el alcance del sprint, se han desarollado los bounded context de monetization, collaboration, user y content.
-
-Se adjunta el link del repositorio de la API en Github.: https://github.com/Open-Source-SW54-Group-3-ArtCollab/API
-
-
 <table>
   <tr>
    <th style="text-align:center;"><strong> Bounded Context </strong> </th>
@@ -7579,32 +7573,32 @@ Se adjunta el link del repositorio de la API en Github.: https://github.com/Open
 
   <tr>
    <th style="text-align:center;"> <strong> User Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/users/Reader </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1249000958273257574/image.png?ex=6665b649&is=666464c9&hm=53aad189368b6aa74b6917a6e2932c78807186b0e9016802135f84113415288f&=&format=webp&quality=lossless&width=1072&height=176"> </th>
+    <th style="text-align:center;"> <strong> api/v1/Reader </strong> </th>
+    <th> <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254847830573715661/image.png?ex=667afb9c&is=6679aa1c&hm=bd043898f37b22da19f74f8d897fd63e4b6c0e543ab4e5ff67b62a36f6de6322&"> </th>
 </tr>
 
   <tr>
    <th style="text-align:center;"> <strong> Content Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/content/Template </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1249000077545177169/image.png?ex=6665b577&is=666463f7&hm=f3693a0b443f3087b779585a9695d4799309e802aa8be294800b77bc1ab891bc&=&format=webp&quality=lossless&width=1060&height=176"> </th>
+    <th style="text-align:center;"> <strong> api/v1/Template </strong> </th>
+    <th> <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254851202278232084/image.png?ex=667afec0&is=6679ad40&hm=5774fdc3eb8f7ea409f36ec6b9818b16e081e9a77bd73547e70149cfca057d71&"> </th>
   </tr>
 
   <tr>
    <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commission </strong> </th>
     <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248992165112316047/image.png?ex=6665ae19&is=66645c99&hm=a1abcab2c05ac27818f260ea119db146b491febdbefb3b8893521226b4dd49c2&=&format=webp&quality=lossless&width=1084&height=280"> </th>
   </tr>
 
 <tr>
     <th style="text-align:center;"> <strong> Monetization Bounded Context </strong> </th>
      <th style="text-align:center;"> <strong> api/v1/payments </strong> </th>
-     <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1254202096731951115/image.png?ex=6678a239&is=667750b9&hm=e701fb66ffc420d1cdaaaf5ec9b7bd6a15ac0120ae6b99e7678661fc4534ab74&=&format=webp&quality=lossless&width=1080&height=151"> </th>
+     <th> <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254853228953342043/image.png?ex=667b00a3&is=6679af23&hm=8a7301194ab13a3063c7a3bc61612842f9382b69e609f1f46f2c4e3bf78eda16&"> </th>
 </tr>
 
   <tr>
    <th style="text-align:center;"> <strong> Collaboration Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248997930451468320/image.png?ex=6665b377&is=666461f7&hm=42d07ad838a12c7d07b7d184a109c545048b38df6617e78f5bbb29191b4fe57a&=&format=webp&quality=lossless&width=1072&height=176"> </th>
+    <th> <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254853228953342043/image.png?ex=667b00a3&is=6679af23&hm=8a7301194ab13a3063c7a3bc61612842f9382b69e609f1f46f2c4e3bf78eda16&"> </th>
   </tr>
 
 <tr>
@@ -7612,6 +7606,12 @@ Se adjunta el link del repositorio de la API en Github.: https://github.com/Open
     <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
     <th> <img src="https://media.discordapp.net/attachments/1235639705157107719/1248991780884447262/image.png?ex=6665adbd&is=66645c3d&hm=ab510cdf3d7980331fb513f1a1bfd934f39ca164577315444232afbe8612d210&=&format=webp&quality=lossless&width=2152&height=608"> </th>
   </tr>
+
+<tr>
+<th style="text-align:center;"> <strong> Authentication </strong> </th>
+<th style="text-align:center;"> <strong> api/v1/authentication </strong> </th>
+<th> <img src="https://cdn.discordapp.com/attachments/1235639705157107719/1254843027772407878/image.png?ex=667af723&is=6679a5a3&hm=457362cd4775e3cfe94dff35b9a4e1b3efbbe16541006f7c9ba81223939157f7&"> </th>
+</tr>
 
 </table>
 
