@@ -347,7 +347,7 @@ TP: Como equipo, implementamos diversas estrategias para gestionar los tiempos d
             
 TB2: Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final. 
 
-TF1: Como equipo, hemos logrado completar con éxito el desarrollo del backend de la aplicación, asegurando que cumpla con los requisitos y estándares establecidos. Además, hemos trabajado de manera colaborativa y eficiente para documentar el proceso de desarrollo y garantizar que el sistema funcione de manera óptima. Esta colaboración y coordinación efectiva nos ha permitido superar obstáculos y entregar un trabajo de calidad en el tiempo establecido. </td>
+TF1: Como equipo, coordinamos los tiempos de entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para cada funcionalidad con el fin de evitar contratiempos al momento de realizar el merge, también logramos exitosamente el deployment de nuestro backend gracias a la coordinación en equipo para cumplir a tiempo las tareas asignadas, por lo tanto destacamos la coordinación y comunicación constante como parte de nuestros factores de éxito.
 </td>         
 
   <tr>
