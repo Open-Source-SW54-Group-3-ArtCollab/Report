@@ -2032,8 +2032,6 @@ Enlace de Miro: https://miro.com/app/board/uXjVKXvjT-4=/?share_link_id=428179149
 <td>Criterios de Aceptación</td>
 <td>Relación Epic ID</td>
 </tr>
-</tbody>
-</table>
 
 </tr>
 <tr class="even">
@@ -2682,7 +2680,7 @@ Y se niega el acceso al recurso protegido, asegurando la integridad de los datos
 
 <td>7</td>
 </tr>
-
+</tbody>
 </table>
 <hr>
 
