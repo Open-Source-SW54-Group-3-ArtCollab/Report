@@ -2978,6 +2978,26 @@ dibujar</p>
 <td>Alta</td>
 <td>3</td>
 </tr>
+<tr class="odd">
+<td>26</td>
+<td>US26</td>
+<td>Autenticación y autorización seguras para administradores con JWT y esquema Bearer</td>
+<td><p><strong>Como</strong> administrador,</p>
+<p><strong>quiero</strong> poder autenticarme de manera segura en la API utilizando jwt,</p>
+<p><strong>para</strong> acceder y administrar los recursos protegidos por la API de manera segura.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>27</td>
+<td>US27</td>
+<td>Consultas seguras de administradores a la API utilizando JWT y esquema Bearer</td>
+<td><p><strong>Como</strong> administrador del sistema,</p>
+<p><strong>quiero</strong> poder realizar consultas seguras a la API utilizando mi JWT con esquema Bearer,</p>
+<p><strong>para</strong> acceder y modificar datos según mis permisos y roles asignados.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
 </tbody>
 </table>
 # Capítulo IV: Product Design
