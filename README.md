@@ -7064,7 +7064,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 47 <td>
+          <td> 36 <td>
       </tr>
   </table>
 
