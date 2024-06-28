@@ -7045,7 +7045,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
-        <td> Durante el desarrolo del Sprint 3, se logró implementar con éxito de forma parcial el backend, la cual fue probada utilizando Swagger y fue desplegada usando railway. Se llego a cumplir con todos los requisitos funcionales indicados en el sprint <td>
+        <td> Durante el desarrolo del Sprint 3, se logró implementar con éxito de forma parcial el backend, la cual fue probada utilizando Swagger. Se llego a cumplir con todos los requisitos funcionales indicados en el sprint <td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
@@ -7064,7 +7064,7 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 36 <td>
+          <td> 47 <td>
       </tr>
   </table>
 
